@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mike/demo/Messi/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/mike/.android/build-cache/4d1cc684105f5609524252dc4270b09d192e9068/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/mike/demo/Messi/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/mike/.android/build-cache/4d1cc684105f5609524252dc4270b09d192e9068/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

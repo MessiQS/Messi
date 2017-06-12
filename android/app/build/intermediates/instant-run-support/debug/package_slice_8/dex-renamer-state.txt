@@ -1,0 +1,4 @@
+#Sat Jun 10 11:43:25 CST 2017
+base.0=/Users/mike/demo/Messi/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8
+renamed.0=classes.dex
+file.0=/Users/mike/demo/Messi/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex

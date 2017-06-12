@@ -1,0 +1,1 @@
+exports.Greet = require('./greeting');

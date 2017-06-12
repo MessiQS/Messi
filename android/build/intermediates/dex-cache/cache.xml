@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mike/.android/build-cache/e9d8a78baf41fc8762b7e24c881883ee70268d32/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e92817313900fb0ca310e46d9e4e2cb6150b564/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mike/.android/build-cache/e9d8a78baf41fc8762b7e24c881883ee70268d32/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-1.5_afce3e07220e0d96062e9b2ffc23fb4241bd84dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mike/demo/Messi/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fe1292488f6a0530d5ad3bbad6a2228d7a7c2d73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mike/demo/Messi/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="27e58cf5184eaa0ddb847a491de4823a4e16e5fd">
+        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_91773be135248d5186cc4f245b37097af991f4b8/classes.dex" />
+    </item>
+
+</items>
