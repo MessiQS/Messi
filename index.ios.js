@@ -37,7 +37,7 @@ const Messi  = TabNavigator({
             }},
     },
     {
-        animationEnabled: true, // 切换页面时是否有动画效果
+        animationEnabled: false, // 切换页面时是否有动画效果
         tabBarPosition: 'bottom', // 显示在底端，android 默认是显示在页面顶端的
         swipeEnabled: true, // 是否可以左右滑动切换tab
         backBehavior: 'none', // 按 back 键是否跳转到第一个Tab(首页)， none 为不跳转
@@ -50,10 +50,10 @@ const Messi  = TabNavigator({
             },
             style: {
                 backgroundColor: '#fff', // TabBar 背景色
-                height: 60
+                height: 44
             },
             labelStyle: {
-                fontSize: 14, // 文字大小
+                fontSize: 10, // 文字大小
             },
         }
     });

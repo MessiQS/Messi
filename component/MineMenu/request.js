@@ -27,16 +27,13 @@ import {
     Button
 } from 'native-base';
 
-export default class Account extends Component {
-    static navigationOptions = ({ navigation }) => ({
-        title: `Chat with ${navigation.state.params.user}`,
-    });
+export default class Request extends Component {
     render() {
         return (
             <Container contentContainerStyle={{flex: 1}}>
                 <Content>
                     <Text>
-                        版本信息
+                        问题反馈
                     </Text>
                 </Content>
             </Container>

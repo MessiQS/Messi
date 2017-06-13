@@ -27,32 +27,46 @@ import {
 } from 'native-base';
 import { StackNavigator } from 'react-navigation';
 
-import  Account  from  './MineMenu/account'
+import  Account  from  './MineMenu/account';
+import  Update from './MineMenu/update';
+import  Request from './MineMenu/request';
 
 class Home extends Component {
+    static navigationOptions = ({ navigation }) => ({
+        title: `我的`,
+    });
     render() {
         // const {height: screenHeight} = Dimensions.get('window');
         return (
-            <Container contentContainerStyle={{flex: 1}}>
+            <Container contentContainerStyle={{flex: 1}} style={{backgroundColor:'#F5FCFF'}}>
                 <Content>
                     <View style={{flex: 1, height: 220, alignItems: 'center'}}>
                         <Thumbnail square source={require('../Images/net.jpg')}
                                    style={{width:120,height:120,top:40}} />
                     </View>
                     <List>
-                        <ListItem style={{borderTopColor:'#dcdcdc',borderTopWidth:1}}>
+                        <ListItem button onPress={() =>
+                            this.props.navigation.navigate('Account',
+                                { user: 'Lucy' }
+                            )}
+                                  style={{borderTopColor:'#dcdcdc',borderTopWidth:1}}
+                        >
                             <Text>版本信息</Text>
                             <Right style={{height:20}}>
                                 <Icon name="arrow-forward" />
                             </Right>
                         </ListItem>
-                        <ListItem>
+                        <ListItem button onPress={() =>
+                            this.props.navigation.navigate('Update', { user: 'Lucy' })}
+                        >
                             <Text>版本更新</Text>
                             <Right style={{height:20}}>
                                 <Icon name="arrow-forward" />
                             </Right>
                         </ListItem>
-                        <ListItem>
+                        <ListItem button onPress={() =>
+                            this.props.navigation.navigate('Request', { user: 'Lucy' })}
+                        >
                             <Text>问题反馈</Text>
                             <Right style={{height:20}}>
                                 <Icon name="arrow-forward" />
@@ -60,7 +74,7 @@ class Home extends Component {
                         </ListItem>
                     </List>
                     <View style={{flex: 1, height: 80, alignItems: 'center'}}>
-                        <Button bordered danger onPress={() => this.props.navigation.navigate('Account', { user: 'Lucy' })}>
+                        <Button bordered danger style={{top:30,left:140}}>
                             <Text>退出登录</Text>
                         </Button>
                     </View>
@@ -79,6 +93,18 @@ const Mine = StackNavigator({
     Account:{ screen: Account ,
         navigationOptions:{
             tabBarLabel:'账户详情',
+        }
+    },
+    Update:{
+        screen: Update ,
+        navigationOptions:{
+            tabBarLabel:'版本更新',
+        }
+    },
+    Request:{
+        screen: Request ,
+        navigationOptions:{
+            tabBarLabel:'问题反馈',
         }
     }
 })
