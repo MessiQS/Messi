@@ -13,6 +13,9 @@ import {
 } from 'react-native';
 
 export default class Find extends Component {
+    static navigationOptions = ({ navigation }) => ({
+        title:'发现'
+    });
     render() {
         return (
             <View style={styles.container}>

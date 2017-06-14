@@ -36,7 +36,6 @@ class Home extends Component {
         title: `我的`,
     });
     render() {
-        // const {height: screenHeight} = Dimensions.get('window');
         return (
             <Container contentContainerStyle={{flex: 1}} style={{backgroundColor:'#F5FCFF'}}>
                 <Content>

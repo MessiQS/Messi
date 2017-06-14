@@ -28,6 +28,11 @@ import {
 } from 'native-base';
 
 export default class Request extends Component {
+    static navigationOptions = ({ navigation }) => ({
+        title: `问题反馈`,
+        tabBarVisible:false,
+
+    });
     render() {
         return (
             <Container contentContainerStyle={{flex: 1}}>

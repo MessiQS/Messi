@@ -29,7 +29,8 @@ import {
 
 export default class Account extends Component {
     static navigationOptions = ({ navigation }) => ({
-        title: `Chat with ${navigation.state.params.user}`,
+        title: `版本信息${navigation.state.params.user}`,
+        tabBarVisible:false,
     });
     render() {
         return (
