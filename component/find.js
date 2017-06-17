@@ -76,7 +76,6 @@ const calenderOptiones={
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        justifyContent: 'center',
         alignItems: 'center',
         backgroundColor: '#F5FCFF',
     },
@@ -85,10 +84,18 @@ const styles = StyleSheet.create({
         color: '#333333',
         marginBottom: 5,
     },
+    welcome:{
+        flex: 3,
+
+    },
     calender:{
-        borderWidth: 1,
-        borderColor: 'gray',
-        height: 250
+        borderTopWidth: 1,
+        paddingTop: 5,
+        width:'100%',
+        borderBottomWidth: 1,
+        borderColor: '#eee',
+        height: 350,
+        flex: 5,
     }
 });
 
