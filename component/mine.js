@@ -31,7 +31,7 @@ import  Account  from  './MineMenu/account';
 import  Update from './MineMenu/update';
 import  Request from './MineMenu/request';
 
-class Home extends Component {
+class Mine extends Component {
     static navigationOptions = ({ navigation }) => ({
         title: `我的`,
     });
@@ -83,30 +83,30 @@ class Home extends Component {
     }
 }
 
-const Mine = StackNavigator({
-    Home: { screen: Home ,
-        navigationOptions:{
-            tabBarLabel:'我的',
-        },
-    },
-    Account:{ screen: Account ,
-        navigationOptions:{
-            tabBarLabel:'账户详情',
-        }
-    },
-    Update:{
-        screen: Update ,
-        navigationOptions:{
-            tabBarLabel:'版本更新',
-        }
-    },
-    Request:{
-        screen: Request ,
-        navigationOptions:{
-            tabBarLabel:'问题反馈',
-        }
-    }
-})
+// const Mine = StackNavigator({
+//     Home: { screen: Home ,
+//         navigationOptions:{
+//             tabBarLabel:'我的',
+//         },
+//     },
+//     Account:{ screen: Account ,
+//         navigationOptions:{
+//             tabBarLabel:'账户详情',
+//         }
+//     },
+//     Update:{
+//         screen: Update ,
+//         navigationOptions:{
+//             tabBarLabel:'版本更新',
+//         }
+//     },
+//     Request:{
+//         screen: Request ,
+//         navigationOptions:{
+//             tabBarLabel:'问题反馈',
+//         }
+//     }
+// })
 export default Mine;
 const styles = StyleSheet.create({
     container: {
