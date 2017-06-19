@@ -230,6 +230,7 @@ export default (componentStyleName, componentStyle = {}, mapPropsToStyleNames, o
         } else {
           this._root = component;
         }
+        this.wrappedInstance = this._root;
       }
 
       hasStyleNameChanged(nextProps, styleNames) {

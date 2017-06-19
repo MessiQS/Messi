@@ -230,6 +230,7 @@ this._root=component._root;
 }else{
 this._root=component;
 }
+this.wrappedInstance=this._root;
 }},{key:'hasStyleNameChanged',value:function hasStyleNameChanged(
 
 nextProps,styleNames){
@@ -332,7 +333,7 @@ _react2.default.createElement(WrappedComponent,_extends({},
 this.props,
 addedProps,{
 style:style,
-ref:this.setWrappedInstance,__source:{fileName:_jsxFileName,lineNumber:331}})));
+ref:this.setWrappedInstance,__source:{fileName:_jsxFileName,lineNumber:332}})));
 
 }}]);return StyledComponent;}(_react2.default.Component);StyledComponent.contextTypes={theme:_Theme.ThemeShape,parentPath:_react.PropTypes.array};StyledComponent.childContextTypes={parentPath:_react.PropTypes.array};StyledComponent.propTypes={style:_react.PropTypes.object,styleName:_react.PropTypes.string,virtual:_react.PropTypes.bool};StyledComponent.defaultProps={virtual:options.virtual};StyledComponent.displayName='Styled('+componentDisplayName+')';StyledComponent.WrappedComponent=WrappedComponent;
 
