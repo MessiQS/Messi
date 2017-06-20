@@ -66,7 +66,7 @@ const MainTab  = TabNavigator({
             })
         },
         message: { screen: Message ,
-            navigationOptions: ()=> TabOptions('题库',MainIcon,MainIcon,'题库')
+            navigationOptions: ()=> TabOptions('题库',MainIcon,MainIcon,'选择要参加的考试')
         },
         find: { screen: Find ,
             navigationOptions: ()=> TabOptions('发现',MainIcon,MainIcon,'发现')

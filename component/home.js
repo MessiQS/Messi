@@ -25,7 +25,7 @@ export default class Find extends Component {
                     autoplay={true}
                     height={200}
                     showsPagination={false}
-                    scrollsToTop={false}
+                    scrollsToTop={true}
                 >
                     <View style={styles.slide1}>
                         <Text style={styles.text}>Hello Swiper</Text>
@@ -64,7 +64,8 @@ const styles = StyleSheet.create({
         backgroundColor: '#F5FCFF',
     },
     content:{
-      flex:1
+      flex:1,
+        alignItems: 'center',
     },
     instructions: {
         textAlign: 'center',
@@ -72,7 +73,7 @@ const styles = StyleSheet.create({
         marginBottom: 5,
     },
     topcard:{
-        top:80,
+        top:0,
         width:'80%',
         height:150,
         alignItems: 'center',
@@ -82,7 +83,7 @@ const styles = StyleSheet.create({
     nowadays:{
         height:40,
         fontSize:20,
-        top:50,
+        top:0,
     },
     description:{
         height:40,
@@ -93,7 +94,7 @@ const styles = StyleSheet.create({
         top:30
     },
     buttonarray:{
-        top:100,
+        top:10,
     },
     newquestion:{
         borderWidth:1,

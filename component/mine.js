@@ -4,19 +4,18 @@
  * @flow
  */
 
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 import {
     StyleSheet,
     Image,
-    // View
+    Text,
+    View
 } from 'react-native';
 import {
     Container,
-    Text,
     Header,
     Title,
     Body,
-    View,
     Thumbnail,
     Content,
     List,
@@ -25,104 +24,132 @@ import {
     Icon,
     Button
 } from 'native-base';
-import { StackNavigator } from 'react-navigation';
 
-import  Account  from  './MineMenu/account';
-import  Update from './MineMenu/update';
-import  Request from './MineMenu/request';
+class MineListItem extends Component {
+    constructor(props) {
+        super(props);
+        this.state = props;
+        console.log(props);
+    }
 
-class Mine extends Component {
-    static navigationOptions = ({ navigation }) => ({
-        title: `我的`,
-    });
     render() {
         return (
-            <Container contentContainerStyle={{flex: 1}} style={{backgroundColor:'#F5FCFF'}}>
-                <Content>
-                    <View style={{flex: 1, height: 220, alignItems: 'center'}}>
-                        <Thumbnail square source={require('../Images/net.jpg')}
-                                   style={{width:120,height:120,top:40}} />
-                    </View>
+            <ListItem button onPress={() =>
+                this.props.navigation.navigate(this.props.item.sref,
+                    this.props.item.info
+                )}
+                      style={{borderTopColor: '#dcdcdc', borderTopWidth: this.props.item.tipBorder}}
+            >
+                <Text>版本信息</Text>
+                <Right style={{height: 20}}>
+                    <Icon name="arrow-forward"/>
+                </Right>
+            </ListItem>
+        )
+    }
+}
+class Mine extends Component {
+    constructor(props) {
+        super(props);
+        this.state = {
+            navigation: props.navigation
+        }
+    }
+
+    listItemArray = [
+        {
+            sref: 'Account',
+            name: '版本信息',
+            info: {user: 'Lucy'},
+            tipBorder:1
+        },
+        {
+            sref: 'Update',
+            name: '版本更新',
+            info: {user: 'Lucy'},
+            tipBorder:0
+        }, {
+            sref: 'Request',
+            name: '问题反馈',
+            info: {user: 'Lucy'},
+            tipBorder:0
+        }
+
+    ];
+
+    render() {
+        return (
+            <View style={styles.container}>
+                <View style={{flex: 1, height: 220, alignItems: 'center'}}>
+                    <Thumbnail square source={require('../Images/net.jpg')}
+                               style={{
+                                   width: 90,
+                                   height: 90,
+                                   top: 30,
+                                   borderRadius: 45
+                               }}/>
+                    <Text style={styles.phoneNumber}>
+                        18355570987
+                    </Text>
+                </View>
+                <Container contentContainerStyle={{flex: 1}}
+                           style={{
+                               backgroundColor: '#fff',
+                               width: '100%',
+                               flex: 2
+                           }}
+                >
                     <List>
-                        <ListItem button onPress={() =>
-                            this.props.navigation.navigate('Account',
-                                { user: 'Lucy' }
-                            )}
-                                  style={{borderTopColor:'#dcdcdc',borderTopWidth:1}}
-                        >
-                            <Text>版本信息</Text>
-                            <Right style={{height:20}}>
-                                <Icon name="arrow-forward" />
-                            </Right>
-                        </ListItem>
-                        <ListItem button onPress={() =>
-                            this.props.navigation.navigate('Update', { user: 'Lucy' })}
-                        >
-                            <Text>版本更新</Text>
-                            <Right style={{height:20}}>
-                                <Icon name="arrow-forward" />
-                            </Right>
-                        </ListItem>
-                        <ListItem button onPress={() =>
-                            this.props.navigation.navigate('Request', { user: 'Lucy' })}
-                        >
-                            <Text>问题反馈</Text>
-                            <Right style={{height:20}}>
-                                <Icon name="arrow-forward" />
-                            </Right>
-                        </ListItem>
+                        <MineListItem
+                            navigation={this.state.navigation}
+                            item={this.listItemArray[0]}
+                        />
+                        <MineListItem
+                            navigation={this.state.navigation}
+                            item={this.listItemArray[1]}
+                        />
+                        <MineListItem
+                            navigation={this.state.navigation}
+                            item={this.listItemArray[2]}
+                        />
                     </List>
-                    <View style={{flex: 1, height: 80, alignItems: 'center'}}>
-                        <Button bordered danger style={{top:30,left:140}}>
-                            <Text>退出登录</Text>
-                        </Button>
+                    <View style={styles.button}>
+                        <View>
+                            <Button bordered danger style={{borderColor:'#608fd3',width:''}}>
+                                <Text style={styles.outLogin}>退出登录</Text>
+                            </Button>
+                        </View>
                     </View>
-                </Content>
-            </Container>
+                </Container>
+
+            </View>
         );
     }
 }
 
-// const Mine = StackNavigator({
-//     Home: { screen: Home ,
-//         navigationOptions:{
-//             tabBarLabel:'我的',
-//         },
-//     },
-//     Account:{ screen: Account ,
-//         navigationOptions:{
-//             tabBarLabel:'账户详情',
-//         }
-//     },
-//     Update:{
-//         screen: Update ,
-//         navigationOptions:{
-//             tabBarLabel:'版本更新',
-//         }
-//     },
-//     Request:{
-//         screen: Request ,
-//         navigationOptions:{
-//             tabBarLabel:'问题反馈',
-//         }
-//     }
-// })
 export default Mine;
 const styles = StyleSheet.create({
     container: {
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
+        backgroundColor: '#fff',
     },
-    header:{
-        width:200,
-        height:200,
+    header: {
+        width: 200,
+        height: 200,
     },
-    button:{
-        left:20,
-        top:20,
-        width:120,
-        height:40
+    button: {
+        top: 55,
+        alignItems: 'center'
+    },
+    outLogin:{
+      color:'#608fd3'
+    },
+    phoneNumber: {
+        top: 48,
+        fontSize: 14,
+        color: '#333'
     }
 });
 
