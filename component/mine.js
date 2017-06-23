@@ -115,7 +115,7 @@ class Mine extends Component {
                     </List>
                     <View style={styles.button}>
                         <View>
-                            <Button bordered danger style={{borderColor:'#608fd3',width:''}}>
+                            <Button bordered danger style={{borderColor:'#608fd3'}}>
                                 <Text style={styles.outLogin}>退出登录</Text>
                             </Button>
                         </View>
