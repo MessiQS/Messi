@@ -40,7 +40,7 @@ class MineListItem extends Component {
                 )}
                       style={{borderTopColor: '#dcdcdc', borderTopWidth: this.props.item.tipBorder}}
             >
-                <Text>版本信息</Text>
+                <Text>{this.props.item.name}</Text>
                 <Right style={{height: 20}}>
                     <Icon name="arrow-forward"/>
                 </Right>

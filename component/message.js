@@ -62,6 +62,7 @@ class RepeatItem extends Component {
                     return <ListItem
                         button
                         style={nativeStyle.listItem}
+                        key={value.key}
                     >
                         <Text style={styles.text}>{value.name} {value.haveRead}/{value.number}</Text>
                         <Right>
@@ -85,12 +86,14 @@ export default class Message extends Component {
                 haveRead:100,
                 number:1000,
                 isBuyed:true,
+                key:0,
                 call:this.buyCallback
             },
-            {name:'刷题',
+            {name:'刷题1',
                 haveRead:200,
                 number:1000,
                 isBuyed:false,
+                key:1,
                 call:this.buyCallback}
             ];
     };
