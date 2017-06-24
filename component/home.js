@@ -39,9 +39,17 @@ export default class Find extends Component {
                 </Swiper>
                 <View style={styles.content}>
                     <View style={styles.topcard}>
-                        <Text style={styles.nowadays}>当前题库</Text>
-                        <Text style={styles.description}>言语表达与理解 100/3349</Text>
-                        <Text style={styles.icon}>少一个图标</Text>
+                        <View style={styles.quesTitle}>
+                            <Text style={styles.nowadays}>当前题库</Text>
+                            <Text style={styles.description}>言语表达与理解 100/3349</Text>
+                            <View style={styles.percent}>
+                                <View style={styles.nowPercent}>
+                                </View>
+                            </View>
+                        </View>
+                        <View style={styles.circleChart}>
+                            <Text>123</Text>
+                        </View>
                     </View>
                     <View style={styles.buttonarray}>
                         <Button bordered dark style={{alignItems: 'center'}}>
@@ -64,7 +72,8 @@ const styles = StyleSheet.create({
         backgroundColor: '#F5FCFF',
     },
     content:{
-      flex:1,
+        top:30,
+        flex:1,
         alignItems: 'center',
     },
     instructions: {
@@ -73,22 +82,42 @@ const styles = StyleSheet.create({
         marginBottom: 5,
     },
     topcard:{
-        top:0,
-        width:'80%',
-        height:150,
-        alignItems: 'center',
-        borderWidth:1,
-        borderColor:'#dcdcdc',
+        width:'100%',
+        height:90,
+        borderColor:'#fff',
+        flexDirection:'row',
+    },
+    quesTitle:{
+        flex:4,
+    },
+    circleChart:{
+      flex:1,
     },
     nowadays:{
-        height:40,
-        fontSize:20,
+        left:20,
+        height:20,
+        fontSize:14,
         top:0,
+        fontWeight:'bold',
     },
     description:{
-        height:40,
-        fontSize:20,
-        top:40,
+        left:20,
+        height:20,
+        fontSize:14,
+        fontWeight:'bold',
+    },
+    percent:{
+        top:20,
+        left:20,
+        width:'80%',
+        backgroundColor:'#dde2e6',
+        borderRadius:3,
+    },
+    nowPercent:{
+        width:'60%',
+        backgroundColor:'#23ab9c',
+        borderRadius:3,
+        height:10,
     },
     icon:{
         top:30

@@ -48,6 +48,20 @@ class MineListItem extends Component {
         )
     }
 }
+const nativeStyle = {
+    thumbnail:{
+        width: 90,
+        height: 90,
+        top: 30,
+        borderRadius: 45
+    },
+    container:{
+        backgroundColor: '#fff',
+        width: '100%',
+        flex: 2
+    }
+};
+
 class Mine extends Component {
     constructor(props) {
         super(props);
@@ -82,22 +96,13 @@ class Mine extends Component {
             <View style={styles.container}>
                 <View style={{flex: 1, height: 220, alignItems: 'center'}}>
                     <Thumbnail square source={require('../Images/net.jpg')}
-                               style={{
-                                   width: 90,
-                                   height: 90,
-                                   top: 30,
-                                   borderRadius: 45
-                               }}/>
+                               style={nativeStyle.thumbnail}/>
                     <Text style={styles.phoneNumber}>
                         18355570987
                     </Text>
                 </View>
                 <Container contentContainerStyle={{flex: 1}}
-                           style={{
-                               backgroundColor: '#fff',
-                               width: '100%',
-                               flex: 2
-                           }}
+                           style={nativeStyle.container}
                 >
                     <List>
                         <MineListItem

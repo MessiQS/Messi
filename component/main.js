@@ -72,9 +72,8 @@ const MainTab  = TabNavigator({
             navigationOptions: ()=> TabOptions('发现',MainIcon,MainIcon,'发现')
         },
         mine: { screen: Mine ,
-            navigationOptions:{
-                tabBarLabel:'我的',
-            }},
+            navigationOptions:()=> TabOptions('我的',MainIcon,MainIcon,'我的')
+        },
     },
     {
         tabBarPosition:'bottom', // 设置tabbar的位置，iOS默认在底部，安卓默认在顶部。（属性值：'top'，'bottom')
