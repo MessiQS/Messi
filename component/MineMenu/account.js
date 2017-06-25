@@ -44,6 +44,7 @@ var Account = React.createClass({
             <Swiper style={styles.wrapper}
                     showsButtons={true}
                     autoplay={true}
+                    height={300}
             >
                 <View style={styles.slide1}>
                     <Text style={styles.text}>Hello Swiper</Text>
@@ -59,5 +60,3 @@ var Account = React.createClass({
     }
 })
 export default Account;
-
-

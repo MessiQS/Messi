@@ -154,7 +154,7 @@ const styles = StyleSheet.create({
         alignItems: 'center',
     },
     wrapper: {
-        height: 300
+        height: 200
     },
     slide1: {
         flex: 1,

@@ -17,15 +17,18 @@ import Swiper from 'react-native-swiper';
 
 
 const nativeStyle = {
-    thumbnail: {
-        width: 90,
-        height: 90,
-        top: 30,
-        borderRadius: 45
-    },
     container: {
         backgroundColor: '#fff',
         width: '100%',
+    },
+    listItem:{
+        borderTopColor: '#dcdcdc',
+        borderTopWidth: 0,
+        height:60,
+        top:10
+    },
+    right:{
+        height:52
     }
 };
 export default class Find extends Component {
@@ -72,15 +75,15 @@ export default class Find extends Component {
                                 this.props.navigation.navigate('Account',{user:1})
                             }
                                 }
-                                      style={{borderTopColor: '#dcdcdc', borderTopWidth: 0}}
+                                      style={nativeStyle.listItem}
                             >
                                 <Left>
                                     <View style={styles.orange}></View>
                                 </Left>
                                 <Body>
-                                    <Text>新题</Text>
+                                    <Text style={styles.bodyText}>新题</Text>
                                 </Body>
-                                <Right>
+                                <Right style={nativeStyle.right}>
                                     <Text>
                                         300/5000
                                     </Text>
@@ -91,34 +94,28 @@ export default class Find extends Component {
                         <ListItem icon onPress={() =>
                             this.props.navigation.navigate('Account',{}
                             )}
-                                  style={{borderTopColor: '#dcdcdc', borderTopWidth: 0,}}
+                                  style={nativeStyle.listItem}
                         >
                             <Left>
                                 <View style={styles.red}></View>
                             </Left>
-                            <Body>
-                            <Text >抗遗忘</Text>
+                            <Body >
+                                <Text style={styles.bodyText}>抗遗忘</Text>
                             </Body>
-                            <Right>
+                            <Right style={nativeStyle.right}>
                                 <Text>
                                     300/5000
                                 </Text>
                                 <Icon name="arrow-forward"/>
                             </Right>
                         </ListItem>
+
                     </Container>
                 </View>
             </View>
         );
     }
 }
-/*
- <Button bordered dark style={{alignItems: 'center'}}>
- <Text style={styles.antiforgetting}>刷新题</Text>
- </Button>
- <Button bordered dark style={{top:20}}>
- <Text style={styles.antiforgetting}>抗遗忘</Text>
- </Button>*/
 const styles = StyleSheet.create({
     container: {
         flex: 1,
@@ -127,9 +124,9 @@ const styles = StyleSheet.create({
     },
     content: {
         top: 30,
-        flex: 1,
         alignItems: 'center',
-        width: '100%'
+        width: '100%',
+        flex:1
     },
     instructions: {
         textAlign: 'center',
@@ -178,16 +175,21 @@ const styles = StyleSheet.create({
         width:25,
         height:25,
         borderRadius:4,
-        backgroundColor:'#ffa62b'
+        backgroundColor:'#ffa62b',
+        top:-6
     },
     red:{
         width:25,
         height:25,
         borderRadius:4,
-        backgroundColor:'#ff477b'
+        backgroundColor:'#ff477b',
+        top:-6
+    },
+    bodyText:{
+        height:30
     },
     wrapper: {
-        height: 300
+        height: 200
     },
     slide1: {
         flex: 1,

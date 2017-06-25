@@ -77,7 +77,7 @@ const styles = StyleSheet.create({
     container: {
         flex: 1,
         alignItems: 'center',
-        backgroundColor: '#F5FCFF',
+        backgroundColor: '#fff',
     },
     instructions: {
         textAlign: 'center',
@@ -85,17 +85,15 @@ const styles = StyleSheet.create({
         marginBottom: 5,
     },
     welcome:{
-        flex: 3,
+        flex: 1,
 
     },
     calender:{
-        borderTopWidth: 1,
         paddingTop: 5,
-        width:'100%',
-        borderBottomWidth: 1,
+        width:'78%',
         borderColor: '#eee',
         height: 350,
-        flex: 5,
+        flex: 1,
     }
 });
 
