@@ -12,6 +12,7 @@ import {
     View
 } from 'react-native';
 import {Calendar, CalendarList, Agenda, LocaleConfig} from 'react-native-calendars';
+import Echarts from 'native-echarts';
 
 
 LocaleConfig.locales['cn'] = {
@@ -32,6 +33,30 @@ export default class Find extends Component {
         this.onDayPress = this.onDayPress.bind(this);
     }
     render() {
+        const option = {
+            title: {
+                text: ''
+            },
+            tooltip: {},
+            legend: {
+                data: ['遗忘曲线', '永久记忆']
+            },
+            xAxis: {
+                data: ["10-1", "10-2", "10-3", "10-4", "10-5", "10-6", "10-7"]
+            },
+            yAxis: {},
+            series: [{
+                name: '遗忘曲线',
+                type: 'line',
+                data: [120, 50, 40, 35, 32, 31, 30],
+                smooth: true
+            }, {
+                name: '永久记忆',
+                type: 'line',
+                data: [20, 20, 20, 20, 20, 20, 20]
+            }]
+        };
+
         return (
             <View style={styles.container}>
                 <Calendar
@@ -44,9 +69,9 @@ export default class Find extends Component {
                     markingType={'string'}
                     onDayPress={this.onDayPress}
                 />
-                <Text style={styles.welcome}>
-                    发现
-                </Text>
+
+                <Echarts option={option} height={300}/>
+
             </View>
         );
     }

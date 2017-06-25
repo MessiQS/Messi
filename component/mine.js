@@ -95,7 +95,7 @@ class Mine extends Component {
         return (
             <View style={styles.container}>
                 <View style={{flex: 1, height: 220, alignItems: 'center'}}>
-                    <Thumbnail square source={require('../Images/net.jpg')}
+                    <Thumbnail square source={require('../Images/head.png')}
                                style={nativeStyle.thumbnail}/>
                     <Text style={styles.phoneNumber}>
                         18355570987

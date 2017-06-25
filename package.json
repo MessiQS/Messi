@@ -9,6 +9,7 @@
   "dependencies": {
     "@expo/vector-icons": "^5.0.0",
     "native-base": "^2.1.4",
+    "native-echarts": "^0.3.0",
     "react": "16.0.0-alpha.6",
     "react-native": "0.44.2",
     "react-native-calendars": "^1.4.0",

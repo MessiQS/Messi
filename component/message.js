@@ -40,8 +40,8 @@ const nativeStyle = {
     button: {
         borderColor: '#608fd3',
         justifyContent: 'center',
-        height: 30,
-        top: 5
+        top: 5,
+        width:80
     }
 };
 class RepeatItem extends Component {
@@ -66,8 +66,8 @@ class RepeatItem extends Component {
                     >
                         <Text style={styles.text}>{value.name} {value.haveRead}/{value.number}</Text>
                         <Right>
-                            <Button bordered danger style={nativeStyle.button}>
-                                <Text style={styles.outLogin}>￥6.00</Text>
+                            <Button bordered danger small style={nativeStyle.button}>
+                                <Text>￥6.00</Text>
                             </Button>
                             <Text style={styles.tips}>app内购买</Text>
                         </Right>
