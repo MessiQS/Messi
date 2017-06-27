@@ -31,7 +31,7 @@ const headImage = require('../Images/head.png');
 const MainTab  = TabNavigator({
         home: {
             screen: Home,
-            navigationOptions: ()=> TabOptions('题库',bookIcon,bookIcon,'选择要参加的考试')
+            navigationOptions: ()=> TabOptions('题库',bookIcon,bookIcon,'题库')
         },
         message: { screen: Message ,
             navigationOptions: ()=> TabOptions('题库',questionIcon,questionIcon,'选择要参加的考试')

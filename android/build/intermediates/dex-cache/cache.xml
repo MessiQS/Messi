@@ -2,40 +2,211 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/Users/mike/.android/build-cache/e9d8a78baf41fc8762b7e24c881883ee70268d32/output/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/mike/demo/Messi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_9d38e006e918709aa86b36b8f9f785f35a5ba88d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mike/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_46e8446c11b7cb60a5c7744010d5bed725fce7ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mike/demo/Messi/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_dc8b10c00a65d244696ad7266f5484be664b4f72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mike/demo/Messi/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_42ba5b66004da49ecc2feaaf12f0a6d74bdd26d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mike/demo/Messi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_6e1381eda21ccd07561a03d3e3c92d472eda2378.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mike/demo/Messi/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.2/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="af9665a44df26b4098e24c934c1109507845ef5e">
-        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e92817313900fb0ca310e46d9e4e2cb6150b564/classes.dex" />
+        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.44.2_10fee930a44cb9e9f43e761077865ae66d8e5bfb.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/mike/.android/build-cache/e9d8a78baf41fc8762b7e24c881883ee70268d32/output/jars/libs/infer-annotations-1.5.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/mike/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_e48abdf01becf6887c1c5a9926935c676e8238f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mike/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_d8e4be40805cc7f66af7aa25cd7656a39de8c63c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mike/demo/Messi/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_ebff3aca408116ea52ad0a7f2dfc8736aafc3c59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mike/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_c6d8cb5b74ec118feeb07cd890e8949810d168a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mike/demo/Messi/android/app/build/intermediates/exploded-aar/Messi/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
+        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/pre-dexed/debug/Messi-react-native-vector-icons-unspecified_864a58c8b5f6ae5dfaa46118ce2625ccd9fa035d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mike/demo/Messi/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
-        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-1.5_afce3e07220e0d96062e9b2ffc23fb4241bd84dc/classes.dex" />
+        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_a771d89f12bd18fb9765765b014ea396acb9f0e1.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/mike/demo/Messi/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/mike/demo/Messi/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
-        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fe1292488f6a0530d5ad3bbad6a2228d7a7c2d73/classes.dex" />
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_0a15d769577447fd1510c4fb7edb999e56f24044.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/mike/demo/Messi/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/mike/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="27e58cf5184eaa0ddb847a491de4823a4e16e5fd">
-        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_91773be135248d5186cc4f245b37097af991f4b8/classes.dex" />
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_2e729c72d1e50431244e4adb07fab88613062a42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mike/demo/Messi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_31da2c55258d974d8e9c7d610a8548c3b4e0267f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mike/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_07a0b0072534f161cf571ceb0b99df33ba5f6ca0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mike/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_17f7de8abf0f985187d383df1b9aa21ff24c23f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mike/demo/Messi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_80416b2ab7cf20f9ae92e93782609f0699fa9a14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mike/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_28e49a564857f3ea49fde332c7510f36cd3420dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mike/demo/Messi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_7c7d52df43ac367067ea3bf19971ee9ca5e480e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mike/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_8b7d7721e7a946e8ea345f2b25c671e40b58d01e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mike/demo/Messi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_01b19574c4142de3355f241042a19ca70632ac90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mike/demo/Messi/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/mike/demo/Messi/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_b58d3dcad108893450f4faf4ca33e71bed3d2112.jar" />
     </item>
 
 </items>

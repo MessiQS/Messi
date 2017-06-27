@@ -5,298 +5,228 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6541c173-bf81-4464-aa20-afd0bf5d7c52" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Images/net.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/Logs/Build/B827D455-0E83-4713-A96D-03F4E17B1C80.xcactivitylog" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/Logs/Build/E60ADB03-21DC-4744-A245-90AC83E8A20D.xcactivitylog" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/Accelerate-1IKW7DALYIORV.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/Accelerate-1IKW7DALYIORV.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/AudioToolbox-29TRZLCW5QLKV.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/AudioToolbox-29TRZLCW5QLKV.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CFNetwork-3188M7OK0JW08.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CFNetwork-3188M7OK0JW08.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreAudio-DU322UQPMITA.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreAudio-DU322UQPMITA.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreFoundation-J9ZOXGK4ZTRR.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreFoundation-J9ZOXGK4ZTRR.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreGraphics-54UV9QOCX3ZY.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreGraphics-54UV9QOCX3ZY.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreImage-N94D31PLFESQ.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreImage-N94D31PLFESQ.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreLocation-2RB9TGORWT0YQ.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreLocation-2RB9TGORWT0YQ.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreMIDI-2OV5TK5CIMZXQ.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreMIDI-2OV5TK5CIMZXQ.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreText-3W9A51BO0R6G.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreText-3W9A51BO0R6G.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreVideo-1MLDN391V99P4.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreVideo-1MLDN391V99P4.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/Darwin-38I6DLZ5IH61J.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/Darwin-38I6DLZ5IH61J.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/Dispatch-2LX9MWM6UEPQW.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/Dispatch-2LX9MWM6UEPQW.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/Foundation-3DFYNEBRQSXST.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/Foundation-3DFYNEBRQSXST.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/ImageIO-YVI44K06S0WO.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/ImageIO-YVI44K06S0WO.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/MachO-1BMJAO5Q3NM3O.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/MachO-1BMJAO5Q3NM3O.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/MobileCoreServices-N94D31PLFESQ.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/MobileCoreServices-N94D31PLFESQ.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/ObjectiveC-1RQA2RIXJIE19.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/ObjectiveC-1RQA2RIXJIE19.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/OpenGLES-JLMMBGEUW8IK.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/OpenGLES-JLMMBGEUW8IK.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/QuartzCore-23I9VTX2KZMTH.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/QuartzCore-23I9VTX2KZMTH.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/Security-27ZMYP8CODFT0.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/Security-27ZMYP8CODFT0.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/SystemConfiguration-354UAJE49HRJF.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/SystemConfiguration-354UAJE49HRJF.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/UIKit-1V5UHAPTOD24G.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/UIKit-1V5UHAPTOD24G.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/_Builtin_intrinsics-1NKGPDERPGHAD.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/_Builtin_intrinsics-1NKGPDERPGHAD.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/modules.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/os_object-38I6DLZ5IH61J.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/os_object-38I6DLZ5IH61J.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1D1XODM7NCYCU/Darwin-38I6DLZ5IH61J.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1D1XODM7NCYCU/Darwin-38I6DLZ5IH61J.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1D1XODM7NCYCU/modules.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/AVFoundation-2W8OQOO5E005V.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/AVFoundation-2W8OQOO5E005V.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/AudioToolbox-29TRZLCW5QLKV.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/AudioToolbox-29TRZLCW5QLKV.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/AudioUnit-1R3FCTHQHAFWE.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/AudioUnit-1R3FCTHQHAFWE.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CFNetwork-3188M7OK0JW08.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CFNetwork-3188M7OK0JW08.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreAudio-DU322UQPMITA.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreAudio-DU322UQPMITA.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreFoundation-J9ZOXGK4ZTRR.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreFoundation-J9ZOXGK4ZTRR.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreGraphics-54UV9QOCX3ZY.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreGraphics-54UV9QOCX3ZY.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreImage-N94D31PLFESQ.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreImage-N94D31PLFESQ.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreLocation-2RB9TGORWT0YQ.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreLocation-2RB9TGORWT0YQ.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreMIDI-2OV5TK5CIMZXQ.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreMIDI-2OV5TK5CIMZXQ.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreMedia-3JTCZ41S8BKUD.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreMedia-3JTCZ41S8BKUD.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreText-3W9A51BO0R6G.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreText-3W9A51BO0R6G.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreVideo-1MLDN391V99P4.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreVideo-1MLDN391V99P4.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/Darwin-38I6DLZ5IH61J.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/Darwin-38I6DLZ5IH61J.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/Dispatch-2LX9MWM6UEPQW.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/Dispatch-2LX9MWM6UEPQW.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/Foundation-3DFYNEBRQSXST.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/Foundation-3DFYNEBRQSXST.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/JavaScriptCore-N94D31PLFESQ.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/JavaScriptCore-N94D31PLFESQ.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/MachO-1BMJAO5Q3NM3O.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/MachO-1BMJAO5Q3NM3O.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/MediaToolbox-3N6MLXYI7H98P.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/MediaToolbox-3N6MLXYI7H98P.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/ObjectiveC-1RQA2RIXJIE19.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/ObjectiveC-1RQA2RIXJIE19.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/OpenGLES-JLMMBGEUW8IK.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/OpenGLES-JLMMBGEUW8IK.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/QuartzCore-23I9VTX2KZMTH.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/QuartzCore-23I9VTX2KZMTH.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/Security-27ZMYP8CODFT0.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/Security-27ZMYP8CODFT0.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/UIKit-1V5UHAPTOD24G.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/UIKit-1V5UHAPTOD24G.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/modules.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/os_object-38I6DLZ5IH61J.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/os_object-38I6DLZ5IH61J.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/CFNetwork-3188M7OK0JW08.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/CFNetwork-3188M7OK0JW08.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/CoreFoundation-J9ZOXGK4ZTRR.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/CoreFoundation-J9ZOXGK4ZTRR.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/CoreGraphics-54UV9QOCX3ZY.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/CoreGraphics-54UV9QOCX3ZY.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/CoreImage-N94D31PLFESQ.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/CoreImage-N94D31PLFESQ.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/CoreText-3W9A51BO0R6G.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/CoreText-3W9A51BO0R6G.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/CoreVideo-1MLDN391V99P4.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/CoreVideo-1MLDN391V99P4.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/Darwin-38I6DLZ5IH61J.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/Darwin-38I6DLZ5IH61J.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/Dispatch-2LX9MWM6UEPQW.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/Dispatch-2LX9MWM6UEPQW.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/Foundation-3DFYNEBRQSXST.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/Foundation-3DFYNEBRQSXST.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/MachO-1BMJAO5Q3NM3O.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/MachO-1BMJAO5Q3NM3O.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/ObjectiveC-1RQA2RIXJIE19.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/ObjectiveC-1RQA2RIXJIE19.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/OpenGLES-JLMMBGEUW8IK.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/OpenGLES-JLMMBGEUW8IK.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/QuartzCore-23I9VTX2KZMTH.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/QuartzCore-23I9VTX2KZMTH.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/Security-27ZMYP8CODFT0.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/Security-27ZMYP8CODFT0.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/UIKit-1V5UHAPTOD24G.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/UIKit-1V5UHAPTOD24G.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/XCTest-1FJM61D2FSIU5.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/XCTest-1FJM61D2FSIU5.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/modules.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/os_object-38I6DLZ5IH61J.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1WO5IKB4UP72/os_object-38I6DLZ5IH61J.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2228CZJV3XZZZ/Darwin-38I6DLZ5IH61J.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2228CZJV3XZZZ/Darwin-38I6DLZ5IH61J.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2228CZJV3XZZZ/modules.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/AVFoundation-2W8OQOO5E005V.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/AVFoundation-2W8OQOO5E005V.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/AudioToolbox-29TRZLCW5QLKV.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/AudioToolbox-29TRZLCW5QLKV.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/AudioUnit-1R3FCTHQHAFWE.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/AudioUnit-1R3FCTHQHAFWE.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CFNetwork-3188M7OK0JW08.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CFNetwork-3188M7OK0JW08.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreAudio-DU322UQPMITA.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreAudio-DU322UQPMITA.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreFoundation-J9ZOXGK4ZTRR.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreFoundation-J9ZOXGK4ZTRR.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreGraphics-54UV9QOCX3ZY.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreGraphics-54UV9QOCX3ZY.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreImage-N94D31PLFESQ.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreImage-N94D31PLFESQ.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreLocation-2RB9TGORWT0YQ.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreLocation-2RB9TGORWT0YQ.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreMIDI-2OV5TK5CIMZXQ.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreMIDI-2OV5TK5CIMZXQ.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreMedia-3JTCZ41S8BKUD.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreMedia-3JTCZ41S8BKUD.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreText-3W9A51BO0R6G.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreText-3W9A51BO0R6G.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreVideo-1MLDN391V99P4.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreVideo-1MLDN391V99P4.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/Darwin-38I6DLZ5IH61J.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/Darwin-38I6DLZ5IH61J.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/Dispatch-2LX9MWM6UEPQW.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/Dispatch-2LX9MWM6UEPQW.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/Foundation-3DFYNEBRQSXST.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/Foundation-3DFYNEBRQSXST.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/JavaScriptCore-N94D31PLFESQ.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/JavaScriptCore-N94D31PLFESQ.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/MachO-1BMJAO5Q3NM3O.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/MachO-1BMJAO5Q3NM3O.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/MediaToolbox-3N6MLXYI7H98P.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/MediaToolbox-3N6MLXYI7H98P.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/ObjectiveC-1RQA2RIXJIE19.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/ObjectiveC-1RQA2RIXJIE19.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/OpenGLES-JLMMBGEUW8IK.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/OpenGLES-JLMMBGEUW8IK.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/QuartzCore-23I9VTX2KZMTH.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/QuartzCore-23I9VTX2KZMTH.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/Security-27ZMYP8CODFT0.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/Security-27ZMYP8CODFT0.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/UIKit-1V5UHAPTOD24G.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/UIKit-1V5UHAPTOD24G.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/modules.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/os_object-38I6DLZ5IH61J.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/os_object-38I6DLZ5IH61J.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/CFNetwork-3188M7OK0JW08.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/CFNetwork-3188M7OK0JW08.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/CoreFoundation-J9ZOXGK4ZTRR.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/CoreFoundation-J9ZOXGK4ZTRR.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/CoreGraphics-54UV9QOCX3ZY.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/CoreGraphics-54UV9QOCX3ZY.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/CoreImage-N94D31PLFESQ.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/CoreImage-N94D31PLFESQ.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/CoreText-3W9A51BO0R6G.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/CoreText-3W9A51BO0R6G.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/CoreVideo-1MLDN391V99P4.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/CoreVideo-1MLDN391V99P4.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/Darwin-38I6DLZ5IH61J.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/Darwin-38I6DLZ5IH61J.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/Dispatch-2LX9MWM6UEPQW.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/Dispatch-2LX9MWM6UEPQW.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/Foundation-3DFYNEBRQSXST.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/Foundation-3DFYNEBRQSXST.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/MachO-1BMJAO5Q3NM3O.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/MachO-1BMJAO5Q3NM3O.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/ObjectiveC-1RQA2RIXJIE19.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/ObjectiveC-1RQA2RIXJIE19.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/OpenGLES-JLMMBGEUW8IK.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/OpenGLES-JLMMBGEUW8IK.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/QuartzCore-23I9VTX2KZMTH.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/QuartzCore-23I9VTX2KZMTH.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/Security-27ZMYP8CODFT0.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/Security-27ZMYP8CODFT0.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/UIKit-1V5UHAPTOD24G.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/UIKit-1V5UHAPTOD24G.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/modules.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/os_object-38I6DLZ5IH61J.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/os_object-38I6DLZ5IH61J.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/Accelerate-1IKW7DALYIORV.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/Accelerate-1IKW7DALYIORV.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/AudioToolbox-29TRZLCW5QLKV.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/AudioToolbox-29TRZLCW5QLKV.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/CoreAudio-DU322UQPMITA.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/CoreAudio-DU322UQPMITA.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/CoreLocation-2RB9TGORWT0YQ.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/CoreLocation-2RB9TGORWT0YQ.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/CoreMIDI-2OV5TK5CIMZXQ.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/CoreMIDI-2OV5TK5CIMZXQ.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/ImageIO-YVI44K06S0WO.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/ImageIO-YVI44K06S0WO.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/JavaScriptCore-N94D31PLFESQ.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/JavaScriptCore-N94D31PLFESQ.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/MobileCoreServices-N94D31PLFESQ.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/MobileCoreServices-N94D31PLFESQ.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/SystemConfiguration-354UAJE49HRJF.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/SystemConfiguration-354UAJE49HRJF.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/_Builtin_intrinsics-1NKGPDERPGHAD.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/_Builtin_intrinsics-1NKGPDERPGHAD.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/CFNetwork-3188M7OK0JW08.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/CFNetwork-3188M7OK0JW08.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/CoreFoundation-J9ZOXGK4ZTRR.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/CoreFoundation-J9ZOXGK4ZTRR.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/CoreGraphics-54UV9QOCX3ZY.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/CoreGraphics-54UV9QOCX3ZY.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/CoreImage-N94D31PLFESQ.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/CoreImage-N94D31PLFESQ.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/CoreText-3W9A51BO0R6G.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/CoreText-3W9A51BO0R6G.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/CoreVideo-1MLDN391V99P4.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/CoreVideo-1MLDN391V99P4.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/Darwin-38I6DLZ5IH61J.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/Darwin-38I6DLZ5IH61J.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/Dispatch-2LX9MWM6UEPQW.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/Dispatch-2LX9MWM6UEPQW.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/Foundation-3DFYNEBRQSXST.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/Foundation-3DFYNEBRQSXST.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/MachO-1BMJAO5Q3NM3O.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/MachO-1BMJAO5Q3NM3O.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/ObjectiveC-1RQA2RIXJIE19.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/ObjectiveC-1RQA2RIXJIE19.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/OpenGLES-JLMMBGEUW8IK.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/OpenGLES-JLMMBGEUW8IK.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/QuartzCore-23I9VTX2KZMTH.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/QuartzCore-23I9VTX2KZMTH.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/Security-27ZMYP8CODFT0.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/Security-27ZMYP8CODFT0.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/UIKit-1V5UHAPTOD24G.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/UIKit-1V5UHAPTOD24G.pcm.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/modules.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/os_object-38I6DLZ5IH61J.pcm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/os_object-38I6DLZ5IH61J.pcm.timestamp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/debug/android/support/v4/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/debug/com/facebook/fbcore/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/debug/com/facebook/imagepipeline/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/debug/com/facebook/imagepipeline/backends/okhttp3/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/debug/com/facebook/imagepipelinebase/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/android/support/v4/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/facebook/fbcore/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/facebook/imagepipeline/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/facebook/imagepipeline/backends/okhttp3/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/facebook/imagepipelinebase/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_2e729c72d1e50431244e4adb07fab88613062a42/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_06bd4e9e008dc94128b6fa20661a3d643ad03fca/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1187250401de45e2c8c96cfa366f30ad53c6d4cf/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_148640899d9c266eb668bed252b7a65f6820153d/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e92817313900fb0ca310e46d9e4e2cb6150b564/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b491cada76f6274de06ce3548f754b2413e0f79/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f81fd1a627c69746964b6dd6de9fc5615f04cbd/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_89c19a7d48e0c539df0278fcc9dd6740d8821d9e/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bbbdbc2b786f4c97b6c10cb373af17886921df68/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c703efeb98f79300fa5b6361f6ea5543c7aff0d2/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc618bec4e7bc017a969d03d5a7359d6d9cbef71/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f6d046f225a7e679bec5c3f9966ac828d7c84629/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-1.5_afce3e07220e0d96062e9b2ffc23fb4241bd84dc/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_9c76c34c8b61b04e88cee2318801a26d6d590ecf/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_07a0b0072534f161cf571ceb0b99df33ba5f6ca0/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_e48abdf01becf6887c1c5a9926935c676e8238f8/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_17f7de8abf0f985187d383df1b9aa21ff24c23f7/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.4.1_d8e4be40805cc7f66af7aa25cd7656a39de8c63c/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-ws-3.4.1_c6d8cb5b74ec118feeb07cd890e8949810d168a2/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_28e49a564857f3ea49fde332c7510f36cd3420dd/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/staticlayout-proxy-1.0_46e8446c11b7cb60a5c7744010d5bed725fce7ac/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_8b7d7721e7a946e8ea345f2b25c671e40b58d01e/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_91773be135248d5186cc4f245b37097af991f4b8/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fe1292488f6a0530d5ad3bbad6a2228d7a7c2d73/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/android/.gradle/3.3/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/android/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/android/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/android/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/android/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/android/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/android/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/android/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.gradle/3.3/tasks/_react-native-vector-icons_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/android/.gradle/3.3/tasks/_react-native-vector-icons_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.gradle/3.3/tasks/_react-native-vector-icons_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/android/.gradle/3.3/tasks/_react-native-vector-icons_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.gradle/3.3/tasks/_react-native-vector-icons_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/android/.gradle/3.3/tasks/_react-native-vector-icons_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.gradle/3.3/tasks/_react-native-vector-icons_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/android/.gradle/3.3/tasks/_react-native-vector-icons_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/zip-cache/W5a0WA2iCUcLe6Y_eSBfiGF4sW8=" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/zip-cache/W5a0WA2iCUcLe6Y_eSBfiGF4sW8=" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/android/app/build/outputs/apk/app-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/Messi.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/Messi.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTActionSheet.build/Debug-iphonesimulator/RCTActionSheet.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTActionSheet.build/Debug-iphonesimulator/RCTActionSheet.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTGeolocation.build/Debug-iphonesimulator/RCTGeolocation.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTGeolocation.build/Debug-iphonesimulator/RCTGeolocation.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTLinking.build/Debug-iphonesimulator/RCTLinking.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTLinking.build/Debug-iphonesimulator/RCTLinking.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTSettings.build/Debug-iphonesimulator/RCTSettings.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTSettings.build/Debug-iphonesimulator/RCTSettings.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTVibration.build/Debug-iphonesimulator/RCTVibration.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTVibration.build/Debug-iphonesimulator/RCTVibration.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RNVectorIcons.build/Debug-iphonesimulator/RNVectorIcons.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RNVectorIcons.build/Debug-iphonesimulator/RNVectorIcons.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/cxxreact.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/cxxreact.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/jschelpers.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/jschelpers.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/yoga.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/yoga.build/dgph" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.idea/gradle.xml" afterPath="$PROJECT_DIR$/android/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.idea/misc.xml" afterPath="$PROJECT_DIR$/android/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.idea/modules.xml" afterPath="$PROJECT_DIR$/android/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.idea/workspace.xml" afterPath="$PROJECT_DIR$/android/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/app.iml" afterPath="$PROJECT_DIR$/android/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/android/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/debug/com/facebook/drawee/R.java" afterPath="$PROJECT_DIR$/android/app/build/generated/source/r/debug/com/facebook/drawee/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/debug/com/facebook/drawee/backends/pipeline/R.java" afterPath="$PROJECT_DIR$/android/app/build/generated/source/r/debug/com/facebook/drawee/backends/pipeline/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/debug/com/facebook/fbui/textlayoutbuilder/R.java" afterPath="$PROJECT_DIR$/android/app/build/generated/source/r/debug/com/facebook/fbui/textlayoutbuilder/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/debug/com/facebook/react/R.java" afterPath="$PROJECT_DIR$/android/app/build/generated/source/r/debug/com/facebook/react/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/debug/com/facebook/soloader/R.java" afterPath="$PROJECT_DIR$/android/app/build/generated/source/r/debug/com/facebook/soloader/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/debug/com/oblador/vectoricons/R.java" afterPath="$PROJECT_DIR$/android/app/build/generated/source/r/debug/com/oblador/vectoricons/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/generated/source/r/debug/org/webkit/android_jsc/R.java" afterPath="$PROJECT_DIR$/android/app/build/generated/source/r/debug/org/webkit/android_jsc/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-af.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-af.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-am.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-am.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ar.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ar.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-az-rAZ.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-az-rAZ.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-bg.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-bg.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-bn-rBD.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-bn-rBD.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ca.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ca.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-cs.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-cs.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-da.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-da.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-de.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-de.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-el.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-el.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-en-rAU.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-en-rAU.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-en-rGB.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-en-rGB.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-en-rIN.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-en-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-es-rUS.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-es-rUS.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-es.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-es.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-et-rEE.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-et-rEE.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-eu-rES.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-eu-rES.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-fa.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-fa.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-fi.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-fi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-fr-rCA.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-fr-rCA.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-fr.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-fr.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-gl-rES.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-gl-rES.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-gu-rIN.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-gu-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-h720dp-v13.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-h720dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-hdpi-v4.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-hdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-hi.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-hi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-hr.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-hr.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-hu.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-hu.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-hy-rAM.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-hy-rAM.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-in.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-in.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-is-rIS.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-is-rIS.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-it.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-it.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-iw.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-iw.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ja.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ja.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ka-rGE.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ka-rGE.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-kk-rKZ.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-kk-rKZ.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-km-rKH.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-km-rKH.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-kn-rIN.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-kn-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ko.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ko.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ky-rKG.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ky-rKG.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-land.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-land.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-large-v4.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-large-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-lo-rLA.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-lo-rLA.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-lt.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-lt.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-lv.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-lv.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-mk-rMK.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-mk-rMK.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ml-rIN.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ml-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-mn-rMN.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-mn-rMN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-mr-rIN.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-mr-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ms-rMY.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ms-rMY.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-my-rMM.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-my-rMM.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-nb.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-nb.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ne-rNP.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ne-rNP.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-nl.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-nl.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-pa-rIN.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-pa-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-pl.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-pl.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-port.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-port.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-pt-rPT.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-pt-rPT.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-pt.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-pt.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ro.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ro.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ru.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ru.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-si-rLK.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-si-rLK.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sk.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sk.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sl.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sl.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sq-rAL.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sq-rAL.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sr.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sr.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sv.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sv.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sw.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sw.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sw600dp-v13.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sw600dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ta-rIN.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ta-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-te-rIN.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-te-rIN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-th.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-th.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-tl.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-tl.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-tr.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-tr.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-uk.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-uk.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ur-rPK.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ur-rPK.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-uz-rUZ.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-uz-rUZ.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v11.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v11.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v12.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v12.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v14.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v14.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v17.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v17.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v18.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v18.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v21.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v21.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v22.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v22.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v23.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v23.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-vi.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-vi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-w360dp-v13.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-w360dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-w480dp-v13.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-w480dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-w500dp-v13.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-w500dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-w600dp-v13.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-w600dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-w720dp-v13.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-w720dp-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-xlarge-land-v4.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-xlarge-land-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-xlarge-v4.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-xlarge-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-zh-rCN.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-zh-rCN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-zh-rHK.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-zh-rHK.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-zh-rTW.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-zh-rTW.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-zu.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-zu.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/anim.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/anim.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/color-v11.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/color-v11.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/color-v23.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/color-v23.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/color.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/color.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-hdpi.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-hdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-hdpi.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-hdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-mdpi.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-mdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xhdpi.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xhdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxhdpi.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxhdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxxhdpi.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxxhdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-mdpi.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-mdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-v21.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-v21.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-v23.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-v23.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-xxxhdpi.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-xxxhdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/layout.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/xml.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/xml.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/android/app/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/build.gradle" afterPath="$PROJECT_DIR$/android/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/android/build/intermediates/dex-cache/cache.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/MineMenu/account.js" afterPath="$PROJECT_DIR$/component/MineMenu/account.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/find.js" afterPath="$PROJECT_DIR$/component/find.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/home.js" afterPath="$PROJECT_DIR$/component/home.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/main.js" afterPath="$PROJECT_DIR$/component/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/message.js" afterPath="$PROJECT_DIR$/component/message.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/mine.js" afterPath="$PROJECT_DIR$/component/mine.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/info.plist" afterPath="$PROJECT_DIR$/ios/build/info.plist" />
     </list>
     <ignored path="Messi.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -325,7 +255,7 @@
         <entry file="file://$PROJECT_DIR$/index.ios.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="147">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -334,8 +264,8 @@
       <file leaf-file-name="account.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/component/MineMenu/account.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4">
-              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="315">
+              <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="38" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -343,24 +273,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/component/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="39" column="75" lean-forward="false" selection-start-line="39" selection-start-column="75" selection-end-line="39" selection-end-column="75" />
+            <state relative-caret-position="-362">
+              <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <element signature="e#89#130#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="home.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/component/home.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="463">
+              <caret line="51" column="29" lean-forward="false" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#89#128#0" expanded="true" />
@@ -372,9 +301,11 @@
       <file leaf-file-name="message.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/component/message.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="43" column="16" lean-forward="true" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
-              <folding />
+            <state relative-caret-position="-10">
+              <caret line="57" column="14" lean-forward="true" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
+              <folding>
+                <element signature="e#89#128#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -382,8 +313,8 @@
       <file leaf-file-name="mine.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/component/mine.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9">
-              <caret line="104" column="17" lean-forward="true" selection-start-line="104" selection-start-column="17" selection-end-line="104" selection-end-column="17" />
+            <state relative-caret-position="103">
+              <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -392,23 +323,11 @@
       <file leaf-file-name="find.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/component/find.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="52" column="16" lean-forward="true" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+            <state relative-caret-position="-199">
+              <caret line="46" column="22" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="57" selection-end-column="10" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#89#128#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/native-echarts/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -444,6 +363,8 @@
       <find>base</find>
       <find>containerStyle</find>
       <find>button</find>
+      <find>Echarts</find>
+      <find>ff477b</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -464,13 +385,13 @@
         <option value="$PROJECT_DIR$/index.android.js" />
         <option value="$PROJECT_DIR$/index.ios.js" />
         <option value="$PROJECT_DIR$/node_modules/react-native-swiper/src/index.js" />
-        <option value="$PROJECT_DIR$/component/home.js" />
         <option value="$PROJECT_DIR$/node_modules/react-native-calendars/src/calendar/day/basic/style.js" />
-        <option value="$PROJECT_DIR$/component/message.js" />
-        <option value="$PROJECT_DIR$/component/MineMenu/account.js" />
         <option value="$PROJECT_DIR$/component/find.js" />
         <option value="$PROJECT_DIR$/component/mine.js" />
         <option value="$PROJECT_DIR$/component/main.js" />
+        <option value="$PROJECT_DIR$/component/message.js" />
+        <option value="$PROJECT_DIR$/component/MineMenu/account.js" />
+        <option value="$PROJECT_DIR$/component/home.js" />
       </list>
     </option>
   </component>
@@ -492,9 +413,9 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1626" />
-    <option name="y" value="249" />
-    <option name="width" value="1440" />
+    <option name="x" value="1417" />
+    <option name="y" value="87" />
+    <option name="width" value="1798" />
     <option name="height" value="800" />
   </component>
   <component name="ProjectView">
@@ -535,60 +456,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Messi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Messi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="native-echarts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Messi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Messi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="native-echarts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Messi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Messi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="component" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -603,11 +470,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="component" />
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Messi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Messi" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MineMenu" />
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -737,19 +618,19 @@
       <workItem from="1497964906446" duration="5744000" />
       <workItem from="1498138609416" duration="3613000" />
       <workItem from="1498276658540" duration="7904000" />
-      <workItem from="1498359377708" duration="6710000" />
+      <workItem from="1498359377708" duration="7475000" />
+      <workItem from="1498575258820" duration="2838000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64178000" />
+    <option name="totallyTimeSpent" value="67781000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1626" y="249" width="1440" height="800" extended-state="0" />
+    <frame x="1417" y="87" width="1798" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22361112" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17908788" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -763,6 +644,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -817,8 +699,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/component/MineMenu/account.js</url>
-          <line>34</line>
-          <properties />
+          <line>19</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
@@ -827,24 +708,12 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/component/find.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="13" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#89#128#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/component/message.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="17" column="41" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#89#128#0" expanded="false" />
+            <element signature="e#89#128#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -861,10 +730,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#89#137#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -880,10 +745,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#89#137#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -901,7 +762,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#89#130#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -940,8 +800,7 @@
         <state relative-caret-position="147">
           <caret line="17" column="41" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#89#128#0" expanded="false" />
+            <element signature="e#89#128#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -958,10 +817,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#89#137#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -969,10 +824,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#89#137#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1111,10 +962,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#89#137#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1122,7 +969,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1130,7 +976,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1138,9 +983,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#40#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1148,7 +990,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1156,7 +997,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1164,7 +1004,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
           <caret line="71" column="6" lean-forward="false" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1180,61 +1019,56 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="22" column="31" lean-forward="false" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.ios.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/component/home.js">
+    <entry file="file://$PROJECT_DIR$/ios/Messi/AppDelegate.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#89#128#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-227">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/component/message.js">
+    <entry file="file://$PROJECT_DIR$/component/mine.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="43" column="16" lean-forward="true" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+        <state relative-caret-position="103">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/MineMenu/account.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/native-echarts/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="84">
+          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/component/message.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="57" column="14" lean-forward="true" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
+          <folding>
+            <element signature="e#89#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/component/find.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="52" column="16" lean-forward="true" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+        <state relative-caret-position="-199">
+          <caret line="46" column="22" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="57" selection-end-column="10" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#89#128#0" expanded="true" />
@@ -1242,21 +1076,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/component/mine.js">
+    <entry file="file://$PROJECT_DIR$/component/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="104" column="17" lean-forward="true" selection-start-line="104" selection-start-column="17" selection-end-line="104" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="-362">
+          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/component/main.js">
+    <entry file="file://$PROJECT_DIR$/component/MineMenu/account.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="39" column="75" lean-forward="false" selection-start-line="39" selection-start-column="75" selection-end-line="39" selection-end-column="75" />
+        <state relative-caret-position="315">
+          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="51" column="29" lean-forward="false" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#89#130#0" expanded="true" />
+            <element signature="e#89#128#0" expanded="true" />
           </folding>
         </state>
       </provider>

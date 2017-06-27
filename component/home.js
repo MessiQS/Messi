@@ -12,8 +12,9 @@ import {
     View,
     // Button
 } from 'react-native';
-import {Button, Container, List, ListItem, Icon, Right,Left,Body,Switch} from 'native-base';
+import {Button, Container, List, ListItem, Icon, Right, Left, Body, Switch} from 'native-base';
 import Swiper from 'react-native-swiper';
+import Echarts from 'native-echarts';
 
 
 const nativeStyle = {
@@ -21,18 +22,65 @@ const nativeStyle = {
         backgroundColor: '#fff',
         width: '100%',
     },
-    listItem:{
+    listItem: {
         borderTopColor: '#dcdcdc',
         borderTopWidth: 0,
-        height:60,
-        top:10
+        height: 60,
+        top: 10
     },
-    right:{
-        height:52
+    right: {
+        height: 52
     }
 };
 export default class Find extends Component {
+    constructor() {
+        super();
+        this.state = {
+            questions: {
+                new: 1500,
+                writed: 1000,
+                deepmind: 300
+            }
+        };
+        setTimeout(this.callThis.bind(this),3000)
+    };
+    callThis(){
+        return this.setState({
+            questions: {
+                new: 1500,
+                writed: 800,
+                deepmind: 1000
+            }
+        })
+    }
     render() {
+        const option = {
+            tooltip: {
+                axisPointer: {
+                    type: ('line' | 'cross' | 'shadow' | 'none'),
+                }
+            },
+            series: [
+
+                {
+                    labelLine: {
+                        normal: {
+                            show: false
+                        }
+                    },
+                    itemStyle: {
+                        normal: {
+                            color: function (params) {
+                                var colorArray = ['#ff477b', '#f69b2c', '#2d7faf'];
+                                return colorArray[params.dataIndex];
+                            }
+                        }
+                    },
+                    type: 'pie',
+                    data: [this.state.questions.writed, this.state.questions.new, this.state.questions.deepmind]
+                }
+            ]
+        };
         return (
             <View style={styles.container}>
                 <Swiper
@@ -56,43 +104,44 @@ export default class Find extends Component {
                     <View style={styles.topcard}>
                         <View style={styles.quesTitle}>
                             <Text style={styles.nowadays}>当前题库</Text>
-                            <Text style={styles.description}>言语表达与理解 100/3349</Text>
+                            <Text
+                                style={styles.description}>言语表达与理解 {this.state.questions.writed + this.state.questions.deepmind}/3349</Text>
                             <View style={styles.percent}>
                                 <View style={styles.nowPercent}>
                                 </View>
                             </View>
                         </View>
                         <View style={styles.circleChart}>
-                            <Text>123</Text>
+                            <Echarts option={option} height={80}/>
                         </View>
                     </View>
                     <Container contentContainerStyle={{flex: 1}}
                                style={nativeStyle.container}
                     >
                         <List>
-                            <ListItem icon onPress={() =>{
+                            <ListItem icon onPress={() => {
                                 console.log(123)
-                                this.props.navigation.navigate('Account',{user:1})
+                                this.props.navigation.navigate('Account', {user: 1})
                             }
-                                }
+                            }
                                       style={nativeStyle.listItem}
                             >
                                 <Left>
                                     <View style={styles.orange}></View>
                                 </Left>
                                 <Body>
-                                    <Text style={styles.bodyText}>新题</Text>
+                                <Text style={styles.bodyText}>新题</Text>
                                 </Body>
                                 <Right style={nativeStyle.right}>
                                     <Text>
-                                        300/5000
+                                        {this.state.questions.new}/5000
                                     </Text>
                                     <Icon name="arrow-forward"/>
                                 </Right>
                             </ListItem>
                         </List>
                         <ListItem icon onPress={() =>
-                            this.props.navigation.navigate('Account',{}
+                            this.props.navigation.navigate('Account', {}
                             )}
                                   style={nativeStyle.listItem}
                         >
@@ -100,11 +149,11 @@ export default class Find extends Component {
                                 <View style={styles.red}></View>
                             </Left>
                             <Body >
-                                <Text style={styles.bodyText}>抗遗忘</Text>
+                            <Text style={styles.bodyText}>抗遗忘</Text>
                             </Body>
                             <Right style={nativeStyle.right}>
                                 <Text>
-                                    300/5000
+                                    {this.state.questions.writed}/5000
                                 </Text>
                                 <Icon name="arrow-forward"/>
                             </Right>
@@ -120,13 +169,13 @@ const styles = StyleSheet.create({
     container: {
         flex: 1,
         alignItems: 'center',
-        backgroundColor: '#F5FCFF',
+        backgroundColor: '#fff',
     },
     content: {
         top: 30,
         alignItems: 'center',
         width: '100%',
-        flex:1
+        flex: 1
     },
     instructions: {
         textAlign: 'center',
@@ -140,10 +189,10 @@ const styles = StyleSheet.create({
         flexDirection: 'row',
     },
     quesTitle: {
-        flex: 4,
+        flex: 5,
     },
     circleChart: {
-        flex: 1,
+        flex: 2,
     },
     nowadays: {
         left: 20,
@@ -171,22 +220,22 @@ const styles = StyleSheet.create({
         borderRadius: 3,
         height: 10,
     },
-    orange:{
-        width:25,
-        height:25,
-        borderRadius:4,
-        backgroundColor:'#ffa62b',
-        top:-6
+    orange: {
+        width: 25,
+        height: 25,
+        borderRadius: 4,
+        backgroundColor: '#ffa62b',
+        top: -6
     },
-    red:{
-        width:25,
-        height:25,
-        borderRadius:4,
-        backgroundColor:'#ff477b',
-        top:-6
+    red: {
+        width: 25,
+        height: 25,
+        borderRadius: 4,
+        backgroundColor: '#ff477b',
+        top: -6
     },
-    bodyText:{
-        height:30
+    bodyText: {
+        height: 30
     },
     wrapper: {
         height: 200
