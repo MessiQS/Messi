@@ -39,20 +39,26 @@ export default class Find extends Component {
             questions: {
                 new: 1500,
                 writed: 1000,
-                deepmind: 300
-            }
+                deepmind: 300,
+            },
+            percent:(1500 + 1000)/2800*100 + '%',
+            all:1500 + 1000 + 300,
         };
-        setTimeout(this.callThis.bind(this),3000)
+        setTimeout(this.callThis.bind(this), 3000)
     };
-    callThis(){
+
+    callThis() {
         return this.setState({
-            questions: {
-                new: 1500,
-                writed: 800,
-                deepmind: 1000
-            }
-        })
+                questions: {
+                    new: 1500,
+                    writed: 800,
+                    deepmind: 1000,
+                },
+                percent:(1500 + 300)/3100*100 + '%',
+                all:3100
+            })
     }
+
     render() {
         const option = {
             tooltip: {
@@ -87,11 +93,11 @@ export default class Find extends Component {
                     style={styles.wrapper}
                     showsButtons={false}
                     autoplay={true}
-                    height={200}
-                    showsPagination={false}
+                    height={200} showsPagination={false}
                 >
                     <View style={styles.slide1}>
                         <Text style={styles.text}>Hello Swiper</Text>
+
                     </View>
                     <View style={styles.slide2}>
                         <Text style={styles.text}>Beautiful</Text>
@@ -105,9 +111,10 @@ export default class Find extends Component {
                         <View style={styles.quesTitle}>
                             <Text style={styles.nowadays}>当前题库</Text>
                             <Text
-                                style={styles.description}>言语表达与理解 {this.state.questions.writed + this.state.questions.deepmind}/3349</Text>
+                                style={styles.description}>言语表达与理解 {this.state.questions.writed + this.state.questions.deepmind}/{this.state.all}</Text>
                             <View style={styles.percent}>
-                                <View style={styles.nowPercent}>
+                                <View
+                                    style={[styles.nowPercent, {width: this.state.percent}]}>
                                 </View>
                             </View>
                         </View>
@@ -134,7 +141,7 @@ export default class Find extends Component {
                                 </Body>
                                 <Right style={nativeStyle.right}>
                                     <Text>
-                                        {this.state.questions.new}/5000
+                                        {this.state.questions.new}/{this.state.all}
                                     </Text>
                                     <Icon name="arrow-forward"/>
                                 </Right>
@@ -153,7 +160,7 @@ export default class Find extends Component {
                             </Body>
                             <Right style={nativeStyle.right}>
                                 <Text>
-                                    {this.state.questions.writed}/5000
+                                    {this.state.questions.writed}/{this.state.all}
                                 </Text>
                                 <Icon name="arrow-forward"/>
                             </Right>
@@ -189,10 +196,10 @@ const styles = StyleSheet.create({
         flexDirection: 'row',
     },
     quesTitle: {
-        flex: 5,
+        width:'70%',
     },
     circleChart: {
-        flex: 2,
+        width:'30%',
     },
     nowadays: {
         left: 20,
@@ -210,7 +217,7 @@ const styles = StyleSheet.create({
     percent: {
         top: 20,
         left: 20,
-        width: '80%',
+        width:'90%',
         backgroundColor: '#dde2e6',
         borderRadius: 3,
     },

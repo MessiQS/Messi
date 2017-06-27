@@ -4,7 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/component/MineMenu/account.js" line="11" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6541c173-bf81-4464-aa20-afd0bf5d7c52" name="Default" comment="" />
+    <list default="true" id="6541c173-bf81-4464-aa20-afd0bf5d7c52" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/home.js" afterPath="$PROJECT_DIR$/component/home.js" />
+    </list>
     <ignored path="Messi.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -65,8 +68,8 @@
       <file leaf-file-name="home.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/component/home.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="51" column="30" lean-forward="true" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
+            <state relative-caret-position="544">
+              <caret line="219" column="20" lean-forward="false" selection-start-line="219" selection-start-column="20" selection-end-line="219" selection-end-column="20" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#89#128#0" expanded="true" />
@@ -79,7 +82,7 @@
         <entry file="file://$PROJECT_DIR$/component/message.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-10">
-              <caret line="57" column="14" lean-forward="true" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
+              <caret line="57" column="14" lean-forward="false" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
               <folding>
                 <element signature="e#89#128#0" expanded="true" />
               </folding>
@@ -91,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/component/mine.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="103">
-              <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+              <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -142,6 +145,8 @@
       <find>button</find>
       <find>Echarts</find>
       <find>ff477b</find>
+      <find>all</find>
+      <find>quesTitle</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -396,12 +401,12 @@
       <workItem from="1498138609416" duration="3613000" />
       <workItem from="1498276658540" duration="7904000" />
       <workItem from="1498359377708" duration="7475000" />
-      <workItem from="1498575258820" duration="2936000" />
+      <workItem from="1498575258820" duration="4469000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67879000" />
+    <option name="totallyTimeSpent" value="69412000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1417" y="87" width="1798" height="800" extended-state="0" />
@@ -781,6 +786,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
           <caret line="71" column="6" lean-forward="false" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -817,7 +823,7 @@
     <entry file="file://$PROJECT_DIR$/component/mine.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="103">
-          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -827,7 +833,7 @@
         <state relative-caret-position="84">
           <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -835,7 +841,7 @@
     <entry file="file://$PROJECT_DIR$/component/message.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-10">
-          <caret line="57" column="14" lean-forward="true" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
+          <caret line="57" column="14" lean-forward="false" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
           <folding>
             <element signature="e#89#128#0" expanded="true" />
           </folding>
@@ -875,8 +881,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/component/home.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="51" column="30" lean-forward="true" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
+        <state relative-caret-position="544">
+          <caret line="219" column="20" lean-forward="false" selection-start-line="219" selection-start-column="20" selection-end-line="219" selection-end-column="20" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#89#128#0" expanded="true" />
