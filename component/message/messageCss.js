@@ -55,13 +55,8 @@ const styles = StyleSheet.create({
         top: 5
     },
     modelView: {
-        justifyContent: 'flex-start',
         flexDirection: 'row',
     },
-    modelButtonone: {
-        justifyContent: 'flex-start',
-        flex: 1
-    }
 });
 
 export const nativeStyle = {
@@ -87,12 +82,6 @@ export const nativeStyle = {
         borderStyle:'solid',
         height:48,
     },
-    textStyle:{
-        fontSize:18,
-        color:"#124266",
-        lineHeight:40,
-        textAlign:'center',
-    },
     noBorederRight:{
         flex:1,
         borderColor:"#979797",
@@ -101,9 +90,18 @@ export const nativeStyle = {
         height:48,
         borderRightWidth:0
     },
+    textStyle:{
+        fontSize:18,
+        color:"#124266",
+        lineHeight:45,
+        textAlign:'center',
+    },
     dropdownStyle:{
-        left:0,
-        width:'50%'
+        width:'50%',
+    },
+    dropdownStyleRight:{
+        width:'50%',
+        left:"50%"
     }
 };
 export default styles;

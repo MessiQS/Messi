@@ -91,6 +91,7 @@ export default class Message extends Component {
                         defaultValue={"年份"} 
                         options={['option 3', 'option 2']}
                         textStyle={nativeStyle.textStyle}
+                        dropdownStyle={nativeStyle.dropdownStyle}
                     />
                 </View>
                 <Container contentContainerStyle={{flex: 1}}
