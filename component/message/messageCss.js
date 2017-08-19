@@ -39,7 +39,7 @@ const styles = StyleSheet.create({
     },
     text: {
         color: '#333',
-        fontSize: 18,
+        fontSize: 15,
         fontWeight: 'bold',
     },
     outLogin: {
@@ -57,6 +57,10 @@ const styles = StyleSheet.create({
     modelView: {
         flexDirection: 'row',
     },
+    buttonText:{
+        color:'#ffa200',
+        fontSize:11,
+    }
 });
 
 export const nativeStyle = {
@@ -67,13 +71,13 @@ export const nativeStyle = {
     },
     listItem: {
         borderTopColor: '#dcdcdc',
-        height: 78
+        height: 55
     },
     button: {
-        borderColor: '#608fd3',
+        borderColor: '#ffa200',
         justifyContent: 'center',
-        top: 5,
-        width:80
+        width:60,
+        height:25,
     },
     select:{
         flex:1,
@@ -97,10 +101,10 @@ export const nativeStyle = {
         textAlign:'center',
     },
     dropdownStyle:{
-        width:'50%',
+        width:'48%',
     },
     dropdownStyleRight:{
-        width:'50%',
+        width:'48%',
         left:"50%"
     }
 };

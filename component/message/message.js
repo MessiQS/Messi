@@ -46,7 +46,64 @@ export default class Message extends Component {
                 number:1000,
                 isBuyed:false,
                 key:1,
-                call:this.buyCallback}
+                call:this.buyCallback
+            },
+            {name:'刷题12',
+                haveRead:200,
+                number:1000,
+                isBuyed:false,
+                key:2,
+                call:this.buyCallback
+            },
+            {name:'刷题13',
+                haveRead:200,
+                number:1000,
+                isBuyed:false,
+                key:3,
+                call:this.buyCallback
+            },
+            {name:'刷题14',
+                haveRead:200,
+                number:1000,
+                isBuyed:false,
+                key:4,
+                call:this.buyCallback
+            },
+            {name:'刷题15',
+                haveRead:200,
+                number:1000,
+                isBuyed:false,
+                key:5,
+                call:this.buyCallback
+            },
+            {name:'刷题16',
+                haveRead:200,
+                number:1000,
+                isBuyed:false,
+                key:1,
+                call:this.buyCallback
+            },
+            {name:'刷题1',
+                haveRead:200,
+                number:1000,
+                isBuyed:false,
+                key:6,
+                call:this.buyCallback
+            },
+            {name:'刷题17',
+                haveRead:200,
+                number:1000,
+                isBuyed:false,
+                key:7,
+                call:this.buyCallback
+            },
+            {name:'刷题18',
+                haveRead:200,
+                number:1000,
+                isBuyed:false,
+                key:8,
+                call:this.buyCallback
+            }
             ];
     };
 
@@ -91,7 +148,7 @@ export default class Message extends Component {
                         defaultValue={"年份"} 
                         options={['option 3', 'option 2']}
                         textStyle={nativeStyle.textStyle}
-                        dropdownStyle={nativeStyle.dropdownStyle}
+                        dropdownStyle={nativeStyle.dropdownStyleRight}
                     />
                 </View>
                 <Container contentContainerStyle={{flex: 1}}

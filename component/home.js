@@ -131,7 +131,7 @@ export default class Find extends Component {
                         <List>
                             <ListItem icon onPress={() => {
                                 console.log(123)
-                                this.props.navigation.navigate('Account', { user: 1 })
+                                this.props.navigation.navigate('Detail', { user: 1 })
                             }
                             }
                                 style={nativeStyle.listItem}

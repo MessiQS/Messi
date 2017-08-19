@@ -22,12 +22,13 @@ import styles , { nativeStyle } from './messageCss';
 export default class RepeatItem extends Component {
     constructor(props) {
         super(props);
+        console.log(props);
         this.state = props;
         this.renderHtml = '';
         if (!Array.isArray(props.model)) {
             props.model = [];
         }
-        console.log(props, this);
+        console.log(props);
     };
 
     render() {
@@ -42,9 +43,9 @@ export default class RepeatItem extends Component {
                         <Text style={styles.text}>{value.name} {value.haveRead}/{value.number}</Text>
                         <Right>
                             <Button bordered danger small style={nativeStyle.button}>
-                                <Text>￥6.00</Text>
+                                <Text style={styles.buttonText}>购买</Text>
                             </Button>
-                            <Text style={styles.tips}>app内购买</Text>
+                            {/* <Text style={styles.tips}>app内购买</Text> */}
                         </Right>
                     </ListItem>
                 })}

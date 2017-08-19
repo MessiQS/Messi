@@ -16,10 +16,11 @@ import { TabNavigator, StackNavigator } from "react-navigation";
 import Home from './home';
 import Mine from './mine';
 import Find from './find';
-import Message from './message/message';
+import Message from './message/message';//选题
 import Account from './MineMenu/account';
 import Update from './MineMenu/update';
 import Request from './MineMenu/request';
+import Detail from './detail/detail';
 
 
 const bookIcon = require('../Images/book.png');
@@ -118,6 +119,9 @@ const Messi = StackNavigator({
     },
     Update: {
         screen: Update
+    },
+    Detail:{
+        screen:Detail
     }
 })
 
