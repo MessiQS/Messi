@@ -3,7 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>LastAccessedDate</key>
+<<<<<<< HEAD
 	<date>2017-09-08T13:42:01Z</date>
+=======
+	<date>2017-08-22T14:19:09Z</date>
+>>>>>>> 17be07a5cfc3d46ee6ad61e02b65a83f83588f32
 	<key>WorkspacePath</key>
 	<string>/Users/mk/Desktop/Messi/ios/Messi.xcodeproj</string>
 </dict>
