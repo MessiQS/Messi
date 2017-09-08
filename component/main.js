@@ -21,7 +21,7 @@ import Account from './MineMenu/account';
 import Update from './MineMenu/update';
 import Request from './MineMenu/request';
 import Detail from './detail/detail';
-
+import Register from './Login/login';
 
 const bookIcon = require('../Images/book.png');
 const questionIcon = require('../Images/question.png');
@@ -121,7 +121,10 @@ const Messi = StackNavigator({
         screen: Update
     },
     Detail:{
-        screen:Detail
+        screen: Detail
+    },
+    Register:{
+        screen: Register
     }
 })
 

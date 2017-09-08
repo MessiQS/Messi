@@ -7,8 +7,10 @@
 import {
     AppRegistry,
 } from 'react-native';
-import Messi from './component/main';
+import MainLogin from './component/Login/mainLogin';
+
+AppRegistry.registerComponent('Messi', () => MainLogin);
 
 
-
-AppRegistry.registerComponent('Messi', () => Messi);
+// import Messi from './component/main';
+// AppRegistry.registerComponent('Messi', () => Messi);

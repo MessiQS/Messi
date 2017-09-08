@@ -5,38 +5,132 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6541c173-bf81-4464-aa20-afd0bf5d7c52" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/Build/Products/Debug-iphonesimulator/Messi.app/Entypo.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/Build/Products/Debug-iphonesimulator/Messi.app/EvilIcons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/Logs/Build/2A8D76BC-4829-430B-8AEE-6C60795389BF.xcactivitylog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/Build/Products/Debug-iphonesimulator/Messi.app/FontAwesome.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/Logs/Build/56819E10-9929-45C7-A58E-708307731A19.xcactivitylog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/Logs/Build/DFBDF02C-F491-41D8-8D2C-F1273CD5B125.xcactivitylog" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/ART-project-headers.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/ART-project-headers.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/ART.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/ART.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTBrush.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTBrush.o" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTGroup.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTGroup.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTGroupManager.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTGroupManager.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTLinearGradient.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTLinearGradient.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTNode.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTNode.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTNodeManager.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTNodeManager.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTPattern.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTPattern.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTRadialGradient.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTRadialGradient.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTRenderable.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTRenderable.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTRenderableManager.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTRenderableManager.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTShape.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTShape.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTShapeManager.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTShapeManager.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTSolidColor.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTSolidColor.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTSurfaceView.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTSurfaceView.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTSurfaceViewManager.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTSurfaceViewManager.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTText.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTText.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTTextManager.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTTextManager.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/RCTConvert+ART.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/RCTConvert+ART.o" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/Messi.build/Messi-generated-files.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/Messi.build/Messi-generated-files.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/Messi.build/Messi-project-headers.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/Messi.build/Messi-project-headers.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/Messi.build/Messi.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/Messi.build/Messi.hmap" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/Messi.build/Objects-normal/x86_64/AppDelegate.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/Messi.build/Objects-normal/x86_64/AppDelegate.o" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/Messi.build/Objects-normal/x86_64/Messi_dependency_info.dat" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/Messi.build/Objects-normal/x86_64/Messi_dependency_info.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/Messi.build/Objects-normal/x86_64/Messi_vers.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/Messi.build/Objects-normal/x86_64/Messi_vers.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/Messi.build/Objects-normal/x86_64/main.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/Messi.build/Objects-normal/x86_64/main.o" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/Messi.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/Messi.build/dgph" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/MessiTests.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/MessiTests.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTActionSheet.build/Debug-iphonesimulator/RCTActionSheet.build/Objects-normal/x86_64/RCTActionSheetManager.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTActionSheet.build/Debug-iphonesimulator/RCTActionSheet.build/Objects-normal/x86_64/RCTActionSheetManager.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTActionSheet.build/Debug-iphonesimulator/RCTActionSheet.build/RCTActionSheet-project-headers.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTActionSheet.build/Debug-iphonesimulator/RCTActionSheet.build/RCTActionSheet-project-headers.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTActionSheet.build/Debug-iphonesimulator/RCTActionSheet.build/RCTActionSheet.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTActionSheet.build/Debug-iphonesimulator/RCTActionSheet.build/RCTActionSheet.hmap" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTActionSheet.build/Debug-iphonesimulator/RCTActionSheet.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTActionSheet.build/Debug-iphonesimulator/RCTActionSheet.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTAdditionAnimatedNode.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTAdditionAnimatedNode.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTAnimatedNode.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTAnimatedNode.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTAnimationUtils.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTAnimationUtils.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTDiffClampAnimatedNode.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTDiffClampAnimatedNode.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTDivisionAnimatedNode.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTDivisionAnimatedNode.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTEventAnimation.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTEventAnimation.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTFrameAnimation.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTFrameAnimation.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTInterpolationAnimatedNode.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTInterpolationAnimatedNode.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTModuloAnimatedNode.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTModuloAnimatedNode.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTMultiplicationAnimatedNode.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTMultiplicationAnimatedNode.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTNativeAnimatedModule.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTNativeAnimatedModule.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTNativeAnimatedNodesManager.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTNativeAnimatedNodesManager.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTPropsAnimatedNode.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTPropsAnimatedNode.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTSpringAnimation.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTSpringAnimation.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTStyleAnimatedNode.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTStyleAnimatedNode.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTTransformAnimatedNode.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTTransformAnimatedNode.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTValueAnimatedNode.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTValueAnimatedNode.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/RCTAnimation-own-target-headers.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/RCTAnimation-own-target-headers.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/RCTAnimation-project-headers.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/RCTAnimation-project-headers.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/RCTAnimation.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/RCTAnimation.hmap" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTGeolocation.build/Debug-iphonesimulator/RCTGeolocation.build/Objects-normal/x86_64/RCTLocationObserver.dia" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTGeolocation.build/Debug-iphonesimulator/RCTGeolocation.build/Objects-normal/x86_64/RCTLocationObserver.dia" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTGeolocation.build/Debug-iphonesimulator/RCTGeolocation.build/Objects-normal/x86_64/RCTLocationObserver.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTGeolocation.build/Debug-iphonesimulator/RCTGeolocation.build/Objects-normal/x86_64/RCTLocationObserver.o" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTGeolocation.build/Debug-iphonesimulator/RCTGeolocation.build/RCTGeolocation-project-headers.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTGeolocation.build/Debug-iphonesimulator/RCTGeolocation.build/RCTGeolocation-project-headers.hmap" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTGeolocation.build/Debug-iphonesimulator/RCTGeolocation.build/RCTGeolocation.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTGeolocation.build/Debug-iphonesimulator/RCTGeolocation.build/RCTGeolocation.hmap" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTGeolocation.build/Debug-iphonesimulator/RCTGeolocation.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTGeolocation.build/Debug-iphonesimulator/RCTGeolocation.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageBlurUtils.dia" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageBlurUtils.dia" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageEditingManager.dia" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageEditingManager.dia" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageLoader.dia" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageLoader.dia" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageView.dia" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageView.dia" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTResizeMode.dia" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTResizeMode.dia" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTGIFImageDecoder.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTGIFImageDecoder.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageBlurUtils.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageBlurUtils.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageCache.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageCache.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageEditingManager.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageEditingManager.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageLoader.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageLoader.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageStoreManager.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageStoreManager.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageUtils.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageUtils.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageView.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageView.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageViewManager.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageViewManager.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTLocalAssetImageLoader.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTLocalAssetImageLoader.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTResizeMode.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTResizeMode.o" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/RCTImage-own-target-headers.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/RCTImage-own-target-headers.hmap" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/RCTImage-project-headers.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/RCTImage-project-headers.hmap" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/RCTImage.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/RCTImage.hmap" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTLinking.build/Debug-iphonesimulator/RCTLinking.build/Objects-normal/x86_64/RCTLinkingManager.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTLinking.build/Debug-iphonesimulator/RCTLinking.build/Objects-normal/x86_64/RCTLinkingManager.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTLinking.build/Debug-iphonesimulator/RCTLinking.build/RCTLinking-project-headers.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTLinking.build/Debug-iphonesimulator/RCTLinking.build/RCTLinking-project-headers.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTLinking.build/Debug-iphonesimulator/RCTLinking.build/RCTLinking.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTLinking.build/Debug-iphonesimulator/RCTLinking.build/RCTLinking.hmap" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTLinking.build/Debug-iphonesimulator/RCTLinking.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTLinking.build/Debug-iphonesimulator/RCTLinking.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTDataRequestHandler.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTDataRequestHandler.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTFileRequestHandler.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTFileRequestHandler.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTHTTPRequestHandler.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTHTTPRequestHandler.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTNetInfo.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTNetInfo.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTNetworkTask.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTNetworkTask.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTNetworking.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTNetworking.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/RCTNetwork-project-headers.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/RCTNetwork-project-headers.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/RCTNetwork.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/RCTNetwork.hmap" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTSettings.build/Debug-iphonesimulator/RCTSettings.build/Objects-normal/x86_64/RCTSettingsManager.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTSettings.build/Debug-iphonesimulator/RCTSettings.build/Objects-normal/x86_64/RCTSettingsManager.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTSettings.build/Debug-iphonesimulator/RCTSettings.build/RCTSettings-project-headers.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTSettings.build/Debug-iphonesimulator/RCTSettings.build/RCTSettings-project-headers.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTSettings.build/Debug-iphonesimulator/RCTSettings.build/RCTSettings.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTSettings.build/Debug-iphonesimulator/RCTSettings.build/RCTSettings.hmap" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTSettings.build/Debug-iphonesimulator/RCTSettings.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTSettings.build/Debug-iphonesimulator/RCTSettings.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTConvert+Text.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTConvert+Text.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTRawTextManager.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTRawTextManager.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTShadowRawText.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTShadowRawText.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTShadowText.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTShadowText.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTShadowTextField.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTShadowTextField.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTShadowTextView.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTShadowTextView.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTText.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTText.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextField.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextField.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextFieldManager.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextFieldManager.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextManager.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextManager.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextSelection.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextSelection.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextView.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextView.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextViewManager.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextViewManager.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTUITextView.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTUITextView.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/RCTText-project-headers.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/RCTText-project-headers.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/RCTText.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/RCTText.hmap" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTVibration.build/Debug-iphonesimulator/RCTVibration.build/Objects-normal/x86_64/RCTVibration.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTVibration.build/Debug-iphonesimulator/RCTVibration.build/Objects-normal/x86_64/RCTVibration.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTVibration.build/Debug-iphonesimulator/RCTVibration.build/RCTVibration-project-headers.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTVibration.build/Debug-iphonesimulator/RCTVibration.build/RCTVibration-project-headers.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTVibration.build/Debug-iphonesimulator/RCTVibration.build/RCTVibration.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTVibration.build/Debug-iphonesimulator/RCTVibration.build/RCTVibration.hmap" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTVibration.build/Debug-iphonesimulator/RCTVibration.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTVibration.build/Debug-iphonesimulator/RCTVibration.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTReconnectingWebSocket.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTReconnectingWebSocket.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTSRWebSocket.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTSRWebSocket.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTWebSocketExecutor.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTWebSocketExecutor.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTWebSocketModule.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTWebSocketModule.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTWebSocketObserver.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTWebSocketObserver.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/RCTWebSocket-project-headers.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/RCTWebSocket-project-headers.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/RCTWebSocket.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/RCTWebSocket.hmap" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/dgph" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RNVectorIcons.build/Debug-iphonesimulator/RNVectorIcons.build/Objects-normal/x86_64/RNVectorIconsManager.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RNVectorIcons.build/Debug-iphonesimulator/RNVectorIcons.build/Objects-normal/x86_64/RNVectorIconsManager.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RNVectorIcons.build/Debug-iphonesimulator/RNVectorIcons.build/RNVectorIcons-project-headers.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RNVectorIcons.build/Debug-iphonesimulator/RNVectorIcons.build/RNVectorIcons-project-headers.hmap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RNVectorIcons.build/Debug-iphonesimulator/RNVectorIcons.build/RNVectorIcons.hmap" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RNVectorIcons.build/Debug-iphonesimulator/RNVectorIcons.build/RNVectorIcons.hmap" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RNVectorIcons.build/Debug-iphonesimulator/RNVectorIcons.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RNVectorIcons.build/Debug-iphonesimulator/RNVectorIcons.build/dgph" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTAccessibilityManager.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTAccessibilityManager.o" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTActivityIndicatorViewManager.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTActivityIndicatorViewManager.o" />
@@ -61,6 +155,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTModalHostViewController.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTModalHostViewController.o" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTModalHostViewManager.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTModalHostViewManager.o" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTModuleMethod.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTModuleMethod.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTMultipartStreamReader.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTMultipartStreamReader.o" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTNavItemManager.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTNavItemManager.o" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTNavigator.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTNavigator.o" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTNavigatorManager.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTNavigatorManager.o" />
@@ -84,6 +179,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSegmentedControlManager.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSegmentedControlManager.o" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTShadowView.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTShadowView.o" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSliderManager.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSliderManager.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSourceCode.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSourceCode.o" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTStatusBarManager.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTStatusBarManager.o" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSwitchManager.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTSwitchManager.o" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTTabBar.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTTabBar.o" />
@@ -131,29 +227,277 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Products/Debug-iphonesimulator/libjschelpers.a" afterPath="$PROJECT_DIR$/ios/build/Build/Products/Debug-iphonesimulator/libjschelpers.a" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Products/Debug-iphonesimulator/libyoga.a" afterPath="$PROJECT_DIR$/ios/build/Build/Products/Debug-iphonesimulator/libyoga.a" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Logs/Build/Cache.db" afterPath="$PROJECT_DIR$/ios/build/Logs/Build/Cache.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/Accelerate-1IKW7DALYIORV.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/Accelerate-1IKW7DALYIORV.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/AudioToolbox-29TRZLCW5QLKV.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/AudioToolbox-29TRZLCW5QLKV.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CFNetwork-3188M7OK0JW08.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CFNetwork-3188M7OK0JW08.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreAudio-DU322UQPMITA.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreAudio-DU322UQPMITA.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreFoundation-J9ZOXGK4ZTRR.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreFoundation-J9ZOXGK4ZTRR.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreGraphics-54UV9QOCX3ZY.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreGraphics-54UV9QOCX3ZY.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreImage-N94D31PLFESQ.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreImage-N94D31PLFESQ.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreLocation-2RB9TGORWT0YQ.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreLocation-2RB9TGORWT0YQ.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreMIDI-2OV5TK5CIMZXQ.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreMIDI-2OV5TK5CIMZXQ.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreText-3W9A51BO0R6G.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreText-3W9A51BO0R6G.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreVideo-1MLDN391V99P4.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/CoreVideo-1MLDN391V99P4.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/Darwin-38I6DLZ5IH61J.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/Darwin-38I6DLZ5IH61J.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/Dispatch-2LX9MWM6UEPQW.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/Dispatch-2LX9MWM6UEPQW.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/Foundation-3DFYNEBRQSXST.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/Foundation-3DFYNEBRQSXST.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/ImageIO-YVI44K06S0WO.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/ImageIO-YVI44K06S0WO.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/MachO-1BMJAO5Q3NM3O.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/MachO-1BMJAO5Q3NM3O.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/MobileCoreServices-N94D31PLFESQ.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/MobileCoreServices-N94D31PLFESQ.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/ObjectiveC-1RQA2RIXJIE19.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/ObjectiveC-1RQA2RIXJIE19.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/OpenGLES-JLMMBGEUW8IK.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/OpenGLES-JLMMBGEUW8IK.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/QuartzCore-23I9VTX2KZMTH.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/QuartzCore-23I9VTX2KZMTH.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/Security-27ZMYP8CODFT0.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/Security-27ZMYP8CODFT0.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/SystemConfiguration-354UAJE49HRJF.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/SystemConfiguration-354UAJE49HRJF.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/UIKit-1V5UHAPTOD24G.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/UIKit-1V5UHAPTOD24G.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/_Builtin_intrinsics-1NKGPDERPGHAD.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/_Builtin_intrinsics-1NKGPDERPGHAD.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/modules.idx" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/modules.idx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/os_object-38I6DLZ5IH61J.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/11TTCI1KJLAQ1/os_object-38I6DLZ5IH61J.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/AVFoundation-2W8OQOO5E005V.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/AVFoundation-2W8OQOO5E005V.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/AudioToolbox-29TRZLCW5QLKV.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/AudioToolbox-29TRZLCW5QLKV.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/AudioUnit-1R3FCTHQHAFWE.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/AudioUnit-1R3FCTHQHAFWE.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CFNetwork-3188M7OK0JW08.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CFNetwork-3188M7OK0JW08.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreAudio-DU322UQPMITA.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreAudio-DU322UQPMITA.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreFoundation-J9ZOXGK4ZTRR.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreFoundation-J9ZOXGK4ZTRR.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreGraphics-54UV9QOCX3ZY.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreGraphics-54UV9QOCX3ZY.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreImage-N94D31PLFESQ.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreImage-N94D31PLFESQ.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreLocation-2RB9TGORWT0YQ.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreLocation-2RB9TGORWT0YQ.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreMIDI-2OV5TK5CIMZXQ.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreMIDI-2OV5TK5CIMZXQ.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreMedia-3JTCZ41S8BKUD.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreMedia-3JTCZ41S8BKUD.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreText-3W9A51BO0R6G.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreText-3W9A51BO0R6G.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreVideo-1MLDN391V99P4.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/CoreVideo-1MLDN391V99P4.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/Darwin-38I6DLZ5IH61J.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/Darwin-38I6DLZ5IH61J.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/Dispatch-2LX9MWM6UEPQW.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/Dispatch-2LX9MWM6UEPQW.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/Foundation-3DFYNEBRQSXST.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/Foundation-3DFYNEBRQSXST.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/JavaScriptCore-N94D31PLFESQ.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/JavaScriptCore-N94D31PLFESQ.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/MachO-1BMJAO5Q3NM3O.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/MachO-1BMJAO5Q3NM3O.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/MediaToolbox-3N6MLXYI7H98P.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/MediaToolbox-3N6MLXYI7H98P.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/ObjectiveC-1RQA2RIXJIE19.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/ObjectiveC-1RQA2RIXJIE19.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/OpenGLES-JLMMBGEUW8IK.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/OpenGLES-JLMMBGEUW8IK.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/QuartzCore-23I9VTX2KZMTH.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/QuartzCore-23I9VTX2KZMTH.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/Security-27ZMYP8CODFT0.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/Security-27ZMYP8CODFT0.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/UIKit-1V5UHAPTOD24G.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/UIKit-1V5UHAPTOD24G.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/modules.idx" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/modules.idx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/os_object-38I6DLZ5IH61J.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/1R5ALE8XHRRA4/os_object-38I6DLZ5IH61J.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/AVFoundation-2W8OQOO5E005V.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/AVFoundation-2W8OQOO5E005V.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/AudioToolbox-29TRZLCW5QLKV.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/AudioToolbox-29TRZLCW5QLKV.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/AudioUnit-1R3FCTHQHAFWE.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/AudioUnit-1R3FCTHQHAFWE.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CFNetwork-3188M7OK0JW08.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CFNetwork-3188M7OK0JW08.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreAudio-DU322UQPMITA.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreAudio-DU322UQPMITA.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreFoundation-J9ZOXGK4ZTRR.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreFoundation-J9ZOXGK4ZTRR.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreGraphics-54UV9QOCX3ZY.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreGraphics-54UV9QOCX3ZY.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreImage-N94D31PLFESQ.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreImage-N94D31PLFESQ.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreLocation-2RB9TGORWT0YQ.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreLocation-2RB9TGORWT0YQ.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreMIDI-2OV5TK5CIMZXQ.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreMIDI-2OV5TK5CIMZXQ.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreMedia-3JTCZ41S8BKUD.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreMedia-3JTCZ41S8BKUD.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreText-3W9A51BO0R6G.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreText-3W9A51BO0R6G.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreVideo-1MLDN391V99P4.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/CoreVideo-1MLDN391V99P4.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/Darwin-38I6DLZ5IH61J.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/Darwin-38I6DLZ5IH61J.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/Dispatch-2LX9MWM6UEPQW.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/Dispatch-2LX9MWM6UEPQW.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/Foundation-3DFYNEBRQSXST.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/Foundation-3DFYNEBRQSXST.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/JavaScriptCore-N94D31PLFESQ.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/JavaScriptCore-N94D31PLFESQ.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/MachO-1BMJAO5Q3NM3O.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/MachO-1BMJAO5Q3NM3O.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/MediaToolbox-3N6MLXYI7H98P.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/MediaToolbox-3N6MLXYI7H98P.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/ObjectiveC-1RQA2RIXJIE19.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/ObjectiveC-1RQA2RIXJIE19.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/OpenGLES-JLMMBGEUW8IK.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/OpenGLES-JLMMBGEUW8IK.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/QuartzCore-23I9VTX2KZMTH.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/QuartzCore-23I9VTX2KZMTH.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/Security-27ZMYP8CODFT0.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/Security-27ZMYP8CODFT0.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/UIKit-1V5UHAPTOD24G.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/UIKit-1V5UHAPTOD24G.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/modules.idx" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/modules.idx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/os_object-38I6DLZ5IH61J.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/23H8A59MTA9VG/os_object-38I6DLZ5IH61J.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/CFNetwork-3188M7OK0JW08.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/CFNetwork-3188M7OK0JW08.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/CoreFoundation-J9ZOXGK4ZTRR.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/CoreFoundation-J9ZOXGK4ZTRR.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/CoreGraphics-54UV9QOCX3ZY.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/CoreGraphics-54UV9QOCX3ZY.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/CoreImage-N94D31PLFESQ.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/CoreImage-N94D31PLFESQ.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/CoreText-3W9A51BO0R6G.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/CoreText-3W9A51BO0R6G.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/CoreVideo-1MLDN391V99P4.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/CoreVideo-1MLDN391V99P4.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/Darwin-38I6DLZ5IH61J.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/Darwin-38I6DLZ5IH61J.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/Dispatch-2LX9MWM6UEPQW.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/Dispatch-2LX9MWM6UEPQW.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/Foundation-3DFYNEBRQSXST.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/Foundation-3DFYNEBRQSXST.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/MachO-1BMJAO5Q3NM3O.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/MachO-1BMJAO5Q3NM3O.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/ObjectiveC-1RQA2RIXJIE19.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/ObjectiveC-1RQA2RIXJIE19.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/OpenGLES-JLMMBGEUW8IK.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/OpenGLES-JLMMBGEUW8IK.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/QuartzCore-23I9VTX2KZMTH.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/QuartzCore-23I9VTX2KZMTH.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/Security-27ZMYP8CODFT0.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/Security-27ZMYP8CODFT0.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/UIKit-1V5UHAPTOD24G.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/UIKit-1V5UHAPTOD24G.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/modules.idx" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/modules.idx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/os_object-38I6DLZ5IH61J.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/2GT8FJIBEYT0J/os_object-38I6DLZ5IH61J.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/Accelerate-1IKW7DALYIORV.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/Accelerate-1IKW7DALYIORV.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/AudioToolbox-29TRZLCW5QLKV.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/AudioToolbox-29TRZLCW5QLKV.pcm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/CFNetwork-3188M7OK0JW08.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/CFNetwork-3188M7OK0JW08.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/CoreAudio-DU322UQPMITA.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/CoreAudio-DU322UQPMITA.pcm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/CoreFoundation-J9ZOXGK4ZTRR.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/CoreFoundation-J9ZOXGK4ZTRR.pcm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/CoreGraphics-54UV9QOCX3ZY.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/CoreGraphics-54UV9QOCX3ZY.pcm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/CoreImage-N94D31PLFESQ.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/CoreImage-N94D31PLFESQ.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/CoreLocation-2RB9TGORWT0YQ.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/CoreLocation-2RB9TGORWT0YQ.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/CoreMIDI-2OV5TK5CIMZXQ.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/CoreMIDI-2OV5TK5CIMZXQ.pcm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/CoreText-3W9A51BO0R6G.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/CoreText-3W9A51BO0R6G.pcm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/CoreVideo-1MLDN391V99P4.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/CoreVideo-1MLDN391V99P4.pcm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/Darwin-38I6DLZ5IH61J.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/Darwin-38I6DLZ5IH61J.pcm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/Dispatch-2LX9MWM6UEPQW.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/Dispatch-2LX9MWM6UEPQW.pcm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/Foundation-3DFYNEBRQSXST.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/Foundation-3DFYNEBRQSXST.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/ImageIO-YVI44K06S0WO.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/ImageIO-YVI44K06S0WO.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/JavaScriptCore-N94D31PLFESQ.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/JavaScriptCore-N94D31PLFESQ.pcm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/MachO-1BMJAO5Q3NM3O.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/MachO-1BMJAO5Q3NM3O.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/MobileCoreServices-N94D31PLFESQ.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/MobileCoreServices-N94D31PLFESQ.pcm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/ObjectiveC-1RQA2RIXJIE19.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/ObjectiveC-1RQA2RIXJIE19.pcm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/OpenGLES-JLMMBGEUW8IK.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/OpenGLES-JLMMBGEUW8IK.pcm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/QuartzCore-23I9VTX2KZMTH.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/QuartzCore-23I9VTX2KZMTH.pcm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/Security-27ZMYP8CODFT0.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/Security-27ZMYP8CODFT0.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/SystemConfiguration-354UAJE49HRJF.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/SystemConfiguration-354UAJE49HRJF.pcm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/UIKit-1V5UHAPTOD24G.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/UIKit-1V5UHAPTOD24G.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/_Builtin_intrinsics-1NKGPDERPGHAD.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/_Builtin_intrinsics-1NKGPDERPGHAD.pcm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/modules.idx" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/modules.idx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/os_object-38I6DLZ5IH61J.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/3KBZSBQ7857BZ/os_object-38I6DLZ5IH61J.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/CFNetwork-3188M7OK0JW08.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/CFNetwork-3188M7OK0JW08.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/CoreFoundation-J9ZOXGK4ZTRR.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/CoreFoundation-J9ZOXGK4ZTRR.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/CoreGraphics-54UV9QOCX3ZY.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/CoreGraphics-54UV9QOCX3ZY.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/CoreImage-N94D31PLFESQ.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/CoreImage-N94D31PLFESQ.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/CoreText-3W9A51BO0R6G.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/CoreText-3W9A51BO0R6G.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/CoreVideo-1MLDN391V99P4.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/CoreVideo-1MLDN391V99P4.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/Darwin-38I6DLZ5IH61J.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/Darwin-38I6DLZ5IH61J.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/Dispatch-2LX9MWM6UEPQW.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/Dispatch-2LX9MWM6UEPQW.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/Foundation-3DFYNEBRQSXST.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/Foundation-3DFYNEBRQSXST.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/MachO-1BMJAO5Q3NM3O.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/MachO-1BMJAO5Q3NM3O.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/ObjectiveC-1RQA2RIXJIE19.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/ObjectiveC-1RQA2RIXJIE19.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/OpenGLES-JLMMBGEUW8IK.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/OpenGLES-JLMMBGEUW8IK.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/QuartzCore-23I9VTX2KZMTH.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/QuartzCore-23I9VTX2KZMTH.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/Security-27ZMYP8CODFT0.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/Security-27ZMYP8CODFT0.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/UIKit-1V5UHAPTOD24G.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/UIKit-1V5UHAPTOD24G.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/modules.idx" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/modules.idx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/os_object-38I6DLZ5IH61J.pcm" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/QSKP593KZTVO/os_object-38I6DLZ5IH61J.pcm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/home.js" afterPath="$PROJECT_DIR$/component/home.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/main.js" afterPath="$PROJECT_DIR$/component/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/mine.js" afterPath="$PROJECT_DIR$/component/mine.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.ios.js" afterPath="$PROJECT_DIR$/index.ios.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ART.LinkFileList" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ART.LinkFileList" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTBrush.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTBrush.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTGroup.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTGroup.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTGroupManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTGroupManager.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTLinearGradient.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTLinearGradient.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTNode.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTNode.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTNodeManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTNodeManager.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTPattern.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTPattern.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTRadialGradient.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTRadialGradient.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTRenderable.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTRenderable.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTRenderableManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTRenderableManager.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTShape.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTShape.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTShapeManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTShapeManager.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTSolidColor.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTSolidColor.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTSurfaceView.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTSurfaceView.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTSurfaceViewManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTSurfaceViewManager.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTText.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTText.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTTextManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/ARTTextManager.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/RCTConvert+ART.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/ART.build/Debug-iphonesimulator/ART.build/Objects-normal/x86_64/RCTConvert+ART.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/Messi.build/Objects-normal/x86_64/AppDelegate.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/Messi.build/Objects-normal/x86_64/AppDelegate.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/Messi.build/Objects-normal/x86_64/Messi.LinkFileList" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/Messi.build/Objects-normal/x86_64/Messi.LinkFileList" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/Messi.build/Objects-normal/x86_64/Messi_vers.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/Messi.build/Objects-normal/x86_64/Messi_vers.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/Messi.build/Objects-normal/x86_64/main.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/Messi.build/Debug-iphonesimulator/Messi.build/Objects-normal/x86_64/main.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTActionSheet.build/Debug-iphonesimulator/RCTActionSheet.build/Objects-normal/x86_64/RCTActionSheet.LinkFileList" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTActionSheet.build/Debug-iphonesimulator/RCTActionSheet.build/Objects-normal/x86_64/RCTActionSheet.LinkFileList" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTActionSheet.build/Debug-iphonesimulator/RCTActionSheet.build/Objects-normal/x86_64/RCTActionSheetManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTActionSheet.build/Debug-iphonesimulator/RCTActionSheet.build/Objects-normal/x86_64/RCTActionSheetManager.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTActionSheet.build/Debug-iphonesimulator/RCTActionSheet.build/StaticAnalyzer/RCTActionSheet/RCTActionSheet/normal/x86_64/RCTActionSheetManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTActionSheet.build/Debug-iphonesimulator/RCTActionSheet.build/StaticAnalyzer/RCTActionSheet/RCTActionSheet/normal/x86_64/RCTActionSheetManager.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTAdditionAnimatedNode.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTAdditionAnimatedNode.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTAnimatedNode.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTAnimatedNode.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTAnimation.LinkFileList" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTAnimation.LinkFileList" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTAnimationUtils.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTAnimationUtils.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTDiffClampAnimatedNode.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTDiffClampAnimatedNode.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTDivisionAnimatedNode.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTDivisionAnimatedNode.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTEventAnimation.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTEventAnimation.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTFrameAnimation.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTFrameAnimation.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTInterpolationAnimatedNode.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTInterpolationAnimatedNode.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTModuloAnimatedNode.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTModuloAnimatedNode.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTMultiplicationAnimatedNode.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTMultiplicationAnimatedNode.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTNativeAnimatedModule.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTNativeAnimatedModule.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTNativeAnimatedNodesManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTNativeAnimatedNodesManager.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTPropsAnimatedNode.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTPropsAnimatedNode.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTSpringAnimation.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTSpringAnimation.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTStyleAnimatedNode.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTStyleAnimatedNode.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTTransformAnimatedNode.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTTransformAnimatedNode.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTValueAnimatedNode.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTValueAnimatedNode.d" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTGeolocation.build/Debug-iphonesimulator/RCTGeolocation.build/Objects-normal/x86_64/RCTGeolocation.LinkFileList" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTGeolocation.build/Debug-iphonesimulator/RCTGeolocation.build/Objects-normal/x86_64/RCTGeolocation.LinkFileList" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTGeolocation.build/Debug-iphonesimulator/RCTGeolocation.build/Objects-normal/x86_64/RCTLocationObserver.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTGeolocation.build/Debug-iphonesimulator/RCTGeolocation.build/Objects-normal/x86_64/RCTLocationObserver.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTGeolocation.build/Debug-iphonesimulator/RCTGeolocation.build/StaticAnalyzer/RCTGeolocation/RCTGeolocation/normal/x86_64/RCTLocationObserver.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTGeolocation.build/Debug-iphonesimulator/RCTGeolocation.build/StaticAnalyzer/RCTGeolocation/RCTGeolocation/normal/x86_64/RCTLocationObserver.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTGIFImageDecoder.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTGIFImageDecoder.d" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImage.LinkFileList" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImage.LinkFileList" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageBlurUtils.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageBlurUtils.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageCache.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageCache.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageEditingManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageEditingManager.d" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageLoader.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageLoader.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageStoreManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageStoreManager.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageUtils.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageUtils.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageView.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageView.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageViewManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageViewManager.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTLocalAssetImageLoader.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTLocalAssetImageLoader.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTResizeMode.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTResizeMode.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/StaticAnalyzer/RCTImage/RCTImage/normal/x86_64/RCTGIFImageDecoder.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/StaticAnalyzer/RCTImage/RCTImage/normal/x86_64/RCTGIFImageDecoder.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/StaticAnalyzer/RCTImage/RCTImage/normal/x86_64/RCTImageBlurUtils.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/StaticAnalyzer/RCTImage/RCTImage/normal/x86_64/RCTImageBlurUtils.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/StaticAnalyzer/RCTImage/RCTImage/normal/x86_64/RCTImageCache.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/StaticAnalyzer/RCTImage/RCTImage/normal/x86_64/RCTImageCache.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/StaticAnalyzer/RCTImage/RCTImage/normal/x86_64/RCTImageEditingManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/StaticAnalyzer/RCTImage/RCTImage/normal/x86_64/RCTImageEditingManager.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/StaticAnalyzer/RCTImage/RCTImage/normal/x86_64/RCTImageLoader.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/StaticAnalyzer/RCTImage/RCTImage/normal/x86_64/RCTImageLoader.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/StaticAnalyzer/RCTImage/RCTImage/normal/x86_64/RCTImageStoreManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/StaticAnalyzer/RCTImage/RCTImage/normal/x86_64/RCTImageStoreManager.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/StaticAnalyzer/RCTImage/RCTImage/normal/x86_64/RCTImageUtils.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/StaticAnalyzer/RCTImage/RCTImage/normal/x86_64/RCTImageUtils.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/StaticAnalyzer/RCTImage/RCTImage/normal/x86_64/RCTImageView.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/StaticAnalyzer/RCTImage/RCTImage/normal/x86_64/RCTImageView.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/StaticAnalyzer/RCTImage/RCTImage/normal/x86_64/RCTImageViewManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/StaticAnalyzer/RCTImage/RCTImage/normal/x86_64/RCTImageViewManager.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/StaticAnalyzer/RCTImage/RCTImage/normal/x86_64/RCTLocalAssetImageLoader.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/StaticAnalyzer/RCTImage/RCTImage/normal/x86_64/RCTLocalAssetImageLoader.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/StaticAnalyzer/RCTImage/RCTImage/normal/x86_64/RCTResizeMode.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/StaticAnalyzer/RCTImage/RCTImage/normal/x86_64/RCTResizeMode.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTLinking.build/Debug-iphonesimulator/RCTLinking.build/Objects-normal/x86_64/RCTLinking.LinkFileList" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTLinking.build/Debug-iphonesimulator/RCTLinking.build/Objects-normal/x86_64/RCTLinking.LinkFileList" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTLinking.build/Debug-iphonesimulator/RCTLinking.build/Objects-normal/x86_64/RCTLinkingManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTLinking.build/Debug-iphonesimulator/RCTLinking.build/Objects-normal/x86_64/RCTLinkingManager.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTDataRequestHandler.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTDataRequestHandler.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTFileRequestHandler.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTFileRequestHandler.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTHTTPRequestHandler.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTHTTPRequestHandler.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTNetInfo.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTNetInfo.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTNetwork.LinkFileList" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTNetwork.LinkFileList" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTNetworkTask.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTNetworkTask.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTNetworking.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTNetworking.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/StaticAnalyzer/RCTNetwork/RCTNetwork/normal/x86_64/RCTDataRequestHandler.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/StaticAnalyzer/RCTNetwork/RCTNetwork/normal/x86_64/RCTDataRequestHandler.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/StaticAnalyzer/RCTNetwork/RCTNetwork/normal/x86_64/RCTFileRequestHandler.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/StaticAnalyzer/RCTNetwork/RCTNetwork/normal/x86_64/RCTFileRequestHandler.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/StaticAnalyzer/RCTNetwork/RCTNetwork/normal/x86_64/RCTHTTPRequestHandler.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/StaticAnalyzer/RCTNetwork/RCTNetwork/normal/x86_64/RCTHTTPRequestHandler.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/StaticAnalyzer/RCTNetwork/RCTNetwork/normal/x86_64/RCTNetInfo.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/StaticAnalyzer/RCTNetwork/RCTNetwork/normal/x86_64/RCTNetInfo.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/StaticAnalyzer/RCTNetwork/RCTNetwork/normal/x86_64/RCTNetworkTask.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/StaticAnalyzer/RCTNetwork/RCTNetwork/normal/x86_64/RCTNetworkTask.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/StaticAnalyzer/RCTNetwork/RCTNetwork/normal/x86_64/RCTNetworking.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/StaticAnalyzer/RCTNetwork/RCTNetwork/normal/x86_64/RCTNetworking.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTSettings.build/Debug-iphonesimulator/RCTSettings.build/Objects-normal/x86_64/RCTSettings.LinkFileList" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTSettings.build/Debug-iphonesimulator/RCTSettings.build/Objects-normal/x86_64/RCTSettings.LinkFileList" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTSettings.build/Debug-iphonesimulator/RCTSettings.build/Objects-normal/x86_64/RCTSettingsManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTSettings.build/Debug-iphonesimulator/RCTSettings.build/Objects-normal/x86_64/RCTSettingsManager.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTConvert+Text.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTConvert+Text.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTRawTextManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTRawTextManager.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTShadowRawText.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTShadowRawText.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTShadowText.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTShadowText.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTShadowTextField.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTShadowTextField.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTShadowTextView.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTShadowTextView.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTText.LinkFileList" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTText.LinkFileList" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTText.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTText.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextField.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextField.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextFieldManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextFieldManager.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextManager.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextSelection.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextSelection.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextView.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextView.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextViewManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTTextViewManager.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTUITextView.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/Objects-normal/x86_64/RCTUITextView.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTConvert+Text.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTConvert+Text.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTRawTextManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTRawTextManager.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTShadowRawText.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTShadowRawText.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTShadowText.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTShadowText.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTShadowTextField.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTShadowTextField.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTShadowTextView.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTShadowTextView.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTText.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTText.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTTextField.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTTextField.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTTextFieldManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTTextFieldManager.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTTextManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTTextManager.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTTextSelection.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTTextSelection.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTTextView.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTTextView.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTTextViewManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTTextViewManager.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTUITextView.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/StaticAnalyzer/RCTText/RCTText/normal/x86_64/RCTUITextView.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTVibration.build/Debug-iphonesimulator/RCTVibration.build/Objects-normal/x86_64/RCTVibration.LinkFileList" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTVibration.build/Debug-iphonesimulator/RCTVibration.build/Objects-normal/x86_64/RCTVibration.LinkFileList" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTVibration.build/Debug-iphonesimulator/RCTVibration.build/Objects-normal/x86_64/RCTVibration.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTVibration.build/Debug-iphonesimulator/RCTVibration.build/Objects-normal/x86_64/RCTVibration.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTVibration.build/Debug-iphonesimulator/RCTVibration.build/StaticAnalyzer/RCTVibration/RCTVibration/normal/x86_64/RCTVibration.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTVibration.build/Debug-iphonesimulator/RCTVibration.build/StaticAnalyzer/RCTVibration/RCTVibration/normal/x86_64/RCTVibration.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTReconnectingWebSocket.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTReconnectingWebSocket.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTSRWebSocket.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTSRWebSocket.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTWebSocket.LinkFileList" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTWebSocket.LinkFileList" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTWebSocketExecutor.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTWebSocketExecutor.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTWebSocketModule.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTWebSocketModule.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTWebSocketObserver.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTWebSocketObserver.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RNVectorIcons.build/Debug-iphonesimulator/RNVectorIcons.build/Objects-normal/x86_64/RNVectorIcons.LinkFileList" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RNVectorIcons.build/Debug-iphonesimulator/RNVectorIcons.build/Objects-normal/x86_64/RNVectorIcons.LinkFileList" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/RNVectorIcons.build/Debug-iphonesimulator/RNVectorIcons.build/Objects-normal/x86_64/RNVectorIconsManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/RNVectorIcons.build/Debug-iphonesimulator/RNVectorIcons.build/Objects-normal/x86_64/RNVectorIconsManager.d" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTAccessibilityManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTAccessibilityManager.d" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTActivityIndicatorViewManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTActivityIndicatorViewManager.d" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTAlertManager.d" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTAlertManager.d" />
@@ -278,6 +622,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/yoga.LinkFileList" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/yoga.LinkFileList" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/ModuleCache/Session.modulevalidation" afterPath="$PROJECT_DIR$/ios/build/ModuleCache/Session.modulevalidation" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/info.plist" afterPath="$PROJECT_DIR$/ios/build/info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-native-swiper/README.md" afterPath="$PROJECT_DIR$/node_modules/react-native-swiper/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-native-swiper/package.json" afterPath="$PROJECT_DIR$/node_modules/react-native-swiper/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-native-swiper/src/index.js" afterPath="$PROJECT_DIR$/node_modules/react-native-swiper/src/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="Messi.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -294,6 +643,26 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="login.js" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/component/Login/login.js">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="120">
+                    <caret line="9" column="64" lean-forward="true" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="Messi">
@@ -302,11 +671,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.ios.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.ios.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.ios.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="15" column="55" lean-forward="false" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -315,7 +684,7 @@
       <file leaf-file-name="account.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/component/MineMenu/account.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="225">
               <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="38" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
@@ -324,26 +693,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/component/main.js">
+      <file leaf-file-name="messageCss.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/component/message/messageCss.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="94" column="74" lean-forward="false" selection-start-line="94" selection-start-column="74" selection-end-line="94" selection-end-column="74" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#89#130#0" expanded="true" />
+                <element signature="e#0#47#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="message.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/component/message.js">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/component/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="693">
-              <caret line="57" column="14" lean-forward="false" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
+            <state relative-caret-position="1395">
+              <caret line="96" column="14" lean-forward="false" selection-start-line="96" selection-start-column="14" selection-end-line="96" selection-end-column="14" />
               <folding>
-                <element signature="e#89#128#0" expanded="true" />
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#89#130#0" expanded="true" />
+                <marker date="1504440614000" expanded="true" signature="4227:4233" ph="{&quot;screen&quot;: Detail...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/component/home.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2535">
+              <caret line="175" column="1" lean-forward="false" selection-start-line="175" selection-start-column="1" selection-end-line="175" selection-end-column="1" />
+              <folding>
+                <marker date="1504519669000" expanded="true" signature="5645:5648" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="request.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/component/MineMenu/request.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="update.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/component/MineMenu/update.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -352,7 +756,7 @@
       <file leaf-file-name="mine.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/component/mine.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="75">
               <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
               <folding />
             </state>
@@ -362,8 +766,8 @@
       <file leaf-file-name="find.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/component/find.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="966">
-              <caret line="46" column="22" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="57" selection-end-column="10" />
+            <state relative-caret-position="375">
+              <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#89#128#0" expanded="true" />
@@ -434,6 +838,7 @@
         <option value="$PROJECT_DIR$/component/MineMenu/account.js" />
         <option value="$PROJECT_DIR$/component/home.js" />
         <option value="$PROJECT_DIR$/component/main.js" />
+        <option value="$PROJECT_DIR$/component/Login/login.js" />
       </list>
     </option>
   </component>
@@ -455,10 +860,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="126" />
-    <option name="y" value="44" />
-    <option name="width" value="1440" />
-    <option name="height" value="807" />
+    <option name="x" value="1440" />
+    <option name="y" value="-509" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -475,8 +880,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -489,8 +892,92 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Messi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Messi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Messi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Messi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Messi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Messi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MineMenu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Messi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Messi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="message" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Messi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Messi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -499,6 +986,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -591,6 +1079,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6541c173-bf81-4464-aa20-afd0bf5d7c52" name="Default" comment="" />
@@ -619,33 +1110,35 @@
       <workItem from="1500181617881" duration="190000" />
       <workItem from="1501912374925" duration="24000" />
       <workItem from="1502715362983" duration="1327000" />
+      <workItem from="1503828695753" duration="1196000" />
+      <workItem from="1504427386710" duration="26000" />
+      <workItem from="1504535850779" duration="117000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71153000" />
+    <option name="totallyTimeSpent" value="72492000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="126" y="44" width="1440" height="807" extended-state="0" />
-    <editor active="true" />
+    <frame x="1440" y="-509" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17847222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1296875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -668,7 +1161,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/component/main.js</url>
-          <line>23</line>
+          <line>24</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
@@ -707,24 +1200,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/component/message.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="17" column="41" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding>
-            <element signature="e#89#128#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/mine.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.android.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -762,6 +1237,7 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#89#130#0" expanded="true" />
+            <marker date="1504440614000" expanded="true" signature="4227:4233" ph="{&quot;screen&quot;: Detail...}" />
           </folding>
         </state>
       </provider>
@@ -791,16 +1267,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/component/message.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="17" column="41" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding>
-            <element signature="e#89#128#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/component/message.js" />
     <entry file="file://$PROJECT_DIR$/component/mine.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -891,23 +1358,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-626">
           <caret line="67" column="24" lean-forward="false" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/MineMenu/request.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/MineMenu/update.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1011,14 +1461,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.ios.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ios/Messi/AppDelegate.m">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-227">
@@ -1028,7 +1470,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/component/mine.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="75">
           <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
           <folding />
         </state>
@@ -1041,30 +1483,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/component/message.js">
+    <entry file="file://$PROJECT_DIR$/component/message.js" />
+    <entry file="file://$PROJECT_DIR$/component/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="57" column="14" lean-forward="false" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
-          <folding>
-            <element signature="e#89#128#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/component/find.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="966">
-          <caret line="46" column="22" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="57" selection-end-column="10" />
+        <state relative-caret-position="1395">
+          <caret line="96" column="14" lean-forward="false" selection-start-line="96" selection-start-column="14" selection-end-line="96" selection-end-column="14" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#89#128#0" expanded="true" />
+            <element signature="e#89#130#0" expanded="true" />
+            <marker date="1504440614000" expanded="true" signature="4227:4233" ph="{&quot;screen&quot;: Detail...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/component/MineMenu/account.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="225">
           <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="38" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
@@ -1072,21 +1506,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/component/home.js">
+    <entry file="file://$PROJECT_DIR$/component/message/messageCss.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="206" column="21" lean-forward="true" selection-start-line="206" selection-start-column="21" selection-end-line="206" selection-end-column="21" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/component/main.js">
+    <entry file="file://$PROJECT_DIR$/component/MineMenu/request.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="94" column="74" lean-forward="false" selection-start-line="94" selection-start-column="74" selection-end-line="94" selection-end-column="74" />
+        <state relative-caret-position="120">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/MineMenu/update.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#89#130#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/find.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#89#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2535">
+          <caret line="175" column="1" lean-forward="false" selection-start-line="175" selection-start-column="1" selection-end-line="175" selection-end-column="1" />
+          <folding>
+            <marker date="1504519669000" expanded="true" signature="5645:5648" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.ios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="15" column="55" lean-forward="false" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/Login/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="64" lean-forward="true" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+          <folding />
         </state>
       </provider>
     </entry>

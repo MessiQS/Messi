@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/mike/demo/Messi/node_modules/react-native/Libraries/Text/RCTUITextView.m \
-  /Users/mike/demo/Messi/node_modules/react-native/Libraries/Text/RCTUITextView.h
+  /Users/mk/Desktop/Messi/node_modules/react-native/Libraries/Text/RCTUITextView.m \
+  /Users/mk/Desktop/Messi/node_modules/react-native/Libraries/Text/RCTUITextView.h

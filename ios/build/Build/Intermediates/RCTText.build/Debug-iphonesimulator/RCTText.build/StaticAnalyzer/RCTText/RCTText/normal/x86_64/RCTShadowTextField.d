@@ -1,16 +1,16 @@
 dependencies: \
-  /Users/mike/demo/Messi/node_modules/react-native/Libraries/Text/RCTShadowTextField.m \
-  /Users/mike/demo/Messi/node_modules/react-native/Libraries/Text/RCTShadowTextField.h \
-  /Users/mike/demo/Messi/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
-  /Users/mike/demo/Messi/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
-  /Users/mike/demo/Messi/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Users/mike/demo/Messi/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/mike/demo/Messi/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/mike/demo/Messi/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/mike/demo/Messi/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/mike/demo/Messi/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/mike/demo/Messi/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/mike/demo/Messi/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Users/mike/demo/Messi/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/mike/demo/Messi/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/mike/demo/Messi/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h
+  /Users/mk/Desktop/Messi/node_modules/react-native/Libraries/Text/RCTShadowTextField.m \
+  /Users/mk/Desktop/Messi/node_modules/react-native/Libraries/Text/RCTShadowTextField.h \
+  /Users/mk/Desktop/Messi/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/mk/Desktop/Messi/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/mk/Desktop/Messi/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/mk/Desktop/Messi/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/mk/Desktop/Messi/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/mk/Desktop/Messi/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/mk/Desktop/Messi/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/mk/Desktop/Messi/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/mk/Desktop/Messi/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/mk/Desktop/Messi/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/mk/Desktop/Messi/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/mk/Desktop/Messi/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/mk/Desktop/Messi/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h

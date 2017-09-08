@@ -126,7 +126,6 @@ class Mine extends Component {
                         </View>
                     </View>
                 </Container>
-
             </View>
         );
     }
