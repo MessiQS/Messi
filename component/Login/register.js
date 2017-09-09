@@ -10,8 +10,16 @@ import {
 import { TabNavigator, StackNavigator } from "react-navigation";
 import { Button, Container, Content, List, ListItem, Icon, Right, Left, Body, Switch, Form, Item, Input, Text } from 'native-base';
 import stylesContainer, { styles } from './registerCss';
+import Http from '../../service/http';
+// console.log(Http.post)
 class Register extends React.Component {
     _onPressButton(){
+        Http.post('api/signin',{
+            account:15895537043111,
+            password:'passorod',
+            phone:15895537043,
+            vericode:'1988'
+        }).then(console)
         console.log(123);
     }
     static navigationOptions = ({ navigation }) => ({
