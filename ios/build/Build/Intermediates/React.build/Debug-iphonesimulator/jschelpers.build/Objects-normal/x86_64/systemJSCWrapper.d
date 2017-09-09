@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/mk/Desktop/Messi/node_modules/react-native/ReactCommon/jschelpers/systemJSCWrapper.cpp \
-  /Users/mk/Desktop/Messi/node_modules/react-native/React/../ReactCommon/jschelpers/JSCWrapper.h
+  /Users/mike/demo/Messi/node_modules/react-native/ReactCommon/jschelpers/systemJSCWrapper.cpp \
+  /Users/mike/demo/Messi/node_modules/react-native/React/../ReactCommon/jschelpers/JSCWrapper.h
