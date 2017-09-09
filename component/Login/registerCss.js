@@ -51,13 +51,6 @@ export const styles = {
         backgroundColor: null,
         textAlign: 'center',
     },
-    agreeButton: {
-        padding:0,
-        margin:0,
-        width:50,
-        height: 50,
-        // backgroundColor:null
-    },
     agreeText: {
         width: 100,
         height: 50,
@@ -67,6 +60,10 @@ export const styles = {
         width:'100%',        
         textAlign: 'center',
         fontSize: 14,
+    },
+    agreeButton:{
+        fontSize:14,
+        color:"#ffa200"
     }
 };
 export default stylesContainer = StyleSheet.create({

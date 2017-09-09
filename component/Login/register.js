@@ -4,13 +4,16 @@ import {
     View,
     TextInput,
     TouchableOpacity,
+    TouchableHighlight,
     StyleSheet,
 } from 'react-native';
 import { TabNavigator, StackNavigator } from "react-navigation";
 import { Button, Container, Content, List, ListItem, Icon, Right, Left, Body, Switch, Form, Item, Input, Text } from 'native-base';
 import stylesContainer, { styles } from './registerCss';
 class Register extends React.Component {
-
+    _onPressButton(){
+        console.log(123);
+    }
     static navigationOptions = ({ navigation }) => ({
         title: '注册',
         headerStyle: {
@@ -47,10 +50,9 @@ class Register extends React.Component {
                     </View>
                     <View style={stylesContainer.agreeView}>
                         <Text style={styles.agreeBaseText}>注册即表示同意本
-                            <Button style={styles.agreeButton}>
-                                <Text style={styles.agreeText}>软件协议</Text>
-                            </Button>
+                            <Text style={styles.agreeButton} onPress={this._onPressButton}>软件协议</Text>
                         </Text>
+                            
                     </View>
             </View>
         );
