@@ -17,6 +17,7 @@ const styles = StyleSheet.create({
         alignItems: 'center',
     },
     wrapper: {
+        
         height: 200
     },
     slide1: {
