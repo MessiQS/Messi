@@ -13,14 +13,52 @@ import stylesContainer, { styles } from './registerCss';
 import Http from '../../service/http';
 // console.log(Http.post)
 class Register extends React.Component {
-    _onPressButton(){
-        Http.post('api/signin',{
-            account:15895537043111,
-            password:'passorod',
-            phone:15895537043,
-            vericode:'1988'
+    _onPressButton() {
+        var { account, password, phone, vericode } = this.state;
+        if (!account) {
+            console.log('填写账号');
+            return;
+        } else if (!password) {
+            console.log('填写密码')
+            return;
+        } else if (!vericode) {
+            console.log('填写验证码')
+            return;
+        };
+        Http.post('api/signin', {
+            account: account,
+            password: password,
+            phone: phone,
+            vericode: vericode
         }).then(console)
-        console.log(123);
+    };
+    //电话号码改变
+    phoneChange(phone) {
+        this.setState({
+            "account": phone,
+            "phone": phone
+        })
+    };
+    //密码
+    passwordtChange(password) {
+        this.setState({
+            "password": password
+        })
+    }
+    codeChange(vericode) {
+        this.setState({
+            "vericode": vericode
+        })
+    };
+    getCode() {
+        let { account } = this.state;
+        if (!account) {
+            console.log('请输入账号');
+            return;
+        }
+        Http.post('api/getcode', {
+            account: account
+        }).then(console)
     }
     static navigationOptions = ({ navigation }) => ({
         title: '注册',
@@ -34,34 +72,34 @@ class Register extends React.Component {
     render() {
         return (
             <View style={stylesContainer.container}>
-                    <Form style={styles.form}>
-                        <Item>
-                            <Icon active name='home' />
-                            <Input placeholder="请输入您的电话号码" ></Input>
-                        </Item>
-                        <Item>
-                            <Icon active name='home' />
-                            <Input placeholder="请输入您的密码" ></Input>
-                        </Item>
-                        <Item>
-                            <Icon active name='home' />
-                            <Input placeholder="请输入验证码" ></Input>
-                            <Button style={styles.vertificationCodeButton}>
-                                <Text style={styles.vertificationCodeText}>获取验证码</Text>
-                            </Button>
-                        </Item>
-                    </Form>
-                    <View style={stylesContainer.registerView}>
-                        <Button style={styles.registerButton}>
-                            <Text style={styles.registerText}>注册</Text>
+                <Form style={styles.form}>
+                    <Item>
+                        <Icon active name='home' />
+                        <Input placeholder="请输入您的电话号码" onChangeText={phone => this.phoneChange(phone)}></Input>
+                    </Item>
+                    <Item>
+                        <Icon active name='home' />
+                        <Input placeholder="请输入您的密码" onChangeText={passpord => this.passwordtChange(passpord)}></Input>
+                    </Item>
+                    <Item>
+                        <Icon active name='home' />
+                        <Input placeholder="请输入验证码" onChangeText={variCode => this.codeChange(variCode)}></Input>
+                        <Button style={styles.vertificationCodeButton} onPress={this.getCode.bind(this)}>
+                            <Text style={styles.vertificationCodeText} >获取验证码</Text>
                         </Button>
-                    </View>
-                    <View style={stylesContainer.agreeView}>
-                        <Text style={styles.agreeBaseText}>注册即表示同意本
-                            <Text style={styles.agreeButton} onPress={this._onPressButton}>软件协议</Text>
-                        </Text>
-                            
-                    </View>
+                    </Item>
+                </Form>
+                <View style={stylesContainer.registerView}>
+                    <Button style={styles.registerButton} onPress={this._onPressButton.bind(this)}>
+                        <Text style={styles.registerText}>注册</Text>
+                    </Button>
+                </View>
+                <View style={stylesContainer.agreeView}>
+                    <Text style={styles.agreeBaseText}>注册即表示同意本
+                            <Text style={styles.agreeButton} >软件协议</Text>
+                    </Text>
+
+                </View>
             </View>
         );
     }

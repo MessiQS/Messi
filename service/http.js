@@ -18,7 +18,6 @@ export default class Http{
                 }, 
                 body:body,            
             });
-        console.log(url,params);
         return fetch(url,params)   
 
     }
