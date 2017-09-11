@@ -18,7 +18,9 @@ export default class Http{
                 }, 
                 body:body,            
             });
-        return fetch(url,params)   
+        return fetch(url,params)
+                .then( res => res.json())
+                .catch( err => console.log(err))
 
     }
 }

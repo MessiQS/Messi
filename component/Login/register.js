@@ -13,6 +13,10 @@ import stylesContainer, { styles } from './registerCss';
 import Http from '../../service/http';
 // console.log(Http.post)
 class Register extends React.Component {
+    constructor(...props){
+        super();
+        this.state = this.state || {};
+    }
     _onPressButton() {
         var { account, password, phone, vericode } = this.state;
         if (!account) {
@@ -30,7 +34,7 @@ class Register extends React.Component {
             password: password,
             phone: phone,
             vericode: vericode
-        }).then(console)
+        }).then(console.log)
     };
     //电话号码改变
     phoneChange(phone) {
@@ -58,7 +62,9 @@ class Register extends React.Component {
         }
         Http.post('api/getcode', {
             account: account
-        }).then(console)
+        }).then( response => {
+             console.log(response)
+        })
     }
     static navigationOptions = ({ navigation }) => ({
         title: '注册',
