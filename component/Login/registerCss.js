@@ -3,21 +3,8 @@ import {
 } from 'react-native';
 
 export const styles = {
-    content: {
-        paddingLeft: 48,
-        paddingRight: 48,
-        backgroundColor: 'red',
-        top:0,
-        bottom:0,
-        paddingTop: 89,
-    },
     form: {
-        // top:89,
-        // height:300,
         flex: 1,
-    },
-    viewContainer: {
-
     },
     textInput: {
         top: 30,
