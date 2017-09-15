@@ -9,7 +9,7 @@ import {
 import Button from 'apsl-react-native-button';
 import { TabNavigator, StackNavigator } from "react-navigation";
 import Register from './register';
-
+import LoginPage from './loginPage'
 
 export default class Login extends Component {
 
@@ -26,8 +26,8 @@ export default class Login extends Component {
 		return (
 			<Image source={require('../../Images/background.png')} style={styles.container}>
 				<View style={styles.buttonContainer}>
-					<Button style={[styles.loginButtonStyle, styles.buttonStyle]} onPress={ () =>  	   
-								navigate('Register', { name: 'Register' })
+					<Button style={[styles.loginButtonStyle, styles.buttonStyle]} onPress={ () =>
+								navigate('LoginPage', { name: 'LoginPage' })
 					      }>
 					  <View style={styles.nestedViewStyle}>
 					    <Text style={styles.nestedTextStyle}>登录</Text>
