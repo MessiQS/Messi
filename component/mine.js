@@ -26,6 +26,8 @@ import {
     Button
 } from 'native-base';
 
+
+
 class MineListItem extends Component {
     constructor(props) {
         super(props);

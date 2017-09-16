@@ -26,7 +26,7 @@ export default class Login extends Component {
 		return (
 			<Image source={require('../../Images/background.png')} style={styles.container}>
 				<View style={styles.buttonContainer}>
-					<Button style={[styles.loginButtonStyle, styles.buttonStyle]} onPress={ () =>
+					<Button style={[styles.loginButtonStyle, styles.buttonStyle]} onPress={() =>
 								navigate('LoginPage', { name: 'LoginPage' })
 					      }>
 					  <View style={styles.nestedViewStyle}>
