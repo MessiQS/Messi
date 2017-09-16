@@ -21,7 +21,9 @@ import Account from './MineMenu/account';
 import Update from './MineMenu/update';
 import Request from './MineMenu/request';
 import Detail from './detail/detail';
-import Register from './Login/login';
+import Register from './Login/register';
+import Login from './Login/login';
+import LoginPage from './Login/loginPage'
 
 const bookIcon = require('../Images/book.png');
 const questionIcon = require('../Images/question.png');
@@ -125,7 +127,13 @@ const Messi = StackNavigator({
     },
     Register:{
         screen: Register
-    }
+    },
+    Login:{
+		screen:Login,
+	},
+	LoginPage: {
+		screen:LoginPage,
+	},
 })
 
 export default Messi;

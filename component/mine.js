@@ -4,12 +4,13 @@
  * @flow
  */
 
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 import {
     StyleSheet,
     Image,
     Text,
-    View
+    View,
+    TouchableOpacity
 } from 'react-native';
 import {
     Container,
@@ -38,24 +39,24 @@ class MineListItem extends Component {
                 this.props.navigation.navigate(this.props.item.sref,
                     this.props.item.info
                 )}
-                      style={{borderTopColor: '#dcdcdc', borderTopWidth: this.props.item.tipBorder}}
+                style={{ borderTopColor: '#dcdcdc', borderTopWidth: this.props.item.tipBorder }}
             >
                 <Text>{this.props.item.name}</Text>
-                <Right style={{height: 20}}>
-                    <Icon name="arrow-forward"/>
+                <Right style={{ height: 20 }}>
+                    <Icon name="arrow-forward" />
                 </Right>
             </ListItem>
         )
     }
 }
 const nativeStyle = {
-    thumbnail:{
+    thumbnail: {
         width: 90,
         height: 90,
         top: 30,
         borderRadius: 45
     },
-    container:{
+    container: {
         backgroundColor: '#fff',
         width: '100%',
         flex: 2
@@ -73,36 +74,42 @@ class Mine extends Component {
     listItemArray = [
         {
             sref: 'Account',
-            name: '版本信息',
-            info: {user: 'Lucy'},
-            tipBorder:1
+            name: '账号信息',
+            info: { user: 'Lucy' },
+            tipBorder: 1
         },
         {
             sref: 'Update',
             name: '版本更新',
-            info: {user: 'Lucy'},
-            tipBorder:0
+            info: { user: 'Lucy' },
+            tipBorder: 0
         }, {
             sref: 'Request',
             name: '问题反馈',
-            info: {user: 'Lucy'},
-            tipBorder:0
+            info: { user: 'Lucy' },
+            tipBorder: 0
         }
 
     ];
 
+    avatarClick() {
+        
+    };
+
     render() {
         return (
             <View style={styles.container}>
-                <View style={{flex: 1, height: 220, alignItems: 'center'}}>
-                    <Thumbnail square source={require('../Images/head.png')}
-                               style={nativeStyle.thumbnail}/>
-                    <Text style={styles.phoneNumber}>
-                        18355570987
-                    </Text>
+                <View style={{ flex: 1, height: 220, alignItems: 'center' }}>
+                    <TouchableOpacity onPress={this.avatarClick}>
+                        <Thumbnail square source={require('../Images/head.png')}
+                            style={nativeStyle.thumbnail} />
+                        <Text style={styles.phoneNumber}>
+                            18355570987
+                        </Text>
+                    </TouchableOpacity>
                 </View>
-                <Container contentContainerStyle={{flex: 1}}
-                           style={nativeStyle.container}
+                <Container contentContainerStyle={{ flex: 1 }}
+                    style={nativeStyle.container}
                 >
                     <List>
                         <MineListItem
@@ -120,7 +127,7 @@ class Mine extends Component {
                     </List>
                     <View style={styles.button}>
                         <View>
-                            <Button bordered danger style={{borderColor:'#608fd3'}}>
+                            <Button bordered danger style={{ borderColor: '#608fd3' }}>
                                 <Text style={styles.outLogin}>退出登录</Text>
                             </Button>
                         </View>
@@ -147,8 +154,8 @@ const styles = StyleSheet.create({
         top: 55,
         alignItems: 'center'
     },
-    outLogin:{
-      color:'#608fd3'
+    outLogin: {
+        color: '#608fd3'
     },
     phoneNumber: {
         top: 48,
