@@ -25,8 +25,7 @@ import {
     Icon,
     Button
 } from 'native-base';
-
-
+import AccountInfo from './Account/accountInfo';
 
 class MineListItem extends Component {
     constructor(props) {
@@ -35,6 +34,7 @@ class MineListItem extends Component {
         console.log(props);
     }
 
+    
     render() {
         return (
             <ListItem button onPress={() =>
@@ -75,9 +75,9 @@ class Mine extends Component {
 
     listItemArray = [
         {
-            sref: 'Account',
+            sref: 'AccountInfo',
             name: '账号信息',
-            info: { user: 'Lucy' },
+            info: { name: 'AccountInfo' },
             tipBorder: 1
         },
         {
@@ -91,7 +91,6 @@ class Mine extends Component {
             info: { user: 'Lucy' },
             tipBorder: 0
         }
-
     ];
 
     avatarClick() {
