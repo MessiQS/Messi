@@ -25,6 +25,7 @@ import Register from './Login/register';
 import Login from './Login/login';
 import LoginPage from './Login/loginPage';
 import AccountInfo from './Account/accountInfo';
+import ModifyPasswordPage from './Account/modifyPasswordPage';
 
 const bookIcon = require('../Images/book.png');
 const questionIcon = require('../Images/question.png');
@@ -137,6 +138,9 @@ const Messi = StackNavigator({
     },
     AccountInfo: {
         screen:AccountInfo,
+    },
+    ModifyPasswordPage: {
+        screen:ModifyPasswordPage,
     },
 })
 
