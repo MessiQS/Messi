@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		yvdZg2C03sxTdWDuaAaNOWrk2Ko=
+		n/vjw2+OZZUvGDgP6PeIMBARyCY=
 		</data>
 		<key>Entypo.ttf</key>
 		<data>
@@ -271,7 +271,7 @@
 		</data>
 		<key>PlugIns/MessiTests.xctest.dSYM/Contents/Resources/DWARF/MessiTests</key>
 		<data>
-		QNKlOxcFhhdWGFZX5nxlFw/Eq24=
+		AL+t8GLuSSf1KqbmBkyI1LV15Uw=
 		</data>
 		<key>PlugIns/MessiTests.xctest/Info.plist</key>
 		<data>
@@ -279,7 +279,7 @@
 		</data>
 		<key>PlugIns/MessiTests.xctest/MessiTests</key>
 		<data>
-		K3XUR8wsKYeQ/xsjyCy4GNtBQfA=
+		vn4OR/rOC9mooE+VbnohnacJncI=
 		</data>
 		<key>PlugIns/MessiTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
@@ -376,11 +376,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yvdZg2C03sxTdWDuaAaNOWrk2Ko=
+			n/vjw2+OZZUvGDgP6PeIMBARyCY=
 			</data>
 			<key>hash2</key>
 			<data>
-			XODesMV869h74XubwzTicInO5myXSAfVfFLXMLdXnKw=
+			wpD6IhWFlFKlYlEd9YEEG6CfuAbKzVFXOcjUu7S0h2w=
 			</data>
 		</dict>
 		<key>Entypo.ttf</key>
@@ -1071,11 +1071,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QNKlOxcFhhdWGFZX5nxlFw/Eq24=
+			AL+t8GLuSSf1KqbmBkyI1LV15Uw=
 			</data>
 			<key>hash2</key>
 			<data>
-			dNlEROvfMjmaUnDEc06B+TM/rOjDXefFZc9XFLdDxV4=
+			1vhRx/Vu9VwiHJldt6VENUovuljmbwD3KZHLaz3/7E8=
 			</data>
 		</dict>
 		<key>PlugIns/MessiTests.xctest/Info.plist</key>
@@ -1093,11 +1093,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			K3XUR8wsKYeQ/xsjyCy4GNtBQfA=
+			vn4OR/rOC9mooE+VbnohnacJncI=
 			</data>
 			<key>hash2</key>
 			<data>
-			iGqgnTmW4zq2D2jbuJwaxKsJFPVLjsjgKZ7s9bGb+Rc=
+			QBYDr54CqX4uY1pdW4mboGQFwY1/bz7zGyutjvaRndE=
 			</data>
 		</dict>
 		<key>PlugIns/MessiTests.xctest/_CodeSignature/CodeResources</key>
