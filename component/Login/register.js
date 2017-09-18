@@ -83,7 +83,8 @@ class Register extends React.Component {
     render() {
         return (
             <View style={stylesContainer.container}>
-                <Form style={styles.form}>
+                <Form style={styles.
+                form}>
                     <Item>
                         <Icon active name='home' />
                         <Input placeholder="请输入您的电话号码" onChangeText={phone => this.phoneChange(phone)}></Input>
@@ -109,7 +110,6 @@ class Register extends React.Component {
                     <Text style={styles.agreeBaseText}>注册即表示同意本
                             <Text style={styles.agreeButton} >软件协议</Text>
                     </Text>
-
                 </View>
             </View>
         );
