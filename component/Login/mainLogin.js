@@ -9,7 +9,7 @@ import {
 import { TabNavigator, StackNavigator } from "react-navigation";
 import Register from './register';
 import Login from './login';
-import LoginPage from './loginPage'
+// import LoginPage from './loginPage'
 
 const MainLogin = StackNavigator ({
 	//
@@ -19,9 +19,9 @@ const MainLogin = StackNavigator ({
 	Register: {
 		screen:Register,
 	},
-	LoginPage: {
-		screen:LoginPage,
-	},
+	// LoginPage: {
+	// 	screen:LoginPage,
+	// },
 });
 
 export default MainLogin;

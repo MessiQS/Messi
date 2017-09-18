@@ -18,7 +18,8 @@ class Register extends React.Component {
         this.state = this.state || {};
     }
     _onPressButton() {
-        var { account, password, phone, vericode } = this.state;
+        const passReg = new RegExp(/^(?![0-9]+$)(?![a-zA-Z]+$)[0-9A-Za-z]{6,21}$/);
+        let { account, password, phone, vericode } = this.state;
         if (!account) {
             console.log('填写账号');
             return;
@@ -29,6 +30,10 @@ class Register extends React.Component {
             console.log('填写验证码')
             return;
         };
+        if(!passReg.test(password)){
+            console.log('请输入6-20位密码，不包含特殊字符');
+            return;
+        }
         Http.post('api/signin', {
             account: account,
             password: password,

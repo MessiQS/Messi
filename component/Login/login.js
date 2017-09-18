@@ -9,7 +9,7 @@ import {
 import Button from 'apsl-react-native-button';
 import { TabNavigator, StackNavigator } from "react-navigation";
 import Register from './register';
-import LoginPage from './loginPage'
+// import LoginPage from './loginPage'
 
 export default class Login extends Component {
 

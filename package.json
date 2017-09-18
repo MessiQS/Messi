@@ -14,9 +14,11 @@
     "react": "16.0.0-alpha.6",
     "react-native": "0.44.2",
     "react-native-calendars": "^1.4.0",
+    "react-native-fs": "^2.5.1",
     "react-native-modal-dropdown": "^0.4.4",
     "react-native-scrollable-tab-view": "^0.6.6",
     "react-native-swiper": "^1.5.4",
+    "react-native-wechat": "^1.9.9",
     "react-navigation": "^1.0.0-beta.11"
   },
   "devDependencies": {
