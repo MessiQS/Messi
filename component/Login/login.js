@@ -52,7 +52,6 @@ var styles = StyleSheet.create({
 	    // remove width and height to override fixed static size
 	    width: null,
 	    height: null,
-
 	  },
 	  buttonContainer: {
 	  	flex: 1,

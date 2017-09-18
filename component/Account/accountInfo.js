@@ -30,12 +30,8 @@ class AccountInfo extends React.Component {
         headerTintColor: 'white',
     });
 
-    handleModifyPasswordClick() {
-        
-        this.navigation('ModifyPasswordPage', { name: 'ModifyPasswordPage' })
-    }   
-
     render() {
+        const { navigate } = this.props.navigation;
         return (
             <Container>
                 <Content>
@@ -44,7 +40,9 @@ class AccountInfo extends React.Component {
                     <Text style={styles.headerText}>12412412</Text>
                     </Body>
                 </ListItem>
-                <ListItem last style={styles.listStyle} button={true} onPress={this.handleModifyPasswordClick.bind(this)}>
+                <ListItem last style={styles.listStyle} button={true} onPress={() =>
+								navigate('ModifyPasswordPage', { name: 'ModifyPasswordPage' })
+					      }>
                     <Body>
                         <Text style={styles.listTextStyle}>修改密码</Text>
                     </Body>
