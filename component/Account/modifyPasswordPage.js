@@ -27,58 +27,56 @@ class ModifyPasswordPage extends React.Component {
         return (
             <Container style={styles.containerStyle}>
                 <Content style={styles.contentStyle}>
-                    <Item>
+                    <Item style={styles.item}>
                         <Input placeholder="请输入您的旧密码"></Input>
                     </Item>
-                    <Item>
+                    <Item style={styles.item}>
                         <Input placeholder="请输入您的新密码"></Input>
                     </Item>
-                    <Item>
+                    <Item style={styles.item}>
                         <Input placeholder="确认您的密码"></Input>
                     </Item>
                     <View style={styles.checkViewStyle}>
-                    <Button style={styles.checkButtonStyle}>
-                        <Text style={styles.checkTextStyle}>确认修改</Text>
-                    </Button>
-                </View>
+                        <Button style={styles.checkButtonStyle}>
+                            <Text style={styles.checkTextStyle}>确认修改</Text>
+                        </Button>
+                    </View>
                 </Content>
             </Container>
         );
     }
 }
 
-var styles = ({
+var styles =({
+
     containerStyle: {
+        flex: 1,
         flexDirection: 'column',
-        justifyContent: 'center',
+        justifyContent: 'center',        
         alignItems: 'center',
     },
     contentStyle: {
         width: '80%',
         marginTop:27,
     },
-    listStyle: {
-        backgroundColor: 'white',
-        height: 40,
+    form: {
+        width: '100%',
     },
-    listTextStyle: {
-        fontSize: 17,
+    item: {
+        
     },
     checkViewStyle: {
-        marginTop: 39,
-        flexDirection: 'row',
-        justifyContent: 'center',
-        alignItems: 'center',
         width: '100%',
+        height: 100,
     },
     checkButtonStyle: {
-        backgroundColor: '#FFA200',
-        height: 44,
+        marginTop: 49,
+        backgroundColor: '#FFA200'
     },
     checkTextStyle: {
-        width: '100%',
-        fontSize: 16,
         textAlign: 'center', 
+        width: '100%',   
+        fontSize: 16,
     },
 });
 

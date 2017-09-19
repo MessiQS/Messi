@@ -69,12 +69,10 @@ var styles = {
     },
     form: {
         flex: 2,
-        
     },
     item: {
         marginTop:20,
         marginBottom:20,
-        
     },
     forgotButtonView: {
         flexDirection: 'row',

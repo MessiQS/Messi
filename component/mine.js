@@ -28,12 +28,12 @@ import {
 import AccountInfo from './Account/accountInfo';
 
 class MineListItem extends Component {
+
     constructor(props) {
         super(props);
         this.state = props;
         console.log(props);
     }
-
     
     render() {
         return (

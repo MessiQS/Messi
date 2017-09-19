@@ -9,8 +9,6 @@ import {
 } from 'react-native';
 import { TabNavigator, StackNavigator } from "react-navigation";
 import { Button, Container, Content, List, ListItem, Icon, Right, Left, Body, Switch, Form, Item, Input, Text, Header, Separator } from 'native-base';
-import ModifyPasswordPage from './modifyPasswordPage';
-
 
 class AccountInfo extends React.Component {
 
@@ -52,7 +50,9 @@ class AccountInfo extends React.Component {
                 </ListItem>
                 <Separator style={{height:5}}>
                 </Separator>
-                <ListItem last style={styles.listStyle}>
+                <ListItem last style={styles.listStyle} button={true} onPress={() =>
+								navigate('ChangePhoneNumberStepOnePage', { name: 'ChangePhoneNumberStepOnePage' })
+					      }>
                     <Body>
                         <Text style={styles.listTextStyle}>更换手机号</Text>
                     </Body>                    
@@ -68,16 +68,16 @@ class AccountInfo extends React.Component {
 
 var styles = ({
     headerText: {
-        color:'#FFA200',
-        fontSize:18,
+        color: '#FFA200',
+        fontSize: 18,
         textAlign: 'center', 
     },
     listStyle: {
         backgroundColor: 'white',
-        height:40,
+        height: 40,
     },
     listTextStyle: {
-        fontSize:17,
+        fontSize: 17,
     },
 });
 
