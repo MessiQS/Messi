@@ -39,6 +39,14 @@ class LoginPage extends React.Component {
     }
     login() {
         let { account, password } = this.state;
+        if(!account){
+            console.log('请输入账号');
+            return;
+        };
+        if(!password){
+            console.log('请输入密码');
+            return;
+        }
         password = MD5(password).toString();
         Http.post('api/login',{
             "account":account,
