@@ -10,13 +10,13 @@ import {
 import { TabNavigator, StackNavigator } from "react-navigation";
 import { Button, Container, Content, List, ListItem, Icon, Right, Left, Body, Switch, Form, Item, Input, Label, Text } from 'native-base';
 
-
 class LoginPage extends React.Component {
 
     constructor(...props) {
         super();
         this.state = this.state || {};
     }
+    
     static navigationOptions = ({ navigation }) => ({
         title: '登录',
         headerStyle: {
@@ -27,24 +27,27 @@ class LoginPage extends React.Component {
     });
     
     render() {
+        const { navigate } = this.props.navigation;   
         return (
             <View style={styles.container}>
-                <Form style={styles.form}>
+                {/* <Form style={styles.form}> */}
                     <Item style={styles.item}>
                         <Icon active name='home' />
-                        <Input placeholder="请输入您的电话号码" style={{placeholderColor:'#051425'}} onChangeText={phone => this.phoneChange(phone)}></Input>
+                        <Input placeholder="请输入您的电话号码" onChangeText={phone => this.phoneChange(phone)}></Input>
                     </Item>
                     <Item style={styles.item}>
                         <Icon active name='home' />
                             <Input placeholder="请输入您的密码" onChangeText={passpord => this.passwordtChange(passpord)}></Input>
                       </Item>
-                </Form>
+                {/* </Form> */}
                 <View style={styles.forgotButtonView}>
-                    <Button style={styles.forgotButton}>
+                    <Button style={styles.forgotButton} onPress={() =>
+                        navigate('ForgotPasswordStepOnePage', { name: 'ForgotPasswordStepOnePage' })
+					}>
                         <Label style={styles.forgotLabel}>忘记密码</Label>
                     </Button>
                 </View>
-                <View style={styles.loginButtonView}>
+                <View style={styles.loginButtonView} >
                     <Button block style={styles.loginButton}>
                         <Text style={styles.loginLabel}>登录</Text>
                     </Button>
@@ -62,10 +65,9 @@ class LoginPage extends React.Component {
 var styles = {
 
     container:{
-        paddingTop: 89,
+        paddingTop: 69,
         flex:1,
-        paddingLeft: 48,
-        paddingRight: 48,
+        paddingHorizontal: 48,
     },
     form: {
         flex: 2,
@@ -109,7 +111,6 @@ var styles = {
     agreeView: {
         bottom: 10,
         width: '133%',
-        // flex:1,
         position: 'absolute',
     },
     agreeText: {
