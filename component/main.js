@@ -29,6 +29,8 @@ import ModifyPasswordPage from './Account/modifyPasswordPage';
 import ChangePhoneNumberStepOnePage from './Account/changePhoneNumberStepOnePage';
 import ChangePhoneNumberStepTwoPage from  './Account/changePhoneNumberStepTwoPage';
 import ChangePhoneNumberStepThreePage from './Account/changePhoneNumberStepThreePage';
+import ForgotPasswordStepOnePage from './Account/forgotPasswordStepOnePage';
+import ForgotPasswordStepTwoPage from './Account/forgotPasswordStepTwoPage';
 
 const bookIcon = require('../Images/book.png');
 const questionIcon = require('../Images/question.png');
@@ -113,6 +115,9 @@ const TabOptions = (tabBarTitle, normalImage, selectedImage, navTitle) => {
     return { tabBarLabel, tabBarIcon, headerTitle, headerStyle, headerTitleStyle, tabBarVisible };
 };
 const Messi = StackNavigator({
+    Login:{
+		screen:Login,
+	},
     // 将TabNavigator包裹在StackNavigator里面可以保证跳转页面的时候隐藏tabbar
     MyTab: {
         screen: MainTab,
@@ -133,9 +138,6 @@ const Messi = StackNavigator({
     Register:{
         screen: Register
     },
-    Login:{
-		screen:Login,
-	},
 	LoginPage: {
 		screen: LoginPage,
     },
@@ -153,6 +155,12 @@ const Messi = StackNavigator({
     },
     ChangePhoneNumberStepThreePage: {
         screen: ChangePhoneNumberStepThreePage,
+    },
+    ForgotPasswordStepOnePage: {
+        screen: ForgotPasswordStepOnePage,
+    },
+    ForgotPasswordStepTwoPage: {
+        screen: ForgotPasswordStepTwoPage
     },
 })
 

@@ -47,7 +47,6 @@ export default class ChangePhoneNumberStepThreePage extends React.Component {
     }
 }
 
-
 var styles = ({
     
     containerStyle: {
