@@ -27,7 +27,8 @@ import LoginPage from './Login/loginPage';
 import AccountInfo from './Account/accountInfo';
 import ModifyPasswordPage from './Account/modifyPasswordPage';
 import ChangePhoneNumberStepOnePage from './Account/changePhoneNumberStepOnePage';
-import ChangePhoneNumberStepTwoPage from './Account/changePhoneNumberStepTwoPage';
+import ChangePhoneNumberStepTwoPage from  './Account/changePhoneNumberStepTwoPage';
+import ChangePhoneNumberStepThreePage from './Account/changePhoneNumberStepThreePage';
 
 const bookIcon = require('../Images/book.png');
 const questionIcon = require('../Images/question.png');
@@ -149,6 +150,9 @@ const Messi = StackNavigator({
     },
     ChangePhoneNumberStepTwoPage: {
         screen: ChangePhoneNumberStepTwoPage,
+    },
+    ChangePhoneNumberStepThreePage: {
+        screen: ChangePhoneNumberStepThreePage,
     },
 })
 
