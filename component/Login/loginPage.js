@@ -9,6 +9,8 @@ import {
 } from 'react-native';
 import { TabNavigator, StackNavigator } from "react-navigation";
 import { Button, Container, Content, List, ListItem, Icon, Right, Left, Body, Switch, Form, Item, Input, Label, Text } from 'native-base';
+import Http from '../../service/http';
+import MD5 from 'crypto-js/md5';
 
 class LoginPage extends React.Component {
 
@@ -16,7 +18,7 @@ class LoginPage extends React.Component {
         super();
         this.state = this.state || {};
     }
-    
+
     static navigationOptions = ({ navigation }) => ({
         title: '登录',
         headerStyle: {
@@ -25,30 +27,56 @@ class LoginPage extends React.Component {
         },
         headerTintColor: 'white',
     });
-    
+    phoneChange(account) {
+        this.setState({
+            account: account
+        })
+    }
+    passwordtChange(password) {
+        this.setState({
+            password: password
+        })
+    }
+    login() {
+        let { account, password } = this.state;
+        if(!account){
+            console.log('请输入账号');
+            return;
+        };
+        if(!password){
+            console.log('请输入密码');
+            return;
+        }
+        password = MD5(password).toString();
+        Http.post('api/login',{
+            "account":account,
+            "password":password
+        }).then( res => console.log(res))
+    };
+
     render() {
-        const { navigate } = this.props.navigation;   
+        const { navigate } = this.props.navigation;
         return (
             <View style={styles.container}>
                 {/* <Form style={styles.form}> */}
-                    <Item style={styles.item}>
-                        <Icon active name='home' />
-                        <Input placeholder="请输入您的电话号码" onChangeText={phone => this.phoneChange(phone)}></Input>
-                    </Item>
-                    <Item style={styles.item}>
-                        <Icon active name='home' />
-                            <Input placeholder="请输入您的密码" onChangeText={passpord => this.passwordtChange(passpord)}></Input>
-                      </Item>
+                <Item style={styles.item}>
+                    <Icon active name='home' />
+                    <Input placeholder="请输入您的电话号码" onChangeText={account => this.phoneChange(account)}></Input>
+                </Item>
+                <Item style={styles.item}>
+                    <Icon active name='home' />
+                    <Input placeholder="请输入您的密码" onChangeText={password => this.passwordtChange(password)}></Input>
+                </Item>
                 {/* </Form> */}
                 <View style={styles.forgotButtonView}>
                     <Button style={styles.forgotButton} onPress={() =>
                         navigate('ForgotPasswordStepOnePage', { name: 'ForgotPasswordStepOnePage' })
-					}>
+                    }>
                         <Label style={styles.forgotLabel}>忘记密码</Label>
                     </Button>
                 </View>
                 <View style={styles.loginButtonView} >
-                    <Button block style={styles.loginButton}>
+                    <Button block style={styles.loginButton} onPress={this.login.bind(this)}>
                         <Text style={styles.loginLabel}>登录</Text>
                     </Button>
                 </View>
@@ -64,17 +92,17 @@ class LoginPage extends React.Component {
 
 var styles = {
 
-    container:{
+    container: {
         paddingTop: 69,
-        flex:1,
+        flex: 1,
         paddingHorizontal: 48,
     },
     form: {
         flex: 2,
     },
     item: {
-        marginTop:20,
-        marginBottom:20,
+        marginTop: 20,
+        marginBottom: 20,
     },
     forgotButtonView: {
         flexDirection: 'row',
@@ -82,31 +110,31 @@ var styles = {
         alignItems: 'flex-end',
         flex: 1,
     },
-    forgotButton:{
-        height:20,
-        backgroundColor:null,
+    forgotButton: {
+        height: 20,
+        backgroundColor: null,
     },
-    forgotLabel:{
-        color:'#9B9B9B',
-        fontSize:12,
+    forgotLabel: {
+        color: '#9B9B9B',
+        fontSize: 12,
         textDecorationLine: 'underline',
     },
-    loginButtonView:{
+    loginButtonView: {
         flexDirection: 'row',
         justifyContent: 'center',
         alignItems: 'center',
         flex: 3,
     },
     loginButton: {
-        backgroundColor:'#FFA200',
-        height:60,
-        width:327,
-        padding:0,
+        backgroundColor: '#FFA200',
+        height: 60,
+        width: 327,
+        padding: 0,
     },
-    loginLabel:{
-        color:'white',
-        textAlign:'center',
-        fontSize:20,
+    loginLabel: {
+        color: 'white',
+        textAlign: 'center',
+        fontSize: 20,
     },
     agreeView: {
         bottom: 10,
