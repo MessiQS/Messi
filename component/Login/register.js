@@ -83,24 +83,22 @@ class Register extends React.Component {
     render() {
         return (
             <View style={stylesContainer.container}>
-                <Form style={styles.
-                form}>
-                    <Item>
-                        <Icon active name='home' />
-                        <Input placeholder="请输入您的电话号码" onChangeText={phone => this.phoneChange(phone)}></Input>
-                    </Item>
-                    <Item>
-                        <Icon active name='home' />
-                        <Input placeholder="请输入您的密码" onChangeText={passpord => this.passwordtChange(passpord)}></Input>
-                    </Item>
-                    <Item>
-                        <Icon active name='home' />
-                        <Input placeholder="请输入验证码" onChangeText={variCode => this.codeChange(variCode)}></Input>
-                        <Button style={styles.vertificationCodeButton} onPress={this.getCode.bind(this)}>
-                            <Text style={styles.vertificationCodeText} >获取验证码</Text>
-                        </Button>
-                    </Item>
-                </Form>
+                <Item>
+                    <Icon active name='home' />
+                    <Input placeholder="请输入您的电话号码" onChangeText={phone => this.phoneChange(phone)}></Input>
+                </Item>
+                <Item>
+                    <Icon active name='home' />
+                    <Input placeholder="请输入您的密码" onChangeText={passpord => this.passwordtChange(passpord)}></Input>
+                </Item>
+                <Item>
+                    <Icon active name='home' />
+                    <Input placeholder="请输入验证码" onChangeText={variCode => this.codeChange(variCode)}></Input>
+                    <Button style={styles.vertificationCodeButton} onPress={this.getCode.bind(this)}>
+                        <Text style={styles.vertificationCodeText} >获取验证码</Text>
+                    </Button>
+                </Item>
+                <View style={{height:56}}></View>
                 <View style={stylesContainer.registerView}>
                     <Button style={styles.registerButton} onPress={this._onPressButton.bind(this)}>
                         <Text style={styles.registerText}>注册</Text>
