@@ -31,6 +31,7 @@ import ChangePhoneNumberStepTwoPage from  './Account/changePhoneNumberStepTwoPag
 import ChangePhoneNumberStepThreePage from './Account/changePhoneNumberStepThreePage';
 import ForgotPasswordStepOnePage from './Account/forgotPasswordStepOnePage';
 import ForgotPasswordStepTwoPage from './Account/forgotPasswordStepTwoPage';
+import ForgotPasswordStepThreePage from './Account/forgotPasswordStepThreePage';
 
 const bookIcon = require('../Images/book.png');
 const questionIcon = require('../Images/question.png');
@@ -160,8 +161,11 @@ const Messi = StackNavigator({
         screen: ForgotPasswordStepOnePage,
     },
     ForgotPasswordStepTwoPage: {
-        screen: ForgotPasswordStepTwoPage
+        screen: ForgotPasswordStepTwoPage,
     },
+    ForgotPasswordStepThreePage: {
+        screen: ForgotPasswordStepThreePage,
+    }
 })
 
 export default Messi;

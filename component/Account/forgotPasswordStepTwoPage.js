@@ -7,7 +7,7 @@ import {
 import { TabNavigator, StackNavigator } from "react-navigation";
 import { Button, Container, Content, List, ListItem, Icon, Right, Left, Body, Switch, Form, Item, Input, Text } from 'native-base';
 
-export default class ChangePhoneNumberStepThreePage extends React.Component {
+export default class ForgotPasswordStepTwoPage extends React.Component {
     
         constructor(props) {
             super(props);
@@ -23,6 +23,7 @@ export default class ChangePhoneNumberStepThreePage extends React.Component {
         });
     
         render() {
+            const { navigate } = this.props.navigation;  
             return (
                 <Container style={styles.containerStyle}>
                 <Content style={styles.contentStyle}>
@@ -38,7 +39,9 @@ export default class ChangePhoneNumberStepThreePage extends React.Component {
                             <Text style={styles.getCodeTextStyle}>获取验证码（59）</Text>
                         </Button>
                     </View>
-                    <Button style={styles.nextStepButtonSytle}>
+                    <Button style={styles.nextStepButtonSytle} onPress={()=> 
+						navigate('ForgotPasswordStepThreePage', { name: 'ForgotPasswordStepThreePage' })
+                    }>
                         <Text style={styles.nextStepTextStyle}>下一步</Text>
                     </Button>
                 </Content>
