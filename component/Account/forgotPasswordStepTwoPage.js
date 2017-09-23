@@ -6,28 +6,42 @@ import {
 } from 'react-native';
 import { TabNavigator, StackNavigator } from "react-navigation";
 import { Button, Container, Content, List, ListItem, Icon, Right, Left, Body, Switch, Form, Item, Input, Text } from 'native-base';
-
+import Http from '../../service/http';
 export default class ChangePhoneNumberStepThreePage extends React.Component {
-    
-        constructor(props) {
-            super(props);
+
+    constructor(props) {
+        super(props);
+    }
+
+    static navigationOptions = ({ navigation }) => ({
+        title: '忘记密码',
+        headerStyle: {
+            backgroundColor: '#051425',
+            opacity: 0.9,
+        },
+        headerTintColor: 'white',
+    });
+
+    getCode() {
+        let { account } = this.props.navigation.state.params;
+        console.log(this.props.navigation.state)
+        if (!account) {
+            console.log('请输入账号');
+            return;
         }
-    
-        static navigationOptions = ({ navigation }) => ({
-            title: '忘记密码',
-            headerStyle: {
-                backgroundColor: '#051425',
-                opacity: 0.9,
-            },
-            headerTintColor: 'white',
-        });
-    
-        render() {
-            return (
-                <Container style={styles.containerStyle}>
+        Http.post('api/getcode', {
+            account: account
+        }).then(response => {
+            console.log(response)
+        })
+    }
+
+    render() {
+        return (
+            <Container style={styles.containerStyle}>
                 <Content style={styles.contentStyle}>
                     <Text style={styles.titleTextSytle}>
-                    填写短信验证码
+                        填写短信验证码
                     </Text>
                     <Item style={styles.item}>
                         <Text style={styles.vertificationTextStyle}>验证码</Text>
@@ -35,7 +49,7 @@ export default class ChangePhoneNumberStepThreePage extends React.Component {
                     </Item>
                     <View style={styles.getCodeViewStyle}>
                         <Button bordered style={styles.getCodeButtonStyle} >
-                            <Text style={styles.getCodeTextStyle}>获取验证码（59）</Text>
+                            <Text style={styles.getCodeTextStyle} onPress={this.getCode.bind(this)}>获取验证码（59）</Text>
                         </Button>
                     </View>
                     <Button style={styles.nextStepButtonSytle}>
@@ -43,61 +57,61 @@ export default class ChangePhoneNumberStepThreePage extends React.Component {
                     </Button>
                 </Content>
             </Container>
-            );
-        }
+        );
     }
-    
-    var styles = ({
-        
-        containerStyle: {
-            flex: 1,
-            flexDirection: 'column',
-            justifyContent: 'center',
-            alignItems: 'center',
-        },
-        contentStyle: {
-            marginTop: 30,
-            width: '80%',
-        }, 
-        titleTextSytle: {
-            fontSize: 20,
-            color: 'black',
-        },
-        item: {
-            marginTop: 30,
-            height: 32,
-        },
-        getCodeViewStyle: {
-            flexDirection: 'row-reverse',
-            height: 74,
-            width: '100%',
-        },
-        getCodeButtonStyle: {
-            marginTop: 9,
-            marginRight: 0,
-            borderColor: '#FFA200',
-            height: 21,
-        },
-        getCodeTextStyle: {
-            color: '#FFA200',
-            fontSize: 7,
-        },   
-        vertificationTextStyle: {
-            color: '#FFA200',
-            fontSize: 14,
-        },
-        vertificationInputStyle: {
-            fontSize: 14,
-            height: 29,
-            marginLeft: 16,
-        },
-        nextStepButtonSytle: {
-            width: '100%',
-            height: 44,
-            backgroundColor: '#FFA200'
-        },
-        nextStepTextStyle: {
-            textAlign: 'center', 
-            width: '100%',   
-        },
-    });
+}
+
+var styles = ({
+
+    containerStyle: {
+        flex: 1,
+        flexDirection: 'column',
+        justifyContent: 'center',
+        alignItems: 'center',
+    },
+    contentStyle: {
+        marginTop: 30,
+        width: '80%',
+    },
+    titleTextSytle: {
+        fontSize: 20,
+        color: 'black',
+    },
+    item: {
+        marginTop: 30,
+        height: 32,
+    },
+    getCodeViewStyle: {
+        flexDirection: 'row-reverse',
+        height: 74,
+        width: '100%',
+    },
+    getCodeButtonStyle: {
+        marginTop: 9,
+        marginRight: 0,
+        borderColor: '#FFA200',
+        height: 21,
+    },
+    getCodeTextStyle: {
+        color: '#FFA200',
+        fontSize: 7,
+    },
+    vertificationTextStyle: {
+        color: '#FFA200',
+        fontSize: 14,
+    },
+    vertificationInputStyle: {
+        fontSize: 14,
+        height: 29,
+        marginLeft: 16,
+    },
+    nextStepButtonSytle: {
+        width: '100%',
+        height: 44,
+        backgroundColor: '#FFA200'
+    },
+    nextStepTextStyle: {
+        textAlign: 'center',
+        width: '100%',
+    },
+});
