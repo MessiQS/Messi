@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import {
     StyleSheet,
+    Alert,
     Image,
     View,
 } from 'react-native';
@@ -24,15 +25,47 @@ export default class ChangePhoneNumberStepThreePage extends React.Component {
 
     getCode() {
         let { account } = this.props.navigation.state.params;
-        console.log(this.props.navigation.state)
+        console.log(this.props.navigation)
         if (!account) {
             console.log('请输入账号');
+            /*
+                保险政策
+                如果这里没有账号，说明报错，需要退回到上一个路由
+            */
             return;
         }
         Http.post('api/getcode', {
             account: account
         }).then(response => {
             console.log(response)
+        })
+    }
+
+    changVericode(vericode) {
+        this.vericode = vericode;
+    }
+
+    nextNaviegate() {
+        const { navigate,
+            state: {
+                    params: {
+                            account
+                        }
+                    }
+                } = this.props.navigation;
+        //验证码验证
+        Http.post('api/checkcode', {
+            account: account,
+            vericode: this.vericode
+        }).then(response => {
+            if (response.type) {
+                navigate('ForgotPasswordStepThreePage', {
+                    account: account,
+                    vericode: this.vericode
+                })
+            } else {
+                Alert.alert(response.data);
+            }
         })
     }
 
@@ -45,14 +78,19 @@ export default class ChangePhoneNumberStepThreePage extends React.Component {
                     </Text>
                     <Item style={styles.item}>
                         <Text style={styles.vertificationTextStyle}>验证码</Text>
-                        <Input style={styles.vertificationInputStyle} placeholder="请输入短信验证码"></Input>
+                        <Input
+                            style={styles.vertificationInputStyle}
+                            placeholder="请输入短信验证码"
+                            onChangeText={vericode => this.changVericode(vericode)}
+                        >
+                        </Input>
                     </Item>
                     <View style={styles.getCodeViewStyle}>
                         <Button bordered style={styles.getCodeButtonStyle} >
                             <Text style={styles.getCodeTextStyle} onPress={this.getCode.bind(this)}>获取验证码（59）</Text>
                         </Button>
                     </View>
-                    <Button style={styles.nextStepButtonSytle}>
+                    <Button style={styles.nextStepButtonSytle} onPress={this.nextNaviegate.bind(this)}>
                         <Text style={styles.nextStepTextStyle}>下一步</Text>
                     </Button>
                 </Content>
