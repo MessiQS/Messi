@@ -8,9 +8,11 @@ import {
     StyleSheet,
 } from 'react-native';
 import { TabNavigator, StackNavigator } from "react-navigation";
-import { Button, Container, Content, List, ListItem, Icon, Right, Left, Body, Switch, Form, Item, Input, Label, Text } from 'native-base';
+import { Button, Container, Content, List, ListItem, Right, Left, Body, Switch, Form, Item, Input, Label, Text } from 'native-base';
 import Http from '../../service/http';
 import MD5 from 'crypto-js/md5';
+import Icon from 'react-native-vector-icons/Ionicons';
+
 
 class LoginPage extends React.Component {
 
@@ -58,16 +60,20 @@ class LoginPage extends React.Component {
         const { navigate } = this.props.navigation;
         return (
             <View style={styles.container}>
-                {/* <Form style={styles.form}> */}
                 <Item style={styles.item}>
-                    <Icon active name='home' />
+                    <Icon name="ios-phone-portrait-outline"
+                      size={23}
+                      style={styles.icon}
+                />
                     <Input placeholder="请输入您的电话号码" onChangeText={account => this.phoneChange(account)}></Input>
                 </Item>
                 <Item style={styles.item}>
-                    <Icon active name='home' />
+                    <Icon name="ios-lock-outline"
+                        size={23}
+                        style={styles.icon}
+                    />
                     <Input placeholder="请输入您的密码" onChangeText={password => this.passwordtChange(password)}></Input>
                 </Item>
-                {/* </Form> */}
                 <View style={styles.forgotButtonView}>
                     <Button style={styles.forgotButton} onPress={() =>
                         navigate('ForgotPasswordStepOnePage', { name: 'ForgotPasswordStepOnePage' })
@@ -103,6 +109,11 @@ var styles = {
     item: {
         marginTop: 20,
         marginBottom: 20,
+    },
+    icon: {
+        marginRight: 5,
+        marginLeft: 10,
+        opacity: 0.7,
     },
     forgotButtonView: {
         flexDirection: 'row',

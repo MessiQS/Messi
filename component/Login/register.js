@@ -8,10 +8,11 @@ import {
     StyleSheet,
 } from 'react-native';
 import { TabNavigator, StackNavigator } from "react-navigation";
-import { Button, Container, Content, List, ListItem, Icon, Right, Left, Body, Switch, Form, Item, Input, Text } from 'native-base';
+import { Button, Container, Content, List, ListItem, Right, Left, Body, Switch, Form, Item, Input, Text } from 'native-base';
 import stylesContainer, { styles } from './registerCss';
 import Http from '../../service/http';
-// console.log(Http.post)
+import Icon from 'react-native-vector-icons/Ionicons';
+
 class Register extends React.Component {
     constructor(...props){
         super();
@@ -84,11 +85,17 @@ class Register extends React.Component {
         return (
             <View style={stylesContainer.container}>
                 <Item>
-                    <Icon active name='home' />
+                    <Icon name="ios-phone-portrait-outline"
+                        size={23}
+                        style={styles.icon}
+                    />
                     <Input placeholder="请输入您的电话号码" onChangeText={phone => this.phoneChange(phone)}></Input>
                 </Item>
                 <Item>
-                    <Icon active name='home' />
+                   <Icon name="ios-lock-outline"
+                        size={23}
+                        style={styles.icon}
+                    />
                     <Input placeholder="请输入您的密码" onChangeText={passpord => this.passwordtChange(passpord)}></Input>
                 </Item>
                 <Item>

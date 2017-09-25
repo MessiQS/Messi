@@ -10,6 +10,11 @@ export const styles = {
         top: 30,
         height: 48,
     },
+    icon: {
+        marginRight: 5,
+        marginLeft: 10,
+        opacity: 0.7,
+    },
     vertificationCodeButton: {
         backgroundColor: '#FFA200',
         borderRadius: 8,
