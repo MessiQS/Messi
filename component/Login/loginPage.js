@@ -60,18 +60,20 @@ class LoginPage extends React.Component {
         const { navigate } = this.props.navigation;
         return (
             <View style={styles.container}>
-                <Item style={styles.item}>
-                    <Icon name="ios-phone-portrait-outline"
-                      size={23}
-                      style={styles.icon}
-                />
+                 <Item style={styles.item}>
+                    <View style={styles.iconViewStyle}>
+                        <Icon name="ios-phone-portrait-outline"
+                        style={styles.icon}
+                    />
+                     </View>
                     <Input placeholder="请输入您的电话号码" onChangeText={account => this.phoneChange(account)}></Input>
                 </Item>
                 <Item style={styles.item}>
-                    <Icon name="ios-lock-outline"
-                        size={23}
-                        style={styles.icon}
-                    />
+                    <View style={styles.iconViewStyle}>
+                        <Icon name="ios-lock-outline"
+                            style={styles.icon}
+                        />
+                    </View>
                     <Input placeholder="请输入您的密码" onChangeText={password => this.passwordtChange(password)}></Input>
                 </Item>
                 <View style={styles.forgotButtonView}>
@@ -110,9 +112,16 @@ var styles = {
         marginTop: 20,
         marginBottom: 20,
     },
-    icon: {
+    iconViewStyle: {
         marginRight: 5,
         marginLeft: 10,
+        width:23,
+        flexDirection: 'row',
+        justifyContent: 'center',
+        alignItems: 'center',
+    },
+    icon: {
+        fontSize:23,
         opacity: 0.7,
     },
     forgotButtonView: {

@@ -85,21 +85,31 @@ class Register extends React.Component {
         return (
             <View style={stylesContainer.container}>
                 <Item>
-                    <Icon name="ios-phone-portrait-outline"
-                        size={23}
-                        style={styles.icon}
-                    />
+                    <View style={styles.iconViewStyle}>
+                        <Icon name="ios-phone-portrait-outline"
+                            size={23}
+                            style={styles.icon}
+                        />
+                    </View>
                     <Input placeholder="请输入您的电话号码" onChangeText={phone => this.phoneChange(phone)}></Input>
                 </Item>
                 <Item>
-                   <Icon name="ios-lock-outline"
-                        size={23}
-                        style={styles.icon}
-                    />
+                    <View style={styles.iconViewStyle}>
+                    <Icon name="ios-lock-outline"
+                            size={23}
+                            style={styles.icon}
+                        />
+                    </View>
                     <Input placeholder="请输入您的密码" onChangeText={passpord => this.passwordtChange(passpord)}></Input>
                 </Item>
                 <Item>
-                    <Icon active name='home' />
+                    <View style={styles.iconViewStyle}>
+                        <Icon name="ios-filing-outline"
+                            size={24}
+                            style={styles.icon}
+                        />
+                    </View>
+                    <Image></Image>
                     <Input placeholder="请输入验证码" onChangeText={variCode => this.codeChange(variCode)}></Input>
                     <Button style={styles.vertificationCodeButton} onPress={this.getCode.bind(this)}>
                         <Text style={styles.vertificationCodeText} >获取验证码</Text>

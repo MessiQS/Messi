@@ -1,5 +1,6 @@
 import {
     StyleSheet,
+    Image,
 } from 'react-native';
 
 export const styles = {
@@ -10,9 +11,15 @@ export const styles = {
         top: 30,
         height: 48,
     },
-    icon: {
+    iconViewStyle: {
         marginRight: 5,
         marginLeft: 10,
+        width:23,
+        flexDirection: 'row',
+        justifyContent: 'center',
+        alignItems: 'center',
+    },
+    icon: {
         opacity: 0.7,
     },
     vertificationCodeButton: {
