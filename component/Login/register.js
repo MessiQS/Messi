@@ -14,6 +14,7 @@ import stylesContainer, { styles } from './registerCss';
 import Http from '../../service/http';
 import AccountCheck from '../../service/accountCheck';
 import Icon from 'react-native-vector-icons/Ionicons';
+import MD5 from 'crypto-js/md5';
 
 class Register extends React.Component {
     constructor(...props){
@@ -23,13 +24,13 @@ class Register extends React.Component {
     _onPressButton() {
         let { account, password, phone, vericode } = this.state;
         if (!account) {
-            console.log('填写账号');
+            Alert.alert('请输入账号')
             return;
         } else if (!password) {
-            console.log('填写密码')
+            Alert.alert('请输入密码')
             return;
         } else if (!vericode) {
-            console.log('填写验证码')
+            Alert.alert('请输入验证码')
             return;
         };
         if(!AccountCheck.isValidPhoneNumber(account)){
@@ -42,7 +43,7 @@ class Register extends React.Component {
         }
         Http.post('api/signin', {
             account: account,
-            password: password,
+            password: MD5(password).toString(),
             phone: phone,
             vericode: vericode
         }).then(console.log)
@@ -68,9 +69,12 @@ class Register extends React.Component {
     getCode() {
         let { account } = this.state;
         if (!account) {
-            console.log('请输入账号');
+            Alert.alert('请输入账号')
             return;
-        }
+        }else if(!AccountCheck.isValidPhoneNumber(account)){
+            Alert.alert('账号格式错误','请输入11位手机号码');
+            return;
+        };
         Http.post('api/getcode', {
             account: account
         }).then( response => {

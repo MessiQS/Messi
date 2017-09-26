@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import {
+    Alert,
     Image,
     View,
     TextInput,
@@ -12,6 +13,7 @@ import { Button, Container, Content, List, ListItem, Right, Left, Body, Switch, 
 import Http from '../../service/http';
 import MD5 from 'crypto-js/md5';
 import Icon from 'react-native-vector-icons/Ionicons';
+import AccountCheck from '../../service/accountCheck';
 
 
 class LoginPage extends React.Component {
@@ -42,18 +44,33 @@ class LoginPage extends React.Component {
     login() {
         let { account, password } = this.state;
         if(!account){
-            console.log('请输入账号');
+            Alert.alert('请输入账号');
+            return;
+        }else if(!password){
+            Alert.alert('请输入密码');
             return;
         };
-        if(!password){
-            console.log('请输入密码');
+        if(!AccountCheck.isValidPhoneNumber(account)){
+            Alert.alert('账号格式错误','请输入11位手机号码');
             return;
         }
+        if(!AccountCheck.isValidPassword(password)){
+            Alert.alert('密码格式错误','请输入6-20位密码，不包含特殊字符');
+            return;
+        };
         password = MD5(password).toString();
         Http.post('api/login',{
             "account":account,
             "password":password
-        }).then( res => console.log(res))
+        }).then( res => {
+            if(res.type){
+                //此处应该有跳转
+                Alert.alert(res.data);
+            }else{
+                //此处提示错误信息
+                Alert.alert(res.data);
+            }
+        })
     };
 
     render() {
