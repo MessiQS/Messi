@@ -112,8 +112,8 @@ const TabOptions = (tabBarTitle, normalImage, selectedImage, navTitle) => {
     // header的style
     const headerStyle = { backgroundColor: '#1c2733' };
     const tabBarVisible = true;
-    // const header = null;
-    return { tabBarLabel, tabBarIcon, headerTitle, headerStyle, headerTitleStyle, tabBarVisible };
+    const headerLeft = null;
+    return { tabBarLabel, tabBarIcon, headerTitle, headerLeft, headerStyle, headerTitleStyle, tabBarVisible };
 };
 const Messi = StackNavigator({
     // 将TabNavigator包裹在StackNavigator里面可以保证跳转页面的时候隐藏tabbar

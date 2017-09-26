@@ -43,6 +43,7 @@ class LoginPage extends React.Component {
     }
     login() {
         let { account, password } = this.state;
+        const { navigate } = this.props.navigation;
         if(!account){
             Alert.alert('请输入账号');
             return;
@@ -64,8 +65,8 @@ class LoginPage extends React.Component {
             "password":password
         }).then( res => {
             if(res.type){
-                //此处应该有跳转
-                Alert.alert(res.data);
+                //将账号和token存到本地存储
+                navigate('MyTab',{})
             }else{
                 //此处提示错误信息
                 Alert.alert(res.data);
