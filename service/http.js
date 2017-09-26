@@ -1,6 +1,6 @@
 export default class Http{
     static post(api,paramObj){
-        let url = 'http://127.0.0.1:8010/' + api,
+        let url = 'http://127.0.0.1:8080/' + api,
             body = ((obj)=>{
                 let keyArray = Object.keys(obj),
                     str = keyArray.map((res,index)=>{

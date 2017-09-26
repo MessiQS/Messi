@@ -116,13 +116,14 @@ const TabOptions = (tabBarTitle, normalImage, selectedImage, navTitle) => {
     return { tabBarLabel, tabBarIcon, headerTitle, headerStyle, headerTitleStyle, tabBarVisible };
 };
 const Messi = StackNavigator({
+    // 将TabNavigator包裹在StackNavigator里面可以保证跳转页面的时候隐藏tabbar
     Login:{
 		screen:Login,
 	},
-    // 将TabNavigator包裹在StackNavigator里面可以保证跳转页面的时候隐藏tabbar
     MyTab: {
         screen: MainTab,
     },
+
     // 将需要跳转的页面注册在这里，全局才可以跳转
     Account: {
         screen: Account,

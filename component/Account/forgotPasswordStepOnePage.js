@@ -7,7 +7,7 @@ import {
 } from 'react-native';
 import { TabNavigator, StackNavigator } from "react-navigation";
 import { Button, Container, Content, List, ListItem, Icon, Right, Left, Body, Switch, Form, Item, Input, Text } from 'native-base';
-import accountCheck from '../../service/accountCheck';
+import AccountCheck from '../../service/accountCheck';
 export default class ForgotPasswordStepOnePage extends React.Component {
 
     constructor(props) {
@@ -28,7 +28,7 @@ export default class ForgotPasswordStepOnePage extends React.Component {
     }
 
     nextNaviegate(){
-        if(!accountCheck.isValidPhoneNumber(this.account)){
+        if(!AccountCheck.isValidPhoneNumber(this.account)){
             Alert.alert('请输入正确的手机号码');
             return;
         }

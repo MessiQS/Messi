@@ -8,7 +8,7 @@ import {
 import { TabNavigator, StackNavigator } from "react-navigation";
 import { Button, Container, Content, List, ListItem, Icon, Right, Left, Body, Switch, Form, Item, Input, Text } from 'native-base';
 import Http from '../../service/http';
-import accountCheck from '../../service/accountCheck';
+import AccountCheck from '../../service/accountCheck';
 import MD5 from 'crypto-js/md5';
 
 export default class ForgotPasswordStepThreePage extends React.Component {
@@ -39,10 +39,15 @@ export default class ForgotPasswordStepThreePage extends React.Component {
             Alert.alert('两次输入不一致');
             return;
         }
-        if (!accountCheck.isValidPassword) {
+        if (!AccountCheck.isValidPassword(this.password)) {
             Alert.alert('请输入6-21位字母与数字')
             return;
         }
+        /*  这里要不要发原始密码，待商榷 */
+        /*  
+            商榷结果，只发md5码 
+            时间：2017年09月26日21:32:40
+        */
         let password = MD5(this.password).toString();
         const { params } = this.props.navigation.state;
         Http.post('api/updatepassword', {

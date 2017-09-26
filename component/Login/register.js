@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import {
+    Alert,
     Image,
     View,
     TextInput,
@@ -11,6 +12,7 @@ import { TabNavigator, StackNavigator } from "react-navigation";
 import { Button, Container, Content, List, ListItem, Right, Left, Body, Switch, Form, Item, Input, Text } from 'native-base';
 import stylesContainer, { styles } from './registerCss';
 import Http from '../../service/http';
+import AccountCheck from '../../service/accountCheck';
 import Icon from 'react-native-vector-icons/Ionicons';
 
 class Register extends React.Component {
@@ -19,7 +21,6 @@ class Register extends React.Component {
         this.state = this.state || {};
     }
     _onPressButton() {
-        const passReg = new RegExp(/^(?![0-9]+$)(?![a-zA-Z]+$)[0-9A-Za-z]{6,21}$/);
         let { account, password, phone, vericode } = this.state;
         if (!account) {
             console.log('填写账号');
@@ -31,8 +32,12 @@ class Register extends React.Component {
             console.log('填写验证码')
             return;
         };
-        if(!passReg.test(password)){
-            console.log('请输入6-20位密码，不包含特殊字符');
+        if(!AccountCheck.isValidPhoneNumber(account)){
+            Alert.alert('账号格式错误','请输入11位手机号码');
+            return;
+        }
+        if(!AccountCheck.isValidPassword(password)){
+            Alert.alert('密码格式错误','请输入6-20位密码，不包含特殊字符');
             return;
         }
         Http.post('api/signin', {
