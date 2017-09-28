@@ -27,19 +27,24 @@ export default class ForgotPasswordStepThreePage extends React.Component {
     });
 
     initPassowrd(password) {
-        this.password = password;
+        this.setState({
+            password:password
+        });
     };
 
     checkPassowrd(password) {
-        this.repeatPassword = password;
+        this.setState({
+            repeatPassword:password
+        })
     };
 
     updatePassword() {
-        if (this.repeatPassword !== this.password) {
+        const {repeatPassword,password} = this.state;
+        if (repeatPassword !== password) {
             Alert.alert('两次输入不一致');
             return;
         }
-        if (!AccountCheck.isValidPassword(this.password)) {
+        if (!AccountCheck.isValidPassword(password)) {
             Alert.alert('请输入6-21位字母与数字')
             return;
         }
@@ -48,14 +53,22 @@ export default class ForgotPasswordStepThreePage extends React.Component {
             商榷结果，只发md5码 
             时间：2017年09月26日21:32:40
         */
-        let password = MD5(this.password).toString();
-        const { params } = this.props.navigation.state;
+        let secretPassword = MD5(password).toString();
+        const { navigate,
+                state:{
+                    params
+                } } = this.props.navigation;
         Http.post('api/updatepassword', {
             account: params.account,
-            password: password
+            password: secretPassword
         }).then(res => {
-            console.log(res)
-            //成功后跳转，失败后提示
+            if(res.type){
+            //成功后跳转
+                navigate('Login',{})
+            }else{
+            //失败后提示
+                Alert.alert(res.data);
+            }
         })
     }
     render() {
@@ -79,7 +92,7 @@ export default class ForgotPasswordStepThreePage extends React.Component {
                         ></Input>
                     </Item>
                     <View style={{ height: 38 }}></View>
-                    <Button style={styles.doneButtonStyle} onPress={this.updatePassword}>
+                    <Button style={styles.doneButtonStyle} onPress={this.updatePassword.bind(this)}>
                         <Text style={styles.doneTextStyle}>完成</Text>
                     </Button>
                 </Content>

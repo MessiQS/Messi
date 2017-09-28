@@ -25,7 +25,6 @@ export default class ChangePhoneNumberStepThreePage extends React.Component {
 
     getCode() {
         let { account } = this.props.navigation.state.params;
-        console.log(this.props.navigation)
         if (!account) {
             console.log('请输入账号');
             /*
