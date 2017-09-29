@@ -32,6 +32,7 @@ import ChangePhoneNumberStepThreePage from './Account/changePhoneNumberStepThree
 import ForgotPasswordStepOnePage from './Account/forgotPasswordStepOnePage';
 import ForgotPasswordStepTwoPage from './Account/forgotPasswordStepTwoPage';
 import ForgotPasswordStepThreePage from './Account/forgotPasswordStepThreePage';
+import LaunchPage from '/launchPage';
 
 const bookIcon = require('../Images/book.png');
 const questionIcon = require('../Images/question.png');
@@ -117,13 +118,15 @@ const TabOptions = (tabBarTitle, normalImage, selectedImage, navTitle) => {
 };
 const Messi = StackNavigator({
     // 将TabNavigator包裹在StackNavigator里面可以保证跳转页面的时候隐藏tabbar
+    LaunchPage: {
+        screen: LaunchPage,
+    },
     Login:{
-		screen:Login,
+		screen: Login,
 	},
     MyTab: {
         screen: MainTab,
     },
-
     // 将需要跳转的页面注册在这里，全局才可以跳转
     Account: {
         screen: Account,
