@@ -32,7 +32,7 @@ import ChangePhoneNumberStepThreePage from './Account/changePhoneNumberStepThree
 import ForgotPasswordStepOnePage from './Account/forgotPasswordStepOnePage';
 import ForgotPasswordStepTwoPage from './Account/forgotPasswordStepTwoPage';
 import ForgotPasswordStepThreePage from './Account/forgotPasswordStepThreePage';
-import LaunchPage from '/launchPage';
+import LaunchPage from './launchPage';
 
 const bookIcon = require('../Images/book.png');
 const questionIcon = require('../Images/question.png');

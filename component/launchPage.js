@@ -1,9 +1,11 @@
 import React, { Component } from 'react';
-
+import {
+    View,
+} from 'react-native';
 import { TabNavigator, StackNavigator } from "react-navigation";
 
 
-class LaunchPage extends React.Component {
+ class LaunchPage extends React.Component {
 
     constructor(...props) {
         super();
@@ -12,7 +14,7 @@ class LaunchPage extends React.Component {
 
     componentDidMount() {
 
-        
+
     }
 
     render() {
@@ -21,3 +23,5 @@ class LaunchPage extends React.Component {
         );
     }
 }
+
+export default LaunchPage;
