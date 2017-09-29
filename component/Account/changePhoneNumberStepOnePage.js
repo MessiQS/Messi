@@ -28,7 +28,7 @@ export default class ChangePhoneNumberStepOnePage extends React.Component {
 
     updatePassword(password){
         this.setState({
-            password:password;
+            password:password
         })
     }
     next(){

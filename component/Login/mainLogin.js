@@ -3,8 +3,7 @@ import {
     AppRegistry,
     StyleSheet,
     Text,
-    View,
-    Image
+    View
 } from 'react-native';
 import { TabNavigator, StackNavigator } from "react-navigation";
 import Register from './register';

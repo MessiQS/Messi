@@ -1,2 +1,2 @@
-dependencies: /Users/mk/Desktop/Messi/ios/Messi/main.m \
-  /Users/mk/Desktop/Messi/ios/Messi/AppDelegate.h
+dependencies: /Users/mike/demo/Messi/ios/Messi/main.m \
+  /Users/mike/demo/Messi/ios/Messi/AppDelegate.h

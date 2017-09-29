@@ -20,6 +20,7 @@ class Day extends Component {
     marked: PropTypes.any,
 
     onPress: PropTypes.func,
+    day: PropTypes.object,
 
     markingExists: PropTypes.bool,
   };
@@ -29,6 +30,11 @@ class Day extends Component {
     this.theme = {...defaultStyle, ...(props.theme || {})};
     this.style = styleConstructor(props.theme);
     this.markingStyle = this.getDrawingStyle(props.marked);
+    this.onDayPress = this.onDayPress.bind(this);
+  }
+
+  onDayPress() {
+    this.props.onPress(this.props.day);
   }
 
   shouldComponentUpdate(nextProps) {
@@ -103,6 +109,7 @@ class Day extends Component {
     const textStyle = [this.style.text];
     let leftFillerStyle = {};
     let rightFillerStyle = {};
+    let fillerStyle = {};
     let fillers;
 
     if (this.props.state === 'disabled') {
@@ -153,6 +160,8 @@ class Day extends Component {
       } else if (flags.day) {
         leftFillerStyle = {backgroundColor: flags.day.color};
         rightFillerStyle = {backgroundColor: flags.day.color};
+        // #177 bug
+        fillerStyle = {backgroundColor: flags.day.color};
       } else if (flags.endingDay && flags.startingDay) {
         rightFillerStyle = {
           backgroundColor: this.theme.calendarBackground
@@ -166,7 +175,7 @@ class Day extends Component {
       }
 
       fillers = (
-        <View style={this.style.fillers}>
+        <View style={[this.style.fillers, fillerStyle]}>
           <View style={[this.style.leftFiller, leftFillerStyle]}/>
           <View style={[this.style.rightFiller, rightFillerStyle]}/>
         </View>
@@ -174,7 +183,7 @@ class Day extends Component {
     }
 
     return (
-      <TouchableWithoutFeedback onPress={this.props.onPress}>
+      <TouchableWithoutFeedback onPress={this.onDayPress}>
         <View style={this.style.wrapper}>
           {fillers}
           <View style={containerStyle}>

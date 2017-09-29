@@ -1,14 +1,22 @@
 import {StyleSheet} from 'react-native';
 import * as defaultStyle from '../style';
+import platformStyles from './platform-style';
 
 export default function styleConstructor(theme = {}) {
   const appStyle = {...defaultStyle, ...theme};
+  const { knob, weekdays } = platformStyles(appStyle);
   return StyleSheet.create({
+    knob,
+    weekdays,
+    header: {
+      overflow: 'hidden',
+      justifyContent: 'flex-end',
+      position:'absolute',
+      height:'100%',
+      width:'100%',
+    },
     calendar: {
-      position: 'absolute',
-      top: 0,
-      left: 0,
-      right: 0,
+      flex: 1,
       borderBottomWidth: 1,
       borderColor: appStyle.separatorColor
     },
@@ -20,26 +28,6 @@ export default function styleConstructor(theme = {}) {
       height: 24,
       bottom: 0,
       alignItems: 'center',
-      backgroundColor: appStyle.calendarBackground
-    },
-    knob: {
-      width: 38,
-      height: 7,
-      marginTop: 10,
-      borderRadius: 3,
-      backgroundColor: '#f2F4f5'
-    },
-    weekdays: {
-      position: 'absolute',
-      left: 0,
-      right: 0,
-      top: 0,
-      flexDirection: 'row',
-      justifyContent: 'space-around',
-      marginLeft: 15,
-      marginRight: 15,
-      paddingTop: 15,
-      paddingBottom: 7,
       backgroundColor: appStyle.calendarBackground
     },
     weekday: {

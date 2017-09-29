@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import {
     Alert,
-    Image,
     View,
     TextInput,
     TouchableOpacity,
@@ -118,7 +117,6 @@ class Register extends React.Component {
                             style={styles.icon}
                         />
                     </View>
-                    <Image></Image>
                     <Input placeholder="请输入验证码" onChangeText={variCode => this.codeChange(variCode)}></Input>
                     <Button style={styles.vertificationCodeButton} onPress={this.getCode.bind(this)}>
                         <Text style={styles.vertificationCodeText} >获取验证码</Text>

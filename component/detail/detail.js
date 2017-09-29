@@ -7,7 +7,6 @@
 import React, { Component } from 'react';
 import {
     StyleSheet,
-    Image,
     Text,
     View
 } from 'react-native';

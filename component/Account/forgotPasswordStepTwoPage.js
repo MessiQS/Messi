@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import {
     StyleSheet,
     Alert,
-    Image,
     View,
 } from 'react-native';
 import { TabNavigator, StackNavigator } from "react-navigation";
