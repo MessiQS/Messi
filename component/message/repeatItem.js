@@ -40,10 +40,12 @@ export default class RepeatItem extends Component {
                         style={nativeStyle.listItem}
                         key={value.key}
                     >
-                        <Text style={styles.text}>{value.name} {value.haveRead}/{value.number}</Text>
+                        <Body>
+                            <Text style={styles.text}>{value.name} {value.haveRead}/{value.number}</Text>
+                        </Body>
                         <Right>
                             <Button bordered danger small style={nativeStyle.button}>
-                                <Text style={styles.buttonText}>购买</Text>
+                            <Text style={styles.buttonText}>购买</Text>
                             </Button>
                             {/* <Text style={styles.tips}>app内购买</Text> */}
                         </Right>

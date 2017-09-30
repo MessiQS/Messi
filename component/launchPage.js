@@ -14,7 +14,8 @@ import { TabNavigator, StackNavigator } from "react-navigation";
 
     componentDidMount() {
 
-
+        const { navigate } = this.props.navigation;
+        navigate('MyTab', { name: 'MainTab' })
     }
 
     render() {
