@@ -42,7 +42,9 @@ class MineListItem extends Component {
                 )}
                 style={{ borderTopColor: '#dcdcdc', borderTopWidth: this.props.item.tipBorder }}
             >
-                <Text>{this.props.item.name}</Text>
+                <Body>
+                    <Text>{this.props.item.name}</Text>
+                </Body>
                 <Right style={{ height: 20 }}>
                     <Icon name="arrow-forward" />
                 </Right>

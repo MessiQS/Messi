@@ -28,7 +28,6 @@ import ModalDropdown from 'react-native-modal-dropdown';
 import styles , { nativeStyle } from './messageCss';
 import RepeatItem from './repeatItem';
 
-
 export default class Message extends Component {
     constructor(props) {
         super(props);
@@ -80,7 +79,7 @@ export default class Message extends Component {
                 haveRead:200,
                 number:1000,
                 isBuyed:false,
-                key:1,
+                key:10,
                 call:this.buyCallback
             },
             {name:'刷题1',
