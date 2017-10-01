@@ -13,6 +13,7 @@ import Http from '../../service/http';
 import MD5 from 'crypto-js/md5';
 import Icon from 'react-native-vector-icons/Ionicons';
 import AccountCheck from '../../service/accountCheck';
+import Storage from '../../service/storage';
 
 
 class LoginPage extends React.Component {
@@ -43,32 +44,40 @@ class LoginPage extends React.Component {
     login() {
         let { account, password } = this.state;
         const { navigate } = this.props.navigation;
-        if(!account){
+        if (!account) {
             Alert.alert('请输入账号');
             return;
-        }else if(!password){
+        } else if (!password) {
             Alert.alert('请输入密码');
             return;
         };
-        if(!AccountCheck.isValidPhoneNumber(account)){
-            Alert.alert('账号格式错误','请输入11位手机号码');
+        if (!AccountCheck.isValidPhoneNumber(account)) {
+            Alert.alert('账号格式错误', '请输入11位手机号码');
             return;
         }
-        if(!AccountCheck.isValidPassword(password)){
-            Alert.alert('密码格式错误','请输入6-20位密码，不包含特殊字符');
+        if (!AccountCheck.isValidPassword(password)) {
+            Alert.alert('密码格式错误', '请输入6-20位密码，不包含特殊字符');
             return;
         };
         password = MD5(password).toString();
-        Http.post('api/login',{
-            "account":account,
-            "password":password
-        }).then( res => {
-            if(res.type){
+        Http.post('api/login', {
+            "account": account,
+            "password": password
+        }).then(({ type, data, token }) => {
+            if (type) {
                 //将账号和token存到本地存储
-                navigate('MyTab',{})
-            }else{
+                let setToken = Storage.multiSet([
+                                                ['accountToken',token],
+                                                ['account',account]
+                                            ]);
+                setToken.then( res => {
+                    navigate('MyTab',{})
+                },err => {
+                    Alert('登录错误，请重试')
+                })
+            } else {
                 //此处提示错误信息
-                Alert.alert(res.data);
+                Alert.alert(data);
             }
         })
     };
@@ -77,12 +86,12 @@ class LoginPage extends React.Component {
         const { navigate } = this.props.navigation;
         return (
             <View style={styles.container}>
-                 <Item style={styles.item}>
+                <Item style={styles.item}>
                     <View style={styles.iconViewStyle}>
                         <Icon name="ios-phone-portrait-outline"
-                        style={styles.icon}
-                    />
-                     </View>
+                            style={styles.icon}
+                        />
+                    </View>
                     <Input placeholder="请输入您的电话号码" onChangeText={account => this.phoneChange(account)}></Input>
                 </Item>
                 <Item style={styles.item}>
@@ -132,13 +141,13 @@ var styles = {
     iconViewStyle: {
         marginRight: 5,
         marginLeft: 10,
-        width:23,
+        width: 23,
         flexDirection: 'row',
         justifyContent: 'center',
         alignItems: 'center',
     },
     icon: {
-        fontSize:23,
+        fontSize: 23,
         opacity: 0.7,
     },
     forgotButtonView: {

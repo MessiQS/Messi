@@ -1,40 +1,53 @@
-import { AsyncStorage ,Alert} from 'react-native';
+import { AsyncStorage, Alert } from 'react-native';
 export default class Storage {
-    static async getItem(key) {
+    static getItem(key) {
         if (!key) {
             Alert.alert('没有key');
             return;
         }
-        try{
-            let value = await AsyncStorage.getItem(key);
-            return value;
-        }catch(error){
+        try {
+            return AsyncStorage.getItem(key);
+        } catch (error) {
             Alert.alert(error)
         }
 
     }
-    static async setItem(key,value) {
+    static setItem({ key, value }) {
         if (!key) {
             Alert.alert('没有key');
             return;
         }
-        try{
-            let value = await AsyncStorage.setItem(key,value);
-            return true;
-        }catch(error){
+        try {
+            return AsyncStorage.setItem(key, value);
+        } catch (error) {
             return false;
             Alert.alert(error)
         }
     }
-    static async removeItem(key) {
+    static multiSet(argu){
+        try {
+            return AsyncStorage.multiSet(argu);
+        } catch (error) {
+            return false;
+            Alert.alert(error)
+        }
+    }
+    
+    static multiGet(argu){
+        try{
+            return AsyncStorage.multiGet(argu);
+        }catch(error){
+            return false;
+        }
+    }
+    static removeItem(key) {
         if (!key) {
             Alert.alert('没有key');
             return;
         }
-        try{
-            let value = await AsyncStorage.removeItem(key);
-            return true;
-        }catch(error){
+        try {
+            return AsyncStorage.removeItem(key);
+        } catch (error) {
             return false;
             Alert.alert(error)
         }

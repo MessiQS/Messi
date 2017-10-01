@@ -9,11 +9,15 @@ import {
 import Button from 'apsl-react-native-button';
 import { TabNavigator, StackNavigator } from "react-navigation";
 import Register from './register';
+import Storage from '../../service/storage';
 
 export default class Login extends Component {
 
 	constructor(props) {
 		super(props);
+		Storage.multiGet(['accountToken','account']).then( res => {
+			console.log(JSON.stringify(res))
+		})
 	}
 
 	static navigationOptions = {
